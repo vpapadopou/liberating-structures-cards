@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="220.96"
-     inkscape:cy="164.40579"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="85.776736"
+     inkscape:cy="314.63131"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer6"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -184,7 +184,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -287,15 +287,14 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Logo"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 40.748032,31.889763 0,31.88976 53.149606,0 0,-31.88976 z"
        id="path4213"
        inkscape:connector-curvature="0" />
     <g
-       transform="matrix(0.9355872,0,0,0.93558728,-70.327795,28.149592)"
+       transform="matrix(1.4208404,0,0,1.4208406,-127.93857,17.939709)"
        inkscape:label="wickedquestions"
        id="layer12">
       <g
