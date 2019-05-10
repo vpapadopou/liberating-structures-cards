@@ -28,10 +28,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="136.55484"
+     inkscape:cx="35.792126"
      inkscape:cy="193.87225"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer8"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -184,7 +184,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -206,10 +206,11 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Top Separator"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464574999999996;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1"
        d="m 42.883734,21.259066 c -7.071438,0 -12.765624,6.544709 -12.765624,14.673828 l 0,38.476559 201.96874,0 0,-38.476559 c 0,-8.129119 -5.69224,-14.673828 -12.76367,-14.673828 l -176.439446,0 z"
        id="rect4195-3" />
   </g>
@@ -219,7 +220,7 @@
      inkscape:label="Separator"
      style="display:inline">
     <rect
-       style="display:inline;fill:#149a75;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;fill:#71c837;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4178"
        width="134.64568"
        height="17.716536"
