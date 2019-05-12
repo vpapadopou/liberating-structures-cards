@@ -28,10 +28,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="-19.085556"
-     inkscape:cy="196.26637"
+     inkscape:cx="174.52425"
+     inkscape:cy="145.61796"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer4"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -511,32 +511,31 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Body Right"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        sodipodi:linespacing="125%"
        id="text4227"
        y="122.74852"
-       x="195.42134"
+       x="200.49702"
        style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a"
          y="122.74852"
-         x="195.42134"
+         x="200.49702"
          id="tspan4229"
-         sodipodi:role="line">20 min</tspan></text>
+         sodipodi:role="line">5 min</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4231"
-       y="177.32204"
-       x="195.42134"
+       y="166.57204"
+       x="200.49702"
        style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a"
-         y="177.32204"
-         x="195.42134"
+         y="166.57204"
+         x="200.49702"
          id="tspan4233"
-         sodipodi:role="line">15 min</tspan></text>
+         sodipodi:role="line">5 min</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 194.88189,102.7559 0,237.40158 26.5748,0 0,-237.40158 z"
@@ -546,14 +545,14 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="195.42134"
-       y="231.9926"
+       y="199.2426"
        id="text4424"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4426"
          x="195.42134"
-         y="231.9926"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">15 min</tspan></text>
+         y="199.2426"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">20 min</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4428"
@@ -565,7 +564,19 @@
          y="264.76987"
          x="195.42134"
          id="tspan4430"
-         sodipodi:role="line">10 min</tspan></text>
+         sodipodi:role="line">15 min</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="195.42134"
+       y="297.49265"
+       id="text4240"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4242"
+         x="195.42134"
+         y="297.49265"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">10 min</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
