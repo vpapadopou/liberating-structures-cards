@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="-5.751"
-     inkscape:cy="170.39114"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="24.329536"
+     inkscape:cy="211.57946"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer8"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -40,10 +40,10 @@
      inkscape:object-nodes="true"
      inkscape:snap-page="true"
      inkscape:snap-grids="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-width="1280"
+     inkscape:window-height="657"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-others="false"
      inkscape:snap-nodes="true">
@@ -305,7 +305,7 @@
          id="tspan4195"
          x="184.26759"
          y="137.39589"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">42 min</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">45 min</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -327,7 +327,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Body"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 40.748032,152.3622 0,187.79528 180.708658,0 0,-187.79528 z"
