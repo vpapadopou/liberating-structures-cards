@@ -10,6 +10,7 @@ Please select the appropriate PDF file according to the paper size your printer 
 
 
 [A4 Paper Size](print/print-a4.pdf)
+
 [US Letter Paper Size](print/print-us-letter.pdf)
 
 
