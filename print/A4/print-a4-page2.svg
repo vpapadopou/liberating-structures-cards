@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="375"
-     inkscape:cy="520"
+     inkscape:cx="579.49897"
+     inkscape:cy="292.95444"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1641,31 +1641,31 @@
     </g>
     <g
        style="enable-background:new"
-       id="g6177"
+       id="g3862"
        transform="translate(522.99213,669.33069)">
       <g
          style="display:inline"
          transform="translate(0,-680.31496)"
-         id="layer1-9"
+         id="layer1-08"
          inkscape:label="Cut line">
         <path
            transform="translate(4.3385302e-7,8.6660179e-6)"
            inkscape:connector-curvature="0"
-           id="path3350-02"
+           id="path3350-32"
            d="m 19.488189,690.94488 0,350.78742 223.228341,0 0,-350.78742 z"
            style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
       <g
          style="display:inline"
          inkscape:label="Logo"
-         id="layer6-0">
+         id="layer6-11">
         <path
            inkscape:connector-curvature="0"
-           id="path4275-22"
+           id="path4275-9"
            d="m 40.748032,31.889763 0,81.496057 53.149606,0 0,-81.496057 -53.149606,0"
            style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <g
-           id="layer5-3-2"
+           id="layer5-3-0"
            inkscape:label="15percentsolution"
            transform="matrix(2.0501153,0,0,2.0501154,-105.13915,-266.60627)">
           <g
@@ -1710,42 +1710,42 @@
       <g
          style="display:inline"
          inkscape:label="Title"
-         id="layer9-1">
+         id="layer9-22">
         <path
            inkscape:connector-curvature="0"
-           id="path4349-2"
+           id="path4349-1"
            d="m 109.84252,113.38582 111.61417,0 0,-81.496057 -111.61417,0 z"
            style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <flowRoot
            transform="translate(0,15.011209)"
-           id="flowRoot4357-3"
+           id="flowRoot4357-0"
            style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><flowRegion
-             id="flowRegion4359-1"><use
+             id="flowRegion4359-7"><use
                height="100%"
                width="100%"
-               id="use4361-95"
-               xlink:href="#path4349-2"
+               id="use4361-3"
+               xlink:href="#path4349-1"
                y="0"
                x="0" /></flowRegion><flowPara
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
-             id="flowPara4363-7">15% Solutions</flowPara><flowPara
+             id="flowPara4363-1">15% Solutions</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;text-align:end;letter-spacing:0px;text-anchor:end;fill:#1a1a1a"
-             id="flowPara4365-7">Discover &amp; focus on what each person has the freedom and resources to do now</flowPara></flowRoot>      </g>
+             id="flowPara4365-6">Discover &amp; focus on what each person has the freedom and resources to do now</flowPara></flowRoot>      </g>
       <g
          style="display:inline"
          inkscape:label="Separator"
-         id="layer8-1">
+         id="layer8-5">
         <rect
            y="124.01575"
            x="30.118111"
            height="17.716536"
            width="134.64568"
-           id="rect4178-8"
+           id="rect4178-61"
            style="display:inline;fill:#71c837;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
            sodipodi:linespacing="125%"
-           id="text4180-01"
+           id="text4180-04"
            y="137.46776"
            x="39.935043"
            style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1753,18 +1753,18 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff"
              y="137.46776"
              x="39.935043"
-             id="tspan4182-82"
+             id="tspan4182-83"
              sodipodi:role="line">Reveal</tspan></text>
         <rect
            style="display:inline;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect4191-75"
+           id="rect4191-56"
            width="67.322838"
            height="17.716536"
            x="164.76379"
            y="124.01575" />
         <text
            sodipodi:linespacing="125%"
-           id="text4193-73"
+           id="text4193-2"
            y="137.39589"
            x="184.26759"
            style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1772,13 +1772,13 @@
              style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a"
              y="137.39589"
              x="184.26759"
-             id="tspan4195-90"
-             sodipodi:role="line">45 min</tspan></text>
+             id="tspan4195-27"
+             sodipodi:role="line">20 min</tspan></text>
       </g>
       <g
          style="display:inline"
          inkscape:label="Border"
-         id="layer5-18">
+         id="layer5-0">
         <rect
            rx="12.76433"
            ry="14.6735"
@@ -1786,16 +1786,16 @@
            x="30.118111"
            height="329.52756"
            width="201.96851"
-           id="rect4187-3"
+           id="rect4187-1"
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
       <g
          style="display:inline"
          inkscape:label="Body"
-         id="layer4-2">
+         id="layer4-59">
         <path
            inkscape:connector-curvature="0"
-           id="path4305-8"
+           id="path4305-7"
            d="m 40.748032,152.3622 0,187.79528 180.708658,0 0,-187.79528 z"
            style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <text
@@ -1807,23 +1807,23 @@
            xml:space="preserve"><tspan
              y="184.31039"
              x="-63.63961"
-             id="tspan4309-50"
+             id="tspan4309-43"
              sodipodi:role="line" /></text>
         <flowRoot
            transform="matrix(1,0,0,1.0068578,-0.17251487,-4.5759283)"
-           id="flowRoot4319-7"
+           id="flowRoot4319-3"
            style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><flowRegion
              id="flowRegion4321-9"><use
                transform="matrix(1,0,0,0.99318888,0.17251487,4.5447611)"
                height="100%"
                width="100%"
-               id="use4323-9"
-               xlink:href="#path4305-8"
+               id="use4323-4"
+               xlink:href="#path4305-7"
                y="0"
                x="0" /></flowRegion><flowPara
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.72015095px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1"
-             id="flowPara4325-23">Invitation</flowPara><flowPara
+             id="flowPara4325-7">Invitation</flowPara><flowPara
              id="flowPara4268"
              style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015095px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1">In connection with their personal challenge or their group’s challenge, ask: </flowPara><flowPara
              id="flowPara4272"
@@ -1834,22 +1834,22 @@
              style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015095px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1">- “What can you do without more resources or authority?”</flowPara><flowPara
              id="flowPara4200-7"
              style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015095px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1" /><flowPara
-             id="flowPara4212-5"
+             id="flowPara4212-8"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.72015095px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">People</flowPara><flowPara
-             id="flowPara4413-58"
+             id="flowPara4413-57"
              style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015095px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1">Start alone, then groups of 2 to 4 people</flowPara><flowPara
-             id="flowPara4214-6"
+             id="flowPara4214-5"
              style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015095px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1" /><flowPara
-             id="flowPara4202-0"
+             id="flowPara4202-7"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.72015095px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Space &amp; Materials</flowPara><flowPara
-             id="flowPara4201-1"
+             id="flowPara4201-3"
              style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015095px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1">Chairs for people to sit in groups</flowPara><flowPara
-             id="flowPara4206-1"
+             id="flowPara4206-5"
              style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015095px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1" /></flowRoot>      </g>
     </g>
     <g
        style="enable-background:new"
-       id="g6317"
+       id="g4002"
        transform="translate(778.11024,669.33069)">
       <g
          style="display:inline"
@@ -1859,16 +1859,16 @@
         <path
            transform="translate(4.3385302e-7,8.6660179e-6)"
            inkscape:connector-curvature="0"
-           id="path3350-1"
+           id="path3350-84"
            d="m 19.488189,690.94488 0,350.78742 223.228341,0 0,-350.78742 z"
            style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
       <g
          style="display:inline"
          inkscape:label="Top Separator"
-         id="layer2-5">
+         id="layer2-18">
         <path
-           id="rect4195-3-04"
+           id="rect4195-3-60"
            d="m 42.883734,21.259066 c -7.071438,0 -12.765624,6.544709 -12.765624,14.673828 l 0,38.476559 201.96874,0 0,-38.476559 c 0,-8.129119 -5.69224,-14.673828 -12.76367,-14.673828 l -176.439446,0 z"
            style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1"
            inkscape:connector-curvature="0" />
@@ -1876,17 +1876,17 @@
       <g
          style="display:inline"
          inkscape:label="Separator"
-         id="layer8-8">
+         id="layer8-00">
         <rect
            y="74.409447"
            x="30.118084"
            height="17.716536"
            width="134.64568"
-           id="rect4178-2"
+           id="rect4178-13"
            style="display:inline;fill:#71c837;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
            sodipodi:linespacing="125%"
-           id="text4180-59"
+           id="text4180-2"
            y="87.861458"
            x="39.935017"
            style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1894,18 +1894,18 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff"
              y="87.861458"
              x="39.935017"
-             id="tspan4182-64"
+             id="tspan4182-88"
              sodipodi:role="line">Reveal</tspan></text>
         <rect
            style="display:inline;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect4191-57"
+           id="rect4191-1"
            width="67.322838"
            height="17.716536"
            x="164.76376"
            y="74.409447" />
         <text
            sodipodi:linespacing="125%"
-           id="text4193-76"
+           id="text4193-63"
            y="87.789589"
            x="184.26756"
            style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1913,46 +1913,46 @@
              style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a"
              y="87.789589"
              x="184.26756"
-             id="tspan4195-4"
-             sodipodi:role="line">45 min</tspan></text>
+             id="tspan4195-16"
+             sodipodi:role="line">20 min</tspan></text>
       </g>
       <g
          inkscape:label="Title"
-         id="layer7-8">
+         id="layer7-5">
         <path
            inkscape:connector-curvature="0"
-           id="path4300-1"
+           id="path4300-2"
            d="m 99.212598,31.889763 0,31.88976 122.244092,0 0,-31.88976 z"
            style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <flowRoot
            transform="translate(0,6.8272536)"
-           id="flowRoot4271-8"
+           id="flowRoot4271-5"
            style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><flowRegion
-             id="flowRegion4273-6"><use
+             id="flowRegion4273-78"><use
                height="100%"
                width="100%"
-               id="use4275-8"
-               xlink:href="#path4300-1"
+               id="use4275-6"
+               xlink:href="#path4300-2"
                y="0"
                x="0" /></flowRegion><flowPara
-             id="flowPara4277-4"
+             id="flowPara4277-33"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end">15% Solutions</flowPara></flowRoot>      </g>
       <g
          style="display:inline"
          inkscape:label="Logo"
-         id="layer6-10">
+         id="layer6-36">
         <path
            inkscape:connector-curvature="0"
-           id="path4213-5"
+           id="path4213-03"
            d="m 40.748032,31.889763 0,31.88976 53.149606,0 0,-31.88976 z"
            style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <g
-           id="layer5-3-8"
+           id="layer5-3-4"
            inkscape:label="15percentsolution"
            transform="matrix(1.6455676,0,0,1.6455677,-76.35134,-224.46665)">
           <g
-             id="g903-7">
+             id="g903-2">
             <path
                sodipodi:nodetypes="cccsc"
                inkscape:connector-curvature="0"
@@ -1961,13 +1961,13 @@
                style="fill:#000014;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
             <path
                inkscape:connector-curvature="0"
-               id="path874-6"
+               id="path874-9"
                d="m 75.202962,164.18829 1.620321,-0.50113 2.071339,7.16616 -1.486686,0.46772 z"
                style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
             <path
                sodipodi:nodetypes="ccccccaaaccsaasc"
                inkscape:connector-curvature="0"
-               id="path876-0"
+               id="path876-1"
                d="m 80.815623,165.54134 -0.400904,-1.23612 2.221677,-0.68488 -0.451017,-1.48669 -3.741774,1.1526 1.269531,4.02575 c 0,0 0.983374,-0.50149 1.486686,-0.40091 0.455425,0.091 1.01164,0.39647 1.102487,0.85193 0.09659,0.48427 -0.300367,1.05182 -0.734991,1.28623 -0.549959,0.29661 -1.870887,-0.11693 -1.870887,-0.11693 l 0.467722,1.43657 c 0,0 1.065642,0.11059 1.837478,-0.16704 0.950288,-0.34181 1.435434,-0.64209 1.787364,-1.28624 0.302096,-0.55294 0.303791,-1.2913 0.100227,-1.88759 -0.205364,-0.60157 -0.684439,-1.14423 -1.244473,-1.44492 -0.718482,-0.38577 -1.829126,-0.0418 -1.829126,-0.0418 z"
                style="fill:#f0ffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <circle
@@ -1980,11 +1980,11 @@
                r="0.97920638"
                cy="164.15488"
                cx="88.098717"
-               id="path878-5-5"
+               id="path878-5-1"
                style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <path
                inkscape:connector-curvature="0"
-               id="path895-4"
+               id="path895-8"
                d="m 85.19216,166.14269 2.121453,-6.09708"
                style="fill:none;stroke:#ffffff;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           </g>
@@ -1993,7 +1993,7 @@
       <g
          style="display:inline"
          inkscape:label="Border"
-         id="layer5-9">
+         id="layer5-87">
         <rect
            rx="12.76433"
            ry="14.6735"
@@ -2001,80 +2001,80 @@
            x="30.118111"
            height="329.52756"
            width="201.96851"
-           id="rect4187-66"
+           id="rect4187-0"
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
       <g
          style="display:inline"
          inkscape:label="Body"
-         id="layer9-12">
+         id="layer9-09">
         <text
            sodipodi:linespacing="125%"
-           id="text6165-55"
+           id="text6165-10"
            y="132.6916"
            x="-62.225395"
            style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
              y="132.6916"
              x="-62.225395"
-             id="tspan6167-04"
+             id="tspan6167-8"
              sodipodi:role="line" /></text>
         <path
            inkscape:connector-curvature="0"
-           id="path4245-7"
+           id="path4245-6"
            d="m 40.748032,102.7559 0,237.40158 143.503928,0 0,-237.40158 -143.503928,0"
            style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <flowRoot
-           id="flowRoot4251-0"
+           id="flowRoot4251-2"
            style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><flowRegion
-             id="flowRegion4253-49"><use
+             id="flowRegion4253-42"><use
                height="100%"
                width="100%"
-               id="use4255-6"
-               xlink:href="#path4245-7"
+               id="use4255-31"
+               xlink:href="#path4245-6"
                y="0"
                x="0" /></flowRegion><flowPara
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1"
-             id="flowPara4257-7">Steps</flowPara><flowPara
+             id="flowPara4257-2">Steps</flowPara><flowPara
              id="flowPara4344-7"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1">First alone, each person generates their own list of 15% Solutions</flowPara><flowPara
-             id="flowPara4322-84"
+             id="flowPara4322-68"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1" /><flowPara
              id="flowPara4330"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1">Individuals share their ideas with a small group, one person at a time</flowPara><flowPara
              id="flowPara4334"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1">(3 min per person)</flowPara><flowPara
-             id="flowPara4326-8"
+             id="flowPara4326-5"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1" /><flowPara
              id="flowPara4328"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1">Group members provide consultation to one another (asking clarifying questions and offering advice), one person at a time</flowPara><flowPara
-             id="flowPara4340-2"
+             id="flowPara4340-3"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1">(5-7 min per person)</flowPara></flowRoot>        <text
            sodipodi:linespacing="125%"
-           id="text4267-9"
+           id="text4267-72"
            y="183.54724"
            x="93.897636"
            style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
              y="183.54724"
              x="93.897636"
-             id="tspan4269-6"
+             id="tspan4269-43"
              sodipodi:role="line" /></text>
       </g>
       <g
          style="display:inline"
          inkscape:label="Body Right"
-         id="layer4-6">
+         id="layer4-2">
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="200.49702"
            y="122.74852"
-           id="text4227-0"
+           id="text4227-40"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
-             id="tspan4229-0"
+             id="tspan4229-8"
              x="200.49702"
              y="122.74852"
              style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">5 min</tspan></text>
@@ -2083,21 +2083,21 @@
            style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="195.42134"
            y="155.41043"
-           id="text4231-7"
+           id="text4231-86"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
-             id="tspan4233-8"
+             id="tspan4233-4"
              x="195.42134"
              y="155.41043"
              style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">12 min</tspan></text>
         <path
            inkscape:connector-curvature="0"
-           id="path4239-4"
+           id="path4239-7"
            d="m 194.88189,102.7559 0,237.40158 26.5748,0 0,-237.40158 z"
            style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <text
            sodipodi:linespacing="125%"
-           id="text4424-8"
+           id="text4424-75"
            y="199.2426"
            x="195.42134"
            style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2105,7 +2105,7 @@
              style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a"
              y="199.2426"
              x="195.42134"
-             id="tspan4426-4"
+             id="tspan4426-0"
              sodipodi:role="line">28 min</tspan></text>
       </g>
       <g
@@ -2119,41 +2119,41 @@
            style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <flowRoot
            transform="translate(0,-13.08487)"
-           id="flowRoot4351-8"
+           id="flowRoot4351-9"
            style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><flowRegion
-             id="flowRegion4353-9"><use
+             id="flowRegion4353-5"><use
                height="100%"
                width="100%"
-               id="use4355-3"
+               id="use4355-4"
                xlink:href="#path4343-3"
                y="0"
                x="0" /></flowRegion><flowPara
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1"
-             id="flowPara4357-8">String With</flowPara><flowPara
+             id="flowPara4357-4">String With</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-             id="flowPara4359-59">Troika Consulting, Wise Crowds, Open Space Technology, Integrated~Autonomy, Helping Heuristics</flowPara></flowRoot>        <text
+             id="flowPara4359-8">Troika Consulting, Wise Crowds, Open Space Technology, Integrated~Autonomy, Helping Heuristics</flowPara></flowRoot>        <text
            sodipodi:linespacing="125%"
-           id="text4392-2"
+           id="text4392-0"
            y="187.13882"
            x="-129.40054"
            style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
              y="187.13882"
              x="-129.40054"
-             id="tspan4394-7"
+             id="tspan4394-83"
              sodipodi:role="line" /></text>
       </g>
       <text
          sodipodi:linespacing="125%"
-         id="text4321-87"
+         id="text4321-30"
          y="257.1424"
          x="293.09576"
          style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="257.1424"
            x="293.09576"
-           id="tspan4323-6"
+           id="tspan4323-02"
            sodipodi:role="line" /></text>
     </g>
   </g>
