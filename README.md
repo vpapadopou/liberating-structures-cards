@@ -4,6 +4,8 @@ A print-at-home card deck for Liberating Structures.
 
 Inspired by Holisticon's card deck it can help you create strings easily or act as a quick reminder of each format.
 
+Current version: 1.0
+
 ## Instructions
 
 Please select the appropriate PDF file according to the paper size your printer uses:
