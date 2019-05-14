@@ -21,7 +21,7 @@ Please select the appropriate PDF file according to the paper size your printer 
 
 Use 160gsm paper for best experience. If you can't normal 80gsm paper should work just fine
 
-Normally you should **turn off** any "Fit to Page" option when printing to print the cards in the intended size. If however that does not work for you (maybe part of the card is trimmed), you should be able to select "Fit to Page" and print the cards without problems. They will be a bit smaller, but that should not affect the overall experience.
+Normally you should **turn off** any "Fit to Page" option and select "Actual Size" when printing to print the cards in the intended size. If however that does not work for you (maybe part of the card is trimmed), you should be able to select "Fit to Page" and print the cards without problems. They will be a bit smaller, but that should not affect the overall experience.
 
 
 ## Attribution
