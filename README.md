@@ -38,11 +38,19 @@ The original LS Cards were created by Holisticon AG
 
 Link: [https://holisticon.de](https://holisticon.de)
 
+Original card deck: [amazon.de](https://www.amazon.de/Holisticon-Liberating-Structures-Design-Cards/dp/B077L6SPKR)
+
 
 
 Liberating Structures SVG icons were created by Julian Fastnacht
 
 Link: [https://github.com/jfastnacht](https://github.com/jfastnacht)
+
+
+
+**Note**
+
+Liberating Structures categories were developed by Keith McCandless & Henri Lipmanowicz and enhanced by Holisticon AG
 
 
 
