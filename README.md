@@ -50,7 +50,7 @@ Link: [https://github.com/jfastnacht](https://github.com/jfastnacht)
 
 **Note**
 
-Liberating Structures categories were developed by Keith McCandless & Henri Lipmanowicz and enhanced by Holisticon AG
+Liberating Structures categories were developed by Keith McCandless & Henri Lipmanowicz and enhanced by Holisticon
 
 
 
