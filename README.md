@@ -4,6 +4,8 @@ A print-at-home card deck for Liberating Structures.
 
 Inspired by Holisticon's card deck it can help you create strings easily or act as a quick reminder of each format.
 
+![Liberating Structures Card Deck](https://github.com/vpapadopou/liberating-structures-cards/blob/master/screenshots/liberating-structures-cards-all.JPG)
+
 Current version: 1.0
 
 ## Instructions
