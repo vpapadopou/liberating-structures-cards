@@ -6,7 +6,7 @@ Inspired by Holisticon's card deck it can help you create strings easily or act 
 
 ![Liberating Structures Card Deck](https://github.com/vpapadopou/liberating-structures-cards/blob/master/screenshots/liberating-structures-cards-all.JPG)
 
-Current version: 1.0
+Current version: 1.1
 
 ## Instructions
 
