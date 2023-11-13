@@ -6,6 +6,10 @@ Inspired by Holisticon's card deck it can help you create strings easily or act 
 
 ![Liberating Structures Card Deck](screenshots/liberating-structures-cards-all.JPG)
 
+Forked from https://github.com/vpapadopou/liberating-structures-cards
+
+French version and prepare i18n tools
+
 Current version: 1.1
 
 ## Instructions
