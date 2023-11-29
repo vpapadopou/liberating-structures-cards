@@ -5,7 +5,7 @@
    viewBox="0 0 262.20472 372.04724"
    id="svg2"
    version="1.1"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
    sodipodi:docname="discovery-and-action-dialog-back.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -29,8 +29,8 @@
      inkscape:cx="147.24999"
      inkscape:cy="196.24999"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
-     showgrid="true"
+     inkscape:current-layer="layer7"
+     showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="false"
@@ -213,7 +213,7 @@
        dotted="false"
        gridanglex="30"
        gridanglez="30"
-       visible="true" />
+       visible="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -380,17 +380,6 @@
      id="layer9"
      inkscape:label="Body"
      style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-62.225395"
-       y="132.6916"
-       id="text6165"><tspan
-         sodipodi:role="line"
-         id="tspan6167"
-         x="-62.225395"
-         y="132.6916"
-         style="font-size:12.5px;line-height:1.25"> </tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.472679px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 33.716782,96.1934 v 45.2141 H 202.06446 V 96.1934 H 33.716782"
@@ -411,17 +400,6 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Invitation et étapes</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4672">Indiquer l'objectif de l'initiative discutée et du DAD et inviter à un bref tour de table.</flowPara></flowRoot>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="93.897636"
-       y="183.54724"
-       id="text4267"><tspan
-         sodipodi:role="line"
-         id="tspan4269"
-         x="93.897636"
-         y="183.54724"
-         style="font-size:8.75px;line-height:1.25"> </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -488,17 +466,6 @@
      id="layer10"
      inkscape:label="Questions"
      style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-129.40054"
-       y="187.13882"
-       id="text4392"><tspan
-         sodipodi:role="line"
-         id="tspan4394"
-         x="-129.40054"
-         y="187.13882"
-         style="font-size:8.75px;line-height:1.25"> </tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 34.185532,122.54724 V 340.15748 H 221.45669 V 122.54724 Z"
@@ -533,15 +500,4 @@
          id="flowPara4648"
          style="font-size:8.75px;line-height:155%">7. Qui d'autre doit être impliqué ?</flowPara></flowRoot>
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="293.09576"
-     y="257.1424"
-     id="text4321"><tspan
-       sodipodi:role="line"
-       id="tspan4323"
-       x="293.09576"
-       y="257.1424"
-       style="font-size:8.75px;line-height:1.25"> </tspan></text>
 </svg>

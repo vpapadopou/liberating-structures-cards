@@ -5,7 +5,7 @@
    viewBox="0 0 262.20472 372.04724"
    id="svg2"
    version="1.1"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
    sodipodi:docname="what-i-need-from-you-back.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -29,8 +29,8 @@
      inkscape:cx="108.25"
      inkscape:cy="197.25"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer7"
-     showgrid="true"
+     inkscape:current-layer="layer9"
+     showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="false"
@@ -213,7 +213,7 @@
        dotted="false"
        gridanglex="30"
        gridanglez="30"
-       visible="true" />
+       visible="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -373,17 +373,6 @@
      id="layer9"
      inkscape:label="Body"
      sodipodi:insensitive="true">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-62.225395"
-       y="132.6916"
-       id="text6165"><tspan
-         sodipodi:role="line"
-         id="tspan6167"
-         x="-62.225395"
-         y="132.6916"
-         style="font-size:12.5px;line-height:1.25"> </tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.07254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 35.123032,99.0059 V 346.25123 H 193.62696 V 99.0059 H 35.123032"
@@ -435,17 +424,6 @@
          id="flowPara4398">De brief with W<flowSpan
    style="font-size:65%;line-height:0.85;baseline-shift:super"
    id="flowSpan4320">3</flowSpan></flowPara></flowRoot>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="93.897636"
-       y="183.54724"
-       id="text4267"><tspan
-         sodipodi:role="line"
-         id="tspan4269"
-         x="93.897636"
-         y="183.54724"
-         style="font-size:8.75px;line-height:1.25"> </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -525,15 +503,4 @@
          id="tspan4227"
          sodipodi:role="line">15 min</tspan></text>
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="293.09576"
-     y="257.1424"
-     id="text4321"><tspan
-       sodipodi:role="line"
-       id="tspan4323"
-       x="293.09576"
-       y="257.1424"
-       style="font-size:8.75px;line-height:1.25"> </tspan></text>
 </svg>
