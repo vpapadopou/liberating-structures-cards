@@ -1,4 +1,2 @@
 black[d]>=23.10.1
-Mypy>=1.7.0
-svglib>=1.5.1
-reportlab>=4.0.7
+Mypy>=1.7.1
