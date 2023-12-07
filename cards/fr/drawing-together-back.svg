@@ -27,9 +27,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="171.25"
-     inkscape:cy="206.75"
+     inkscape:cy="207.25"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer7"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -276,7 +276,7 @@
          id="tspan4182"
          x="39.935017"
          y="87.861458"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Reveal</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Révèle</tspan></text>
     <rect
        y="74.409447"
        x="164.76376"
@@ -302,9 +302,9 @@
      inkscape:label="Title"
      sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 99.212598,31.889763 0,31.88976 122.244092,0 0,-31.88976 z"
-       id="path4300"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.02462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 93.118848,31.889763 v 31.88976 H 221.45669 v -31.88976 z"
+       id="pathdtb4300"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -314,12 +314,24 @@
          id="flowRegion4308"><use
            x="0"
            y="0"
-           xlink:href="#path4300"
+           xlink:href="#pathdtb4300"
            id="use4310"
            width="100%"
            height="100%" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
-         id="flowPara4223">Drawing Together</flowPara></flowRoot>
+         id="flowPara4223">Dessinons Ensemble</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3015px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;direction:ltr;display:inline;vector-effect:none;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.91569px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;enable-background:new;stop-color:#000000"
+       x="141.22475"
+       y="64.093742"
+       id="text5"
+       inkscape:label="enTitle"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="141.22475"
+         y="64.093742"
+         style="stroke-width:0.91569px">Drawing Together</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -408,7 +420,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.07095px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 37.935532,99.0059 V 346.25123 H 195.97071 V 99.0059 H 37.935532"
-       id="path4245"
+       id="pathdtb4245"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -417,7 +429,7 @@
          id="flowRegion4253"><use
            x="0"
            y="0"
-           xlink:href="#path4245"
+           xlink:href="#pathdtb4245"
            id="use4255"
            width="100%"
            height="100%" /></flowRegion><flowPara
@@ -436,7 +448,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4359"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4361">Créez une deuxième version. Affiner l'histoire en dramatisant la taille, l'emplacement et la couleur des symboles.</flowPara><flowPara
+         id="flowPara4361">Créez une deuxième version. </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
+         id="flowPara1">Affiner l'histoire en dramatisant la taille, l'emplacement et la couleur des symboles.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4363"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"

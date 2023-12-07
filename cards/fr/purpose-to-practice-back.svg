@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="111.75"
-     inkscape:cy="258.75"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="111.54609"
+     inkscape:cy="258.97786"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer4"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -299,7 +299,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 99.212598,31.889763 0,31.88976 122.244092,0 0,-31.88976 z"
-       id="path4300"
+       id="path4300_ptpb"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -309,7 +309,7 @@
          id="flowRegion4308"><use
            x="0"
            y="0"
-           xlink:href="#path4300"
+           xlink:href="#path4300_ptpb"
            id="use4310"
            width="100%"
            height="100%" /></flowRegion><flowPara
@@ -362,29 +362,30 @@
      inkscape:label="Body"
      sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.0939px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 35.591782,97.1309 V 347.65748 H 198.31446 V 97.1309 H 35.591782"
-       id="path4245"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.10228px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 32.779282,97.59965 V 347.65748 H 198.31446 V 97.59965 H 32.779282"
+       id="path4245_ptpb"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4251"><flowRegion
+       id="flowRoot4251"
+       transform="translate(1.875)"><flowRegion
          id="flowRegion4253"><use
            x="0"
            y="0"
-           xlink:href="#path4245"
+           xlink:href="#path4245_ptpb"
            id="use4255"
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4257"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Etapes</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4390">Présenrer l'idée du P2P</flowPara><flowPara
+         id="flowPara4390">Présenter l'idée du P2P</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4382"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4401">Utiliser 1-2-4-All pour clarifier l'objectif</flowPara><flowPara
+         id="flowPara4401">Utiliser 1-2-4-Tous pour clarifier l'objectif</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4417"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
@@ -408,7 +409,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4393">Débriefer en utilisant W<flowSpan
    style="font-size:65%;baseline-shift:super"
-   id="flowSpan4415">3</flowSpan> en petits groups et prioriser les prochaines étapes en tant que que groupe entiers</flowPara></flowRoot>
+   id="flowSpan4415">3</flowSpan> en petits groupes et prioriser les prochaines étapes en tant que que groupe entiers</flowPara></flowRoot>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -429,12 +430,12 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">10 min</tspan></text>
     <text
        id="text4227"
-       y="115.24852"
+       y="117.12352"
        x="204.24702"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a"
-         y="115.24852"
+         y="117.12352"
          x="204.24702"
          id="tspan4229"
          sodipodi:role="line">5 min</tspan></text>
@@ -491,12 +492,12 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="199.17134"
-       y="323.30594"
+       y="325.18094"
        id="text4443"><tspan
          sodipodi:role="line"
          id="tspan4445"
          x="199.17134"
-         y="323.30594"
+         y="325.18094"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">15 min</tspan></text>
   </g>
 </svg>

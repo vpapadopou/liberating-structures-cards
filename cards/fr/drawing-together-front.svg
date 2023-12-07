@@ -26,7 +26,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="97.249995"
+     inkscape:cx="96.999995"
      inkscape:cy="186.74999"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
@@ -266,12 +266,11 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Title"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 109.84252,113.38582 111.61417,0 0,-81.496057 -111.61417,0 z"
-       id="path4349"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.09617px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 87.342521,113.38582 H 221.45669 V 31.889763 H 87.342521 Z"
+       id="pathdtf4349"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -281,21 +280,32 @@
          id="flowRegion4359"><use
            x="0"
            y="0"
-           xlink:href="#path4349"
+           xlink:href="#pathdtf4349"
            id="use4361"
            width="100%"
            height="100%" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
-         id="flowPara4204">Drawing Together</flowPara><flowPara
+         id="flowPara4204">Dessinons Ensemble</flowPara><flowPara
          id="flowPara4365"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;text-align:end;letter-spacing:0px;text-anchor:end;fill:#1a1a1a">Révéler les idées et les voies à suivre grâce à l'expression non verbale</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3015px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;direction:ltr;display:inline;vector-effect:none;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.91569px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;enable-background:new;stop-color:#000000"
+       x="140.79697"
+       y="110.85112"
+       id="text5"
+       inkscape:label="enTitle"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="140.79697"
+         y="110.85112"
+         style="stroke-width:0.91569px">Drawing Together</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Separator"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="display:inline;fill:#71c837;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4178"
@@ -313,7 +323,7 @@
          id="tspan4182"
          x="39.935043"
          y="137.46776"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Reveal</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Révèle</tspan></text>
     <rect
        y="124.01575"
        x="164.76379"
@@ -353,12 +363,11 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Body"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.03438px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 34.185532,146.26845 V 340.15748 H 221.45669 V 146.26845 Z"
-       id="path4305"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.05362px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 34.185532,146.26845 V 340.15748 H 228.48794 V 146.26845 Z"
+       id="pathdtf4305"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -369,7 +378,7 @@
          style="line-height:0.85"><use
            x="0"
            y="0"
-           xlink:href="#path4305"
+           xlink:href="#pathdtf4305"
            id="use4323"
            width="100%"
            height="100%"
@@ -377,7 +386,7 @@
          id="flowPara4325"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Invitation</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4269">Invite participants to tell a story about a challenge they face or a common challenge, using only five symbols and no words</flowPara><flowPara
+         id="flowPara4269">Invitez les participants à raconter une histoire sur un défi auquel ils sont confrontés ou un défi commun, en utilisant seulement cinq symboles et aucun mot.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
          id="flowPara4200"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1"

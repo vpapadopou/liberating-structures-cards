@@ -238,28 +238,46 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Title"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 109.84252,113.38582 H 221.45669 V 31.889763 H 109.84252 Z"
-       id="path4349"
+       id="path4349_ueff"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4357"
-       transform="translate(0,5.5700978)"><flowRegion
+       transform="translate(0,-0.05490219)"><flowRegion
          id="flowRegion4359"><use
            x="0"
            y="0"
-           xlink:href="#path4349"
+           xlink:href="#path4349_ueff"
            id="use4361"
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4363"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end">User Experience Fishbowl</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end">Expérience Utilisateur</flowPara><flowPara
          id="flowPara4365"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;text-align:end;letter-spacing:0px;text-anchor:end;fill:#1a1a1a">Patager le savoir-faire acquis par l'expérience avec une communauté plus large</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5469px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;text-align:end;direction:ltr;text-anchor:end;display:inline;vector-effect:none;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;enable-background:new;stop-color:#000000"
+       x="220.50757"
+       y="106.98198"
+       id="text2"
+       inkscape:label="enTitle"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="220.50757"
+         y="106.98198"
+         style="text-align:end;text-anchor:end;stroke-width:0.9375px">User Experience</tspan><tspan
+         sodipodi:role="line"
+         x="220.50757"
+         y="119.11092"
+         style="text-align:end;text-anchor:end;stroke-width:0.9375px"
+         id="tspan1">Fishbowl</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -329,7 +347,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.03822px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 36.529282,148.14345 V 342.50123 H 224.73794 V 148.14345 Z"
-       id="path4305"
+       id="path4305_ueff"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -340,7 +358,7 @@
          style="line-height:0.85"><use
            x="0"
            y="0"
-           xlink:href="#path4305"
+           xlink:href="#path4305_ueff"
            id="use4323"
            width="100%"
            height="100%"
@@ -354,7 +372,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1"
          id="flowPara4212">Personnes</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4413">- One inner circle group of 3-7 people</flowPara><flowPara
+         id="flowPara4413">- Un groupe intérieur en cercle de 3-7 personnes</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
          id="flowPara4265">- Un cercle extérieur avec plusieurs petits groupes satellites de 3-4 personnes</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"

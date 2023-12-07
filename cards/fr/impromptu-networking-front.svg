@@ -29,7 +29,7 @@
      inkscape:cx="83.085045"
      inkscape:cy="199.05055"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer9"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -294,29 +294,40 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Title"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 109.84252,113.38582 111.61417,0 0,-81.496057 -111.61417,0 z"
-       id="path4349"
+       d="M 109.84252,113.38582 H 221.45669 V 31.889763 H 109.84252 Z"
+       id="path4349_inf"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4357"
-       transform="translate(0,6.148904)"><flowRegion
+       transform="translate(0,-3.226096)"><flowRegion
          id="flowRegion4359"><use
            x="0"
            y="0"
-           xlink:href="#path4349"
+           xlink:href="#path4349_inf"
            id="use4361"
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4363"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end">Impromptu Networking</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end">Mise en Réseau Improvisée</flowPara><flowPara
          id="flowPara4365"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;text-align:end;letter-spacing:0px;text-anchor:end;fill:#1a1a1a">Partager rapidement les défis et les attentes, tout en établissant de nouvelles connexions</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5469px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;direction:ltr;display:inline;vector-effect:none;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;enable-background:new;stop-color:#000000"
+       x="115.73152"
+       y="117.48058"
+       id="text5"
+       inkscape:label="enTitle"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="115.73152"
+         y="117.48058"
+         style="stroke-width:0.9375px">Impromptu Networking</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -386,7 +397,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 40.748032,152.3622 V 340.15748 H 221.45669 V 152.3622 Z"
-       id="path4305"
+       id="path4305_inf"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -397,7 +408,7 @@
          style="line-height:0.85"><use
            x="0"
            y="0"
-           xlink:href="#path4305"
+           xlink:href="#path4305_inf"
            id="use4323"
            width="100%"
            height="100%"
@@ -407,9 +418,9 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
          id="flowPara4398">Demander :</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4411">- Quel défi majeur apportez-vous à ce rassemblement ?</flowPara><flowPara
+         id="flowPara4411">- "Quel défi majeur apportez-vous à ce rassemblement ?"</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4400">- Qu'espérez-vous obtenir et donner à ce groupe ou à cette communauté ?</flowPara><flowPara
+         id="flowPara4400">- "Qu'espérez-vous obtenir et donner à ce groupe ou à cette communauté ?"</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
          id="flowPara4200"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1"

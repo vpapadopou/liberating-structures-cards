@@ -27,9 +27,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
      inkscape:cx="149.74999"
-     inkscape:cy="160.74999"
+     inkscape:cy="194.74999"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer9"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -286,12 +286,11 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Title"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 109.84252,113.38582 111.61417,0 0,-81.496057 -111.61417,0 z"
-       id="path4349"
+       d="M 109.84252,113.38582 H 221.45669 V 31.889763 H 109.84252 Z"
+       id="path4349_124af"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -301,21 +300,31 @@
          id="flowRegion4359"><use
            x="0"
            y="0"
-           xlink:href="#path4349"
+           xlink:href="#path4349_124af"
            id="use4361"
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4363"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end">1-2-4-All</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end">1-2-4-Tous</flowPara><flowPara
          id="flowPara4365"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;text-align:end;letter-spacing:0px;text-anchor:end;fill:#1a1a1a">Faire participer tout le monde simultanément à la formulation de questions, d'idées et de suggestions</flowPara></flowRoot>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;text-align:end;letter-spacing:0px;text-anchor:end;fill:#1a1a1a">Faire participer tout le monde simultanément à la formulation de questions, d'idées et de suggestions.</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;direction:ltr;display:inline;vector-effect:none;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="179.56969"
+       y="113.4375"
+       id="text5"
+       inkscape:label="enTitle"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="179.56969"
+         y="113.4375">1-2-4-All</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Separator"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="display:inline;fill:#71c837;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4178"
@@ -333,7 +342,7 @@
          id="tspan4182"
          x="39.935043"
          y="137.46776"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Reveal</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Révèle</tspan></text>
     <rect
        y="124.01575"
        x="164.76379"
@@ -378,7 +387,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 40.748032,152.3622 V 340.15748 H 221.45669 V 152.3622 Z"
-       id="path4305"
+       id="path4305_124af"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -388,7 +397,7 @@
          id="flowRegion4321"><use
            x="0"
            y="0"
-           xlink:href="#path4305"
+           xlink:href="#path4305_124af"
            id="use4323"
            width="100%"
            height="100%"
@@ -396,7 +405,7 @@
          id="flowPara4325"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.72015px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Invitation</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4474">Poser une question en réponse à la présentation d'une question, d'un problème à résoudre ou d'une proposition avancée</flowPara><flowPara
+         id="flowPara4474">Poser une question en réponse à la présentation d'une question, d'un problème à résoudre ou d'une proposition avancée.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
          id="flowPara4200"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.72015px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1"
@@ -412,7 +421,7 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
          id="flowPara4208">- Papier pour que les participants puissent noter leurs observations et leurs idées</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4210">- Chaise et tables (optionnel) </flowPara><flowPara
+         id="flowPara4210">- Chaises et tables (optionnel)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
          id="flowPara4206" /></flowRoot>
   </g>

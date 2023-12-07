@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="-2.25"
-     inkscape:cy="173.25"
+     inkscape:cy="197.75"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -345,7 +345,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 109.84252,113.38582 111.61417,0 0,-81.496057 -111.61417,0 z"
-       id="path4349"
+       id="path4349_snwf"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -355,7 +355,7 @@
          id="flowRegion4359"><use
            x="0"
            y="0"
-           xlink:href="#path4349"
+           xlink:href="#path4349_snwf"
            id="use4361"
            width="100%"
            height="100%" /></flowRegion><flowPara
@@ -372,7 +372,7 @@
      sodipodi:insensitive="true">
     <path
        style="fill:#37abc8;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 30.11811,124.01208 0,17.7202 62.007874,0 10.629926,-17.7202 z"
+       d="m 30.11811,124.01208 v 17.7202 h 62.007874 l 10.629926,-17.7202 z"
        id="path4215"
        inkscape:connector-curvature="0" />
     <text
@@ -407,7 +407,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path4217"
-       d="m 164.75591,141.73228 0,-17.7202 -62.00787,0 -10.629926,17.7202 z"
+       d="m 164.75591,141.73228 v -17.7202 h -62.00787 l -10.629926,17.7202 z"
        style="fill:#916f7c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text4197"
@@ -419,7 +419,7 @@
          y="137.46776"
          x="118.29826"
          id="tspan4199"
-         sodipodi:role="line">Help</tspan></text>
+         sodipodi:role="line">Aide</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -441,11 +441,12 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Body"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40.748032,152.3622 0,187.79528 180.708658,0 0,-187.79528 z"
-       id="path4305"
+       d="M 40.748032,152.3622 V 340.15748 H 221.45669 V 152.3622 Z"
+       id="path4305_snwf"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -455,7 +456,7 @@
          id="flowRegion4321"><use
            x="0"
            y="0"
-           xlink:href="#path4305"
+           xlink:href="#path4305_snwf"
            id="use4323"
            width="100%"
            height="100%"
@@ -469,7 +470,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.72015px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1"
          id="flowPara4212">Personnes</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4312">- 1-2-4-All pour générer les noms des groupes clés</flowPara><flowPara
+         id="flowPara4312">- 1-2-4-Tous pour générer les noms des groupes clés</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
          id="flowPara4221">- L'ensemble du groupe génère des noms de personnes dans le réseau et construit la carte.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"

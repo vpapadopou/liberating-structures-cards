@@ -276,7 +276,7 @@
          id="tspan4182"
          x="39.935017"
          y="87.861458"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Reveal</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Révèle</tspan></text>
     <rect
        y="74.409447"
        x="164.76376"
@@ -302,9 +302,9 @@
      inkscape:label="Title"
      sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 99.212598,31.889763 0,31.88976 122.244092,0 0,-31.88976 z"
-       id="path4300"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.10215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.962599,31.889763 v 31.88976 H 221.45669 v -31.88976 z"
+       id="pathdadb4300"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -314,12 +314,24 @@
          id="flowRegion4273"><use
            x="0"
            y="0"
-           xlink:href="#path4300"
+           xlink:href="#pathdadb4300"
            id="use4275"
            width="100%"
            height="100%" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
-         id="flowPara4277">Discovery &amp; Action Dialog</flowPara></flowRoot>
+         id="flowPara4277">Dialogue sur la Découverte et l'Action</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5469px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;direction:ltr;display:inline;vector-effect:none;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;enable-background:new;stop-color:#000000"
+       x="75.592682"
+       y="70.253914"
+       id="text5"
+       inkscape:label="enTitle"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="75.592682"
+         y="70.253914"
+         style="stroke-width:0.9375px">Discovery &amp; Action Dialog (DAD)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -379,11 +391,12 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Body"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.472679px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 33.716782,96.1934 v 45.2141 H 202.06446 V 96.1934 H 33.716782"
-       id="path4245"
+       id="pathdadb4245"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -392,7 +405,7 @@
          id="flowRegion4253"><use
            x="0"
            y="0"
-           xlink:href="#path4245"
+           xlink:href="#pathdadb4245"
            id="use4255"
            width="100%"
            height="100%" /></flowRegion><flowPara
@@ -421,7 +434,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Body Right"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        id="text4227"
        y="115.24852"
@@ -465,11 +479,12 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Questions"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 34.185532,122.54724 V 340.15748 H 221.45669 V 122.54724 Z"
-       id="path4429"
+       id="pathdadb4429"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -479,7 +494,7 @@
          id="flowRegion4433"><use
            x="0"
            y="0"
-           xlink:href="#path4429"
+           xlink:href="#pathdadb4429"
            id="use4435"
            width="100%"
            height="100%" /></flowRegion><flowPara

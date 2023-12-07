@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="112.78353"
-     inkscape:cy="117.73328"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="165.875"
+     inkscape:cy="85.124998"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer7"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -317,8 +317,8 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 99.212598,31.889763 0,31.88976 122.244092,0 0,-31.88976 z"
-       id="path4300"
+       d="m 99.212598,31.889763 v 31.88976 H 221.45669 v -31.88976 z"
+       id="path4300_pb"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -328,12 +328,23 @@
          id="flowRegion4273"><use
            x="0"
            y="0"
-           xlink:href="#path4300"
+           xlink:href="#path4300_pb"
            id="use4275"
            width="100%"
            height="100%" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
-         id="flowPara4277">Panarchy</flowPara></flowRoot>
+         id="flowPara4277">Panarchie</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;direction:ltr;display:inline;vector-effect:none;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="174.8822"
+       y="62.8125"
+       id="text5"
+       inkscape:label="enTitle"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="174.8822"
+         y="62.8125">Panarchy</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -353,31 +364,31 @@
       <g
          id="g4845">
         <circle
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29766631;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.297666;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path4796"
            cx="367.30182"
            cy="160.98439"
            r="23.714655" />
         <circle
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.23173955;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.23174;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path4796-6"
            cx="365.52454"
            cy="164.53909"
            r="18.462366" />
         <circle
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19265026;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19265;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path4796-6-9"
            cx="363.09235"
            cy="168.09375"
            r="15.348176" />
         <circle
-           style="opacity:1;fill:#fffffb;fill-opacity:1;stroke:none;stroke-width:0.13197429;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#fffffb;fill-opacity:1;stroke:none;stroke-width:0.131974;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path4796-6-3"
            cx="361.1279"
            cy="171.08719"
            r="10.514208" />
         <circle
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09113473;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0911347;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path4796-6-0"
            cx="359.25705"
            cy="174.36124"
@@ -410,7 +421,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 40.748032,102.7559 0,237.40158 143.503928,0 0,-237.40158 -143.503928,0"
-       id="path4245"
+       id="path4245_pb"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -419,7 +430,7 @@
          id="flowRegion4253"><use
            x="0"
            y="0"
-           xlink:href="#path4245"
+           xlink:href="#path4245_pb"
            id="use4255"
            width="100%"
            height="100%" /></flowRegion><flowPara

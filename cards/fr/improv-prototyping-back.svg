@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="161.25"
-     inkscape:cy="185.75"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="160.86679"
+     inkscape:cy="270.46834"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer8"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -276,7 +276,7 @@
          id="tspan4182"
          x="39.935017"
          y="87.861458"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Reveal</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Révèle</tspan></text>
     <rect
        y="74.409447"
        x="164.76376"
@@ -303,23 +303,35 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 99.212598,31.889763 0,31.88976 122.244092,0 0,-31.88976 z"
-       id="path4300"
+       d="m 99.212598,31.889763 v 31.88976 H 221.45669 v -31.88976 z"
+       id="path4300_ipb"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4306"
-       transform="translate(-3.4125e-4,6.1676466)"><flowRegion
+       transform="translate(-3.4125e-4,-5.0823534)"><flowRegion
          id="flowRegion4308"><use
            x="0"
            y="0"
-           xlink:href="#path4300"
+           xlink:href="#path4300_ipb"
            id="use4310"
            width="100%"
            height="100%" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
-         id="flowPara4223">Improv Prototyping</flowPara></flowRoot>
+         id="flowPara4223">Prototypage Improvisé</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5469px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;direction:ltr;display:inline;vector-effect:none;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;enable-background:new;stop-color:#000000"
+       x="136.06143"
+       y="66.503906"
+       id="text5"
+       inkscape:label="enTitle"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="136.06143"
+         y="66.503906"
+         style="stroke-width:0.9375px">Improv Protoyping</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -411,9 +423,9 @@
      inkscape:label="Body"
      sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.02916px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 36.060532,96.66215 V 340.15748 H 184.25196 V 96.66215 H 36.060532"
-       id="path4245"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.05183px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 36.060532,96.66215 V 338.75123 H 191.75196 V 96.66215 H 36.060532"
+       id="path4245_ipb"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -423,7 +435,7 @@
          style="line-height:0.85"><use
            x="0"
            y="0"
-           xlink:href="#path4245"
+           xlink:href="#path4245_ipb"
            id="use4255"
            width="100%"
            height="100%" /></flowRegion><flowPara
@@ -442,7 +454,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4377"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4381">Chaque groupe débriefe avec 1-2-4-All pour identifier les &quot;morceaux&quot; réussis et non réussis de la scène observée.</flowPara><flowPara
+         id="flowPara4381">Chaque groupe débriefe avec 1-2-4-Tous pour identifier les &quot;morceaux&quot; réussis et non réussis de la scène observée.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4391"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
@@ -458,18 +470,17 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Body Right"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="192.17427"
-       y="156.93399"
+       y="156.69962"
        id="text4197"><tspan
          sodipodi:role="line"
          id="tspan4199"
          x="192.17427"
-         y="156.93399"
+         y="156.69962"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">3-5 min</tspan></text>
     <text
        id="text4227"
@@ -484,23 +495,23 @@
          sodipodi:role="line">2 min</tspan></text>
     <text
        id="text4231"
-       y="135.05949"
+       y="135.52824"
        x="200.49702"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a"
-         y="135.05949"
+         y="135.52824"
          x="200.49702"
          id="tspan4233"
          sodipodi:role="line">3 min</tspan></text>
     <text
        id="text4235"
-       y="177.14116"
+       y="176.90678"
        x="200.49702"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a"
-         y="177.14116"
+         y="176.90678"
          x="200.49702"
          id="tspan4237"
          sodipodi:role="line">5 min</tspan></text>
@@ -513,23 +524,23 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="192.17427"
-       y="279.19138"
+       y="268.6445"
        id="text4424"><tspan
          sodipodi:role="line"
          id="tspan4426"
          x="192.17427"
-         y="279.19138"
+         y="268.6445"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">3-5 min</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="200.49702"
-       y="217.03761"
+       y="217.97511"
        id="text4397"><tspan
          sodipodi:role="line"
          id="tspan4399"
          x="200.49702"
-         y="217.03761"
+         y="217.97511"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">5 min</tspan></text>
   </g>
 </svg>

@@ -27,9 +27,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="117.25"
-     inkscape:cy="214.25"
+     inkscape:cy="215.25"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer8"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -271,7 +271,7 @@
          id="tspan4182"
          x="39.935017"
          y="87.861458"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Help</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Aide</tspan></text>
     <rect
        y="74.409447"
        x="164.76376"
@@ -298,8 +298,8 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 99.212598,31.889763 0,31.88976 122.244092,0 0,-31.88976 z"
-       id="path4300"
+       d="m 99.212598,31.889763 v 31.88976 H 221.45669 v -31.88976 z"
+       id="path4300_hsrb"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -309,12 +309,24 @@
          id="flowRegion4308"><use
            x="0"
            y="0"
-           xlink:href="#path4300"
+           xlink:href="#path4300_hsrb"
            id="use4310"
            width="100%"
            height="100%" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
-         id="flowPara4223">Heard, Seen, Respected (HSR)</flowPara></flowRoot>
+         id="flowPara4223">Entendu, Vu, Respecté (EVR)</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.88772px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;direction:ltr;display:inline;vector-effect:none;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.878906px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;enable-background:new;stop-color:#000000"
+       x="91.26252"
+       y="70.697037"
+       id="text5"
+       inkscape:label="enTitle"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="91.26252"
+         y="70.697037"
+         style="stroke-width:0.878906px">Heard, Seen, Respected (HSR)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -402,7 +414,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.0872px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 34.654282,97.1309 V 345.31373 H 196.90821 V 97.1309 H 34.654282"
-       id="path4245"
+       id="path4245_hsrb"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -411,14 +423,14 @@
          id="flowRegion4253"><use
            x="0"
            y="0"
-           xlink:href="#path4245"
+           xlink:href="#path4245_hsrb"
            id="use4255"
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4257"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Etapes</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4398">Introduce the purpose of HSR:</flowPara><flowPara
+         id="flowPara4398">Introduire le but de EVR:</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4373">Pratiquer l'écoute sans essayer de régler quoi que ce soit ou de porter un jugement.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
@@ -436,7 +448,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4369"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4371">L'ensemble du groupe réfléchit à la manière dont le HSR pourrait être utilisé pour relever les défis révélés par les schémas.</flowPara></flowRoot>
+         id="flowPara4371">L'ensemble du groupe réfléchit à la manière dont le EVR pourrait être utilisé pour relever les défis révélés par les schémas.</flowPara></flowRoot>
   </g>
   <g
      inkscape:groupmode="layer"

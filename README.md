@@ -1,25 +1,49 @@
-# Liberating Structures Card Deck
+# Liberating Structures Card Deck format original et francophone
 
-A print-at-home card deck for Liberating Structures.
+Une version imprimable du jeux de cartes pour les Liberating Structures.
 
-Inspired by Holisticon's card deck it can help you create strings easily or act as a quick reminder of each format.
+Inspiré du jeu de cartes d'Holisticon, il peut vous aider à créer facilement des chaînes ou vous servir d'aide-mémoire pour chaque format.
 
 ![Liberating Structures Card Deck](screenshots/liberating-structures-cards-all.JPG)
 
-Forked from https://github.com/vpapadopou/liberating-structures-cards
+Dépot originel [https://github.com/vpapadopou/liberating-structures-cards](https://github.com/vpapadopou/liberating-structures-cards)
 
-French version and prepare i18n tools
+Ajout de la version francophone et de script pour faciliter l'ajout de nouvelles langues et la préparation des pages de cartes.
+
+## Version francophone
+
+Version actuelle : 2.0
+
+### Instructions
+
+Seul le format A4 existe dans la version francophone.
+
+[A4 Paper Size](print/fr/print-a4.pdf)
+
+- Imprimer en recto seulement à l'aide d'une imprimante couleur
+- Les cartes sont prévus pour être plié pour créé le recto-verso
+- Utilisez une paire de ciseaux ou une découpeuse pour séparer soigneusement la ligne en pointillés entre deux cartes différentes.
+- Pas besoin de colle, sauf si vous avez raté l'instruction précédente dans ce cas : cllez le recto et le verso de la carte avec une petite quantité de colle.
+- Plastifier
+- Arrondir les angles pour rendre la manipulation plus agréable.
+
+Utilisez du papier de 160 g/m2 pour une meilleure expérience. Si vous ne pouvez pas, du papier normal de 80 g/m² devrait faire l'affaire.
+
+Normalement, vous devriez **désactiver** toute option "Ajuster à la page" et sélectionner "Taille réelle" lors de l'impression pour imprimer les cartes dans la taille prévue. Si toutefois cela ne fonctionne pas pour vous (peut-être qu'une partie de la carte est coupée), vous devriez pouvoir sélectionner "Ajuster à la page" et imprimer les cartes sans problème. Elles seront un peu plus petites, mais cela ne devrait pas affecter l'expérience globale.
+
+
+## English version
 
 Current version: 1.1
 
-## Instructions
+### Instructions
 
 Please select the appropriate PDF file according to the paper size your printer uses:
 
 
-[A4 Paper Size](print/print-a4.pdf)
+[A4 Paper Size](print/en/print-a4.pdf)
 
-[US Letter Paper Size](print/print-us-letter.pdf)
+[US Letter Paper Size](print/en/print-us-letter.pdf)
 
 
 - Print using a color printer

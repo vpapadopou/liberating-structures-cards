@@ -29,7 +29,7 @@
      inkscape:cx="49.249998"
      inkscape:cy="179.24999"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer8"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -262,7 +262,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 109.84252,113.38582 111.61417,0 0,-81.496057 -111.61417,0 z"
-       id="path4349"
+       id="path4349_1psf"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -272,7 +272,7 @@
          id="flowRegion4359"><use
            x="0"
            y="0"
-           xlink:href="#path4349"
+           xlink:href="#path4349_1psf"
            id="use4361"
            width="100%"
            height="100%" /></flowRegion><flowPara
@@ -285,8 +285,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Separator"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="display:inline;fill:#71c837;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4178"
@@ -304,7 +303,7 @@
          id="tspan4182"
          x="39.935043"
          y="137.46776"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Reveal</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Révèle</tspan></text>
     <rect
        y="124.01575"
        x="164.76379"
@@ -349,7 +348,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 40.748032,152.3622 V 340.15748 H 221.45669 V 152.3622 Z"
-       id="path4305"
+       id="path4305_1psf"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -359,7 +358,7 @@
          id="flowRegion4321"><use
            x="0"
            y="0"
-           xlink:href="#path4305"
+           xlink:href="#path4305_1psf"
            id="use4323"
            width="100%"
            height="100%"

@@ -1,5 +1,7 @@
 from xml.etree import ElementTree as ET
 from os import listdir
+
+import separe_id
 import svg_page
 
 ns_svg: dict[str, str] = {
@@ -26,6 +28,8 @@ def clean_xml_svg_g(line):
 
 
 def prepare_svg_print(lang_to: str, label_size: str):
+    ids = {}
+    id_duplicate = []
     path: str = f"cards/{lang_to}/"
     files_svg = listdir(path)
     limit = len(files_svg)
@@ -56,6 +60,7 @@ def prepare_svg_print(lang_to: str, label_size: str):
                     xml_declaration=False,
                 ).decode("utf8")
                 svg = clean_xml_svg_g(svg)
+            id_duplicate = separe_id.find_duplicate(file, svg, ids, id_duplicate)
 
             calque += "\n".join(
                 svg_page.page_svg(
@@ -71,6 +76,7 @@ def prepare_svg_print(lang_to: str, label_size: str):
         lines += "\n".join(svg_page.post_page_svg())
         with open(f"{path_print}print-a4-page{num}.svg", "w", encoding="utf-8") as f:
             f.write(lines)
+
     lines_full += "\n".join(svg_page.post_page_svg())
     with open(f"{path_print}print-a4-full.svg", "w", encoding="utf-8") as f:
         f.write(lines_full)

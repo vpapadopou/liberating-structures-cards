@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
      inkscape:cx="4.7499998"
-     inkscape:cy="201.74999"
+     inkscape:cy="202.24999"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -232,7 +232,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 109.84252,113.38582 111.61417,0 0,-81.496057 -111.61417,0 z"
-       id="path4349"
+       id="path4349_ptpf"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -242,7 +242,7 @@
          id="flowRegion4359"><use
            x="0"
            y="0"
-           xlink:href="#path4349"
+           xlink:href="#path4349_ptpf"
            id="use4361"
            width="100%"
            height="100%" /></flowRegion><flowPara
@@ -314,11 +314,12 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Body"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.03298px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 36.998032,148.6122 V 343.43873 H 222.86294 V 148.6122 Z"
-       id="path4305"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.0799px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 34.185532,143.9247 V 348.59498 H 227.55044 V 143.9247 Z"
+       id="path4305_ptpf"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -329,34 +330,34 @@
          style="line-height:0.85"><use
            x="0"
            y="0"
-           xlink:href="#path4305"
+           xlink:href="#path4305_ptpf"
            id="use4323"
            width="100%"
            height="100%"
            transform="matrix(1,0,0,0.99318888,0.17251487,4.5447611)" /></flowRegion><flowPara
          id="flowPara4325"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.72015px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1;line-height:0.85">Invitation</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1;line-height:0.85"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Invitation</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
          id="flowPara4269">Inviter toutes les parties prenantes ou la plupart d'entre elles à participer à la conception de leur nouvelle initiative afin d'en préciser les cinq éléments essentiels : objectif, principes, participants, structure et pratiques.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1;line-height:0.85"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
          id="flowPara4200"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.72015px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1;line-height:0.85"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1"
          id="flowPara4212">Personnes</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1;line-height:0.85"
-         id="flowPara4251">- Commencer par 1-2-4-All</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1;line-height:0.85"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
+         id="flowPara4251">- Commencer par 1-2-4-Tous</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
          id="flowPara4274">- Groupe entier pour finaliser chaque élément</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1;line-height:0.85"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
          id="flowPara4214"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.72015px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1;line-height:0.85"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1"
          id="flowPara4202">Espace et matériel</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1;line-height:0.85"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
          id="flowPara4292">- Chaises et petites tables pour travailler en groupes de 4 personnes</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1;line-height:0.85"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
          id="flowPara4262">- Grand mur avec du papier affiche pour enregistrer le résultat de la P2P pour chaque élément</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1;line-height:0.85"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
          id="flowPara4260">- Cinq fiches de travail pour chaque participant, une pour chacun des cinq éléments. </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1;line-height:0.85"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.72015px;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;fill-opacity:1"
          id="flowPara4272" /></flowRoot>
   </g>
 </svg>

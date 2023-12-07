@@ -388,18 +388,18 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 109.84252,113.38582 111.61417,0 0,-81.496057 -111.61417,0 z"
-       id="path4349"
+       d="M 109.84252,113.38582 H 221.45669 V 31.889763 H 109.84252 Z"
+       id="path4349_sasf"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4357"
-       transform="translate(-3.4125e-4,15.081704)"><flowRegion
+       transform="translate(-3.4125e-4,5.706704)"><flowRegion
          id="flowRegion4359"><use
            x="0"
            y="0"
-           xlink:href="#path4349"
+           xlink:href="#path4349_sasf"
            id="use4361"
            width="100%"
            height="100%" /></flowRegion><flowPara
@@ -407,6 +407,18 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end">Partager et faire bouger</flowPara><flowPara
          id="flowPara4365"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;text-align:end;letter-spacing:0px;text-anchor:end;fill:#1a1a1a">Diffuser les bonnes idées et établir des liens informels avec les innovateurs</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5469px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;direction:ltr;display:inline;vector-effect:none;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;enable-background:new;stop-color:#000000"
+       x="161.95442"
+       y="118.65382"
+       id="text5"
+       inkscape:label="enTitle"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="161.95442"
+         y="118.65382"
+         style="stroke-width:0.9375px">Shift &amp; Share</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -476,7 +488,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.05607px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 35.591782,148.14345 V 345.31373 H 227.55044 V 148.14345 Z"
-       id="path4305"
+       id="path4305_sasf"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -487,7 +499,7 @@
          style="line-height:0.85"><use
            x="0"
            y="0"
-           xlink:href="#path4305"
+           xlink:href="#path4305_sasf"
            id="use4323"
            width="100%"
            height="100%"

@@ -29,7 +29,7 @@
      inkscape:cx="7.2499996"
      inkscape:cy="181.74999"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer8"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -241,7 +241,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 109.84252,113.38582 111.61417,0 0,-81.496057 -111.61417,0 z"
-       id="path4349"
+       id="path4349_ostf"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -251,7 +251,7 @@
          id="flowRegion4359"><use
            x="0"
            y="0"
-           xlink:href="#path4349"
+           xlink:href="#path4349_ostf"
            id="use4361"
            width="100%"
            height="100%" /></flowRegion><flowPara
@@ -283,7 +283,7 @@
          id="tspan4182"
          x="39.935043"
          y="137.46776"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Reveal</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Révèle</tspan></text>
     <rect
        y="124.01575"
        x="164.76379"
@@ -328,7 +328,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.05729px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 35.123032,144.39345 V 342.50123 H 226.61294 V 144.39345 Z"
-       id="path4305"
+       id="path4305_ostf"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -339,7 +339,7 @@
          style="line-height:0.75"><use
            x="0"
            y="0"
-           xlink:href="#path4305"
+           xlink:href="#path4305_ostf"
            id="use4323"
            width="100%"
            height="100%"

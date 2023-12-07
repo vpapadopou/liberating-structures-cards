@@ -27,9 +27,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="155.25"
-     inkscape:cy="173.75"
+     inkscape:cy="213.75"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer7"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -304,7 +304,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 99.212598,31.889763 v 31.88976 H 221.45669 v -31.88976 z"
-       id="path4300"
+       id="path4300_grb"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -314,14 +314,26 @@
          id="flowRegion4273"><use
            x="0"
            y="0"
-           xlink:href="#path4300"
+           xlink:href="#path4300_grb"
            id="use4275"
            width="100%"
            height="100%" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
-         id="flowPara4277">Generative</flowPara><flowPara
+         id="flowPara4277">Relations Génératrices</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
          id="flowPara1"> Relationships</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5469px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;direction:ltr;display:inline;vector-effect:none;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;enable-background:new;stop-color:#000000"
+       x="107.93643"
+       y="70.722656"
+       id="text5"
+       inkscape:label="enTitle"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="107.93643"
+         y="70.722656"
+         style="stroke-width:0.9375px">Generative Relationships</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -428,11 +440,12 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Body"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.12449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 36.060532,95.72465 V 346.71998 H 207.68946 V 95.72465 H 36.060532"
-       id="path4245"
+       id="path4245_grb"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -441,7 +454,7 @@
          id="flowRegion4253"><use
            x="0"
            y="0"
-           xlink:href="#path4245"
+           xlink:href="#path4245_grb"
            id="use4255"
            width="100%"
            height="100%" /></flowRegion><flowPara
@@ -484,7 +497,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Body Right"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        id="text4227"
        y="115.24852"
