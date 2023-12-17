@@ -1,5 +1,5 @@
 from xml.etree import ElementTree as ET
-from os import listdir
+from os import listdir, path, makedirs
 
 import separe_id
 import svg_page
@@ -30,28 +30,39 @@ def clean_xml_svg_g(line):
 def prepare_svg_print(lang_to: str, label_size: str):
     ids = {}
     id_duplicate = []
-    path: str = f"cards/{lang_to}/"
-    files_svg = listdir(path)
+    path_in: str = f"cards/{lang_to}/"
+    path_to: str = f"print/{lang_to}/"
+    path_print: str = f"{path_to}{label_size}/"
+    if not path.exists(path_to):
+        makedirs(path_to)
+    if not path.exists(path_print):
+        makedirs(path_print)
+
+    files_svg = listdir(path_in)
     limit = len(files_svg)
-    path_print: str = f"print/{lang_to}/{label_size}/"
     for ns_key, ns_value in ns_svg.items():
         ET.register_namespace(ns_key, ns_value)
 
     width: float = 223.23104
     height: float = 350.78546
     coordinates = [
-        (str(20 + x * width), str(40 + y * height)) for y in range(2) for x in range(4)
+        (
+            str(svg_page.sizes[label_size][4] + x * width),
+            str(svg_page.sizes[label_size][5] + y * height),
+        )
+        for y in range(2)
+        for x in range(4)
     ]
-    lines_full = "\n".join(svg_page.pre_full_page_svg())
+    lines_full = "\n".join(svg_page.pre_full_page_svg(label_size=label_size))
     for num, i in enumerate(range(0, limit, 8), start=1):
         files_svg_list = files_svg[i : min(limit, i + 8)]
-        lines = "\n".join(svg_page.pre_page_svg(num=num))
+        lines = "\n".join(svg_page.pre_page_svg(num=num, label_size=label_size))
         pre_calque = "\n".join(svg_page.pre_calque_svg(num=num))
         pre_full_calque = "\n".join(svg_page.pre_calque_full_svg(num=num))
         calque = ""
         for nfile, file in enumerate(files_svg_list):
             svg = ""
-            arbre_svg = ET.parse(path + file)
+            arbre_svg = ET.parse(path_in + file)
             racine_svg = arbre_svg.getroot()
             for g_element in racine_svg.findall("./g", ns_svg):
                 svg += ET.tostring(
@@ -74,13 +85,22 @@ def prepare_svg_print(lang_to: str, label_size: str):
         lines += pre_calque + calque
         lines_full += pre_full_calque + calque
         lines += "\n".join(svg_page.post_page_svg())
-        with open(f"{path_print}print-a4-page{num}.svg", "w", encoding="utf-8") as f:
+        with open(
+            f"{path_print}print-{label_size.lower().replace(' ', '-')}-page{num}.svg",
+            "w",
+            encoding="utf-8",
+        ) as f:
             f.write(lines)
 
     lines_full += "\n".join(svg_page.post_page_svg())
-    with open(f"{path_print}print-a4-full.svg", "w", encoding="utf-8") as f:
+    with open(
+        f"{path_print}print-{label_size.lower().replace(' ', '-')}-full.svg",
+        "w",
+        encoding="utf-8",
+    ) as f:
         f.write(lines_full)
 
 
 if __name__ == "__main__":
-    prepare_svg_print("fr", "A4")
+    # Choose your language here en, fr, es, ... and size A4 or US Letter.
+    prepare_svg_print("es", "A4")

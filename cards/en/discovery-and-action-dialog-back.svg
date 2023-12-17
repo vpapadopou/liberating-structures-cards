@@ -2,22 +2,22 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="74mm"
    height="105mm"
    viewBox="0 0 262.20472 372.04724"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
    sodipodi:docname="discovery-and-action-dialog-back.svg"
-   enable-background="new">
+   enable-background="new"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="147.43081"
-     inkscape:cy="236.50391"
+     inkscape:cx="147.24999"
+     inkscape:cy="236.74999"
      inkscape:document-units="mm"
      inkscape:current-layer="layer8"
      showgrid="false"
@@ -40,141 +40,166 @@
      inkscape:object-nodes="true"
      inkscape:snap-page="true"
      inkscape:snap-grids="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="657"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-others="false"
-     inkscape:snap-nodes="true">
+     inkscape:snap-nodes="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        position="19.48819,143.57143"
        orientation="1,0"
        id="guide3342"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="242.71654,160.71429"
        orientation="1,0"
        id="guide3344"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="100.71429,10.629921"
        orientation="0,1"
        id="guide3346"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="75.714288,361.41732"
        orientation="0,1"
        id="guide3348"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="242.71654,289.15617"
        orientation="1,0"
-       id="guide4173" />
+       id="guide4173"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-54.642858,21.259842"
        orientation="0,1"
        id="guide4176"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,350.7874"
        orientation="0,1"
        id="guide4178"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="30.118111,388.21428"
        orientation="1,0"
        id="guide4180"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="232.08662,385.71428"
        orientation="1,0"
        id="guide4182"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="40.748033,260.35714"
        orientation="1,0"
        id="guide4252"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="221.4567,323.92857"
        orientation="1,0"
        id="guide4254"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-107.14286,340.15748"
        orientation="0,1"
        id="guide4256"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-111.42857,31.889764"
        orientation="0,1"
        id="guide4258"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-60.356616,308.26772"
        orientation="0,1"
        id="guide4262"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-56.063468,297.63779"
        orientation="0,1"
        id="guide4269"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="93.897641,308.6016"
        orientation="1,0"
        id="guide4271"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="99.212601,340.15748"
        orientation="1,0"
        id="guide4273"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-60.500002,279.92126"
        orientation="0,1"
        id="guide4303"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-102.5,269.29134"
        orientation="0,1"
        id="guide4314"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="194.8819,223.95843"
        orientation="1,0"
        id="guide4201"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="184.25197,197.75"
        orientation="1,0"
        id="guide4243"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-131,249.5"
        orientation="0,1"
-       id="guide4422" />
+       id="guide4422"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -229,16 +254,15 @@
        y="74.409447" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="39.935017"
        y="87.861458"
-       id="text4180"
-       sodipodi:linespacing="125%"><tspan
+       id="text4180"><tspan
          sodipodi:role="line"
          id="tspan4182"
          x="39.935017"
          y="87.861458"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Reveal</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Reveal</tspan></text>
     <rect
        y="74.409447"
        x="164.76376"
@@ -248,16 +272,15 @@
        style="display:inline;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="184.26756"
        y="87.789589"
-       id="text4193"
-       sodipodi:linespacing="125%"><tspan
+       id="text4193"><tspan
          sodipodi:role="line"
          id="tspan4195"
          x="184.26756"
          y="87.789589"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">50 min</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">50 min</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -267,22 +290,23 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 99.212598,31.889763 0,31.88976 122.244092,0 0,-31.88976 z"
-       id="path4300"
+       id="path4300_daadb"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4271"
        transform="translate(-3.4125e-4,-2.1558092)"><flowRegion
          id="flowRegion4273"><use
            x="0"
            y="0"
-           xlink:href="#path4300"
+           xlink:href="#path4300_daadb"
            id="use4275"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
-         id="flowPara4277">Discovery &amp; Action Dialog</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
+         id="flowPara4277">Discovery &amp; Action Dialog</flowPara></flowRoot>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
@@ -343,59 +367,39 @@
      inkscape:label="Body"
      style="display:inline"
      sodipodi:insensitive="true">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-62.225395"
-       y="132.6916"
-       id="text6165"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6167"
-         x="-62.225395"
-         y="132.6916" /></text>
+    
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 40.748032,102.7559 0,237.40158 143.503928,0 0,-237.40158 -143.503928,0"
-       id="path4245"
+       id="path4245_daadb"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4251"><flowRegion
          id="flowRegion4253"><use
            x="0"
            y="0"
-           xlink:href="#path4245"
+           xlink:href="#path4245_daadb"
            id="use4255"
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4257"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Invitation &amp; Steps</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4672">State the purpose of the initiative being discussed and the DAD and invite brief round-robin introductions </flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="93.897636"
-       y="183.54724"
-       id="text4267"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4269"
-         x="93.897636"
-         y="183.54724" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Invitation &amp; Steps</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
+         id="flowPara4672">State the purpose of the initiative being discussed and the DAD and invite brief round-robin introductions </flowPara></flowRoot>
+    
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="40.75"
        y="338.54724"
-       id="text4752"
-       sodipodi:linespacing="125%"><tspan
+       id="text4752"><tspan
          sodipodi:role="line"
          id="tspan4754"
          x="40.75"
          y="338.54724"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato">Ask the recorder to recap insights</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato">Ask the recorder to recap insights</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -404,25 +408,23 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <text
-       sodipodi:linespacing="125%"
        id="text4227"
        y="122.74852"
        x="200.49702"
-       style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a"
          y="122.74852"
          x="200.49702"
          id="tspan4229"
          sodipodi:role="line">5 min</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text4231"
        y="167.16043"
        x="195.42134"
-       style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a"
          y="167.16043"
          x="195.42134"
          id="tspan4233"
@@ -434,16 +436,15 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="200.49702"
        y="340.15692"
-       id="text4424"
-       sodipodi:linespacing="125%"><tspan
+       id="text4424"><tspan
          sodipodi:role="line"
          id="tspan4426"
          x="200.49702"
          y="340.15692"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">5 min</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">5 min</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -451,17 +452,7 @@
      inkscape:label="Questions"
      style="display:inline"
      sodipodi:insensitive="true">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-129.40054"
-       y="187.13882"
-       id="text4392"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4394"
-         x="-129.40054"
-         y="187.13882" /></text>
+    
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 40.748032,122.54724 0,217.61024 180.708658,0 0,-217.61024 z"
@@ -469,7 +460,7 @@
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4431"
        transform="translate(0,35)"><flowRegion
          id="flowRegion4433"><use
@@ -479,31 +470,22 @@
            id="use4435"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         style="line-height:139.99999762%"
+         style="font-size:8.75px;line-height:140%"
          id="flowPara4760">Ask the 7 questions one by one:</flowPara><flowPara
          id="flowPara4632"
-         style="line-height:154.99999523%">1. How do you know the problem is exists?</flowPara><flowPara
+         style="font-size:8.75px;line-height:155%">1. How do you know the problem is exists?</flowPara><flowPara
          id="flowPara4634"
-         style="line-height:154.99999523%">2. How do you contribute the solution?</flowPara><flowPara
+         style="font-size:8.75px;line-height:155%">2. How do you contribute the solution?</flowPara><flowPara
          id="flowPara4636"
-         style="line-height:154.99999523%">3. What prevents you from doing this or taking these actions all the time?</flowPara><flowPara
+         style="font-size:8.75px;line-height:155%">3. What prevents you from doing this or taking these actions all the time?</flowPara><flowPara
          id="flowPara4638"
-         style="line-height:154.99999523%">4. Do you know anybody who is able to frequently solve the problem and overcome barriers? What made their success possible?</flowPara><flowPara
+         style="font-size:8.75px;line-height:155%">4. Do you know anybody who is able to frequently solve the problem and overcome barriers? What made their success possible?</flowPara><flowPara
          id="flowPara4642"
-         style="line-height:154.99999523%">5. Do you have any ideas?</flowPara><flowPara
+         style="font-size:8.75px;line-height:155%">5. Do you have any ideas?</flowPara><flowPara
          id="flowPara4644"
-         style="line-height:154.99999523%">6. What needs to be done to make it happen? Any volunteers?</flowPara><flowPara
+         style="font-size:8.75px;line-height:155%">6. What needs to be done to make it happen? Any volunteers?</flowPara><flowPara
          id="flowPara4648"
-         style="line-height:154.99999523%">7. Who else needs to be involved?</flowPara></flowRoot>  </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="293.09576"
-     y="257.1424"
-     id="text4321"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan4323"
-       x="293.09576"
-       y="257.1424" /></text>
+         style="font-size:8.75px;line-height:155%">7. Who else needs to be involved?</flowPara></flowRoot>
+  </g>
+  
 </svg>

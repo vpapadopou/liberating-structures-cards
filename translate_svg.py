@@ -22,8 +22,12 @@ def translate_text_svg(lang_to: str):
     except FileNotFoundError:
         it = {}
 
-    els: list[str] = ("tspan", "flowPara")
+    els: tuple[str, ...] = ("tspan", "flowPara")
     path: str = "cards/en/"
+    path_to: str = f"cards/{lang_to}/"
+    if not os.path.exists(path_to):
+        os.makedirs(path_to)
+
     for root, dirs, files in os.walk(path):
         for file in files:
             arbre_svg = ET.parse(path + file)
@@ -37,11 +41,11 @@ def translate_text_svg(lang_to: str):
                         elif it[from_text] != "":
                             # Update text to SVG file
                             text_element.text = it[from_text]
-            arbre_svg.write(f"{path}../{lang_to}/{file}")
+            arbre_svg.write(f"{path_to}/{file}")
 
     with open(f"translate/en_{lang_to}.json", "w", encoding="utf-8") as fp:
         json.dump(it, fp, indent=2)
 
 
 if __name__ == "__main__":
-    translate_text_svg("fr")
+    translate_text_svg("es")

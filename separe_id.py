@@ -15,14 +15,14 @@ def replace_id(file: str, svg: str, id_duplicate: list[str]):
     return svg
 
 
-def walk():
-    path = "cards/fr/"
+def walk(lang: str):
+    path = f"cards/{lang}/"
     ids = {}
     id_duplicate = []
     for file in listdir(path):
         with open(path + file, "r", encoding="utf-8") as fp:
             svg = fp.read()
-            find_duplicate(file, svg, ids, id_duplicate)
+            id_duplicate = find_duplicate(file, svg, ids, id_duplicate)
 
     for file in listdir(path):
         with open(path + file, "r", encoding="utf-8") as fp:
@@ -34,13 +34,15 @@ def walk():
 
 
 def find_duplicate(file: str, svg: str, ids: dict[str, str], id_duplicate: list[str]):
-    for match in re.findall(r'xlink:href="#(.+?)"', svg):
+    # write regexp xlink:href="#(.+?)" or n6:href="#(.+?)"
+    for match in re.findall(r':href="#(.+?)"', svg):
         if match in ids:
             print("Duplicate", match, file, ids[match])
             id_duplicate.append(match)
         else:
             ids[match] = file
+    return id_duplicate
 
 
 if __name__ == "__main__":
-    walk()
+    walk("en")

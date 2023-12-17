@@ -1,10 +1,19 @@
-def pre_full_page_svg():
-    name_page = "print-a4-full.svg"
+# Pages SVG, viewBox, trans
+sizes = {
+    "A4": (297, 210, 1122.5197, 793.70081, 20, 40),
+    "US Letter": (279, 216, 990, 764.99999, 20, 20),
+}
+
+
+def pre_full_page_svg(label_size: str):
+    label_file = label_size.lower().replace(" ", "-")
+    name_page = f"print-{label_file}-full.svg"
     yield '<?xml version="1.0" encoding="UTF-8" standalone="no"?>'
     yield "<!-- Created with Inkscape (http://www.inkscape.org/) -->"
-    yield '<svg width="297mm" height="210mm" viewBox="0 0 1122.5197 793.70081" version="1.1" id="svg1"'
+    yield f'<svg width="{sizes[label_size][0]}mm" height="{sizes[label_size][1]}mm" '
+    yield f'viewBox="0 0 {sizes[label_size][2]} {sizes[label_size][3]}" version="1.1" id="svg1"'
     yield 'xml:space="preserve" inkscape:version="1.3 (0e150ed6c4, 2023-07-21)" sodipodi:docname="' + name_page + '"'
-    yield 'inkscape:export-filename="print-a4-full.pdf" inkscape:export-xdpi="96" inkscape:export-ydpi="96"'
+    yield f'inkscape:export-filename="../print-{label_file}.pdf" inkscape:export-xdpi="96" inkscape:export-ydpi="96"'
     yield 'xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"'
     yield 'xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"'
     yield 'xmlns:xlink="http://www.w3.org/1999/xlink"'
@@ -16,18 +25,22 @@ def pre_full_page_svg():
     yield 'inkscape:cy="461.42639" inkscape:window-width="1920" inkscape:window-height="1017" inkscape:window-x="-8"'
     yield 'inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="layer1">'
     for i in range(1, 10):
-        yield f'<inkscape:page x="{1132.5197 * (i - 1)}" y="0" width="1122.5198" height="793.70081" id="page{i}" '
-        yield 'margin="0" bleed="0" inkscape:export-filename="../print-a4.pdf" inkscape:export-xdpi="96"'
+        yield f'<inkscape:page x="{1132.5197 * (i - 1)}" y="0" '
+        yield f'width="{sizes[label_size][2]}" height="{sizes[label_size][3]}" id="page{i}" '
+        yield 'margin="0" bleed="0" inkscape:export-xdpi="96" '
+        yield f'inkscape:export-filename="../print-{label_file}.pdf"'
         yield 'inkscape:export-ydpi="96"/>'
     yield "</sodipodi:namedview>"
     yield '<defs id="defs1" />'
 
 
-def pre_page_svg(num: int):
-    name_page = f"print-a4-page{num}.svg"
+def pre_page_svg(num: int, label_size: str):
+    label_file = label_size.lower().replace(" ", "-")
+    name_page = f"print-{label_file}-page{num}.svg"
     yield '<?xml version="1.0" encoding="UTF-8" standalone="no"?>'
     yield "<!-- Created with Inkscape (http://www.inkscape.org/) -->"
-    yield '<svg width="297mm" height="210mm" viewBox="0 0 1122.5197 793.70081" version="1.1" id="svg1"'
+    yield f'<svg width="{sizes[label_size][0]}mm" height="{sizes[label_size][1]}mm" '
+    yield f'viewBox="0 0 {sizes[label_size][2]} {sizes[label_size][3]}" version="1.1" id="svg1"'
     yield 'xml:space="preserve" inkscape:version="1.3 (0e150ed6c4, 2023-07-21)" sodipodi:docname="' + name_page + '"'
     yield 'xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"'
     yield 'xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"'
