@@ -27,9 +27,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="-33.25"
-     inkscape:cy="221.25"
+     inkscape:cy="221.75"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer9"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -232,13 +232,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-680.31496)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.708661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0;stroke-opacity:1"
        d="M 19.488189,690.94488 V 1041.7323 H 242.71653 V 690.94488 Z"
        id="path3350"
-       inkscape:connector-curvature="0"
-       transform="translate(4.3385302e-7)" />
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -256,7 +256,8 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Separator"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="display:inline;fill:#37abc8;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 30.118104,74.4155 V 92.1357 H 92.125978 L 102.7559,74.4155 Z"
@@ -481,9 +482,100 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.75;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4370">Posez des questions : &quot;Comment investissons-nous dans les atouts et les conditions qui favorisent la réussite ?&quot; et &quot;Quelles sont les possibilités d'en faire plus ?&quot;</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.75;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4374">Utiliser 1-2-4-All pour discuter </flowPara><flowPara
+         id="flowPara4374">Utiliser 1-2-4-Tous        pour discuter </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.75;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4360" /></flowRoot>
+    <g
+       transform="matrix(0.42480046,0,0,0.42480046,96.812525,247.95049)"
+       inkscape:label="124all"
+       id="g529"
+       style="display:inline;enable-background:new">
+      <g
+   id="g528">
+        <circle
+   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="circle520"
+   cx="24.42671"
+   cy="116.34579"
+   r="1.8426338" />
+
+
+        <circle
+   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="circle521"
+   cx="24.946428"
+   cy="122.84225"
+   r="1.8426338" />
+
+
+        <circle
+   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="circle522"
+   cx="28.915178"
+   cy="127.80319"
+   r="1.8426338" />
+
+
+        <circle
+   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="circle523"
+   cx="35.057289"
+   cy="129.59857"
+   r="1.8426338" />
+
+
+        <circle
+   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="circle524"
+   cx="45.404388"
+   cy="122.22805"
+   r="1.8426338" />
+
+
+        <circle
+   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="circle525"
+   cx="45.451637"
+   cy="115.56622"
+   r="1.8426338" />
+
+
+        <circle
+   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="circle526"
+   cx="34.962799"
+   cy="107.8177"
+   r="1.8426338" />
+
+
+        <path
+   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="m 24.518418,109.65718 5.745913,-0.62797 -2.724878,5.10384 0.07923,-3.31365 z"
+   id="path526"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccc" />
+
+
+        <path
+   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="m 40.914,106.18296 2.381136,5.26688 -5.697669,-1.00534 3.174451,-0.95364 z"
+   id="path527"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccc" />
+
+
+        <path
+   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="m 45.049562,128.62548 -5.779662,0.0733 3.202394,-4.81859 -0.397065,3.29073 z"
+   id="path528"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccc" />
+
+
+      </g>
+
+
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"

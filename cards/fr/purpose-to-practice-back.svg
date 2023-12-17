@@ -26,10 +26,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="111.54609"
-     inkscape:cy="258.97786"
+     inkscape:cx="111.5461"
+     inkscape:cy="240.23953"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer9"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -362,15 +362,15 @@
      inkscape:label="Body"
      sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.10228px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 32.779282,97.59965 V 347.65748 H 198.31446 V 97.59965 H 32.779282"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.10665px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 32.779282,97.59965 V 349.64622 H 198.31446 V 97.59965 H 32.779282"
        id="path4245_ptpb"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4251"
-       transform="translate(1.875)"><flowRegion
+       transform="translate(1.875,-1.875)"><flowRegion
          id="flowRegion4253"><use
            x="0"
            y="0"
@@ -409,13 +409,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4393">Débriefer en utilisant W<flowSpan
    style="font-size:65%;baseline-shift:super"
-   id="flowSpan4415">3</flowSpan> en petits groupes et prioriser les prochaines étapes en tant que que groupe entiers</flowPara></flowRoot>
+   id="flowSpan4415">3</flowSpan> en petits groupes et prioriser les prochaines étapes en tant que que groupe entiers.</flowPara></flowRoot>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Body Right"
      style="display:inline"
+     transform="translate(0,-1.875)"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"

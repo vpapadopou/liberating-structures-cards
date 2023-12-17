@@ -26,7 +26,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="96.999995"
+     inkscape:cx="96.749995"
      inkscape:cy="186.74999"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
@@ -266,7 +266,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Title"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.09617px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 87.342521,113.38582 H 221.45669 V 31.889763 H 87.342521 Z"
@@ -305,7 +306,8 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Separator"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;fill:#71c837;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4178"
@@ -363,10 +365,11 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Body"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.05362px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 34.185532,146.26845 V 340.15748 H 228.48794 V 146.26845 Z"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.0738px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 34.185532,146.26845 V 347.65748 H 228.48794 V 146.26845 Z"
        id="pathdtf4305"
        inkscape:connector-curvature="0" />
     <flowRoot
