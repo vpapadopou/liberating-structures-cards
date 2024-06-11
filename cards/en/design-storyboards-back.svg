@@ -7,12 +7,11 @@
    viewBox="0 0 262.20472 372.04724"
    id="svg2"
    version="1.1"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="design-storyboards-back.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -31,7 +30,7 @@
      inkscape:cx="131.75"
      inkscape:cy="162.75"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer7"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -216,11 +215,11 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 19.488189,690.94488 0,350.78742 223.228341,0 0,-350.78742 z"
+       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.708661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 19.488189,690.94488 V 1041.7323 H 242.71653 V 690.94488 Z"
        id="path3350"
        inkscape:connector-curvature="0"
-       transform="translate(4.3385302e-7,8.6660179e-6)" />
+       transform="translate(4.3385302e-7)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -230,8 +229,8 @@
      sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 42.883734,21.259066 c -7.071438,0 -12.765624,6.544709 -12.765624,14.673828 l 0,38.476559 201.96874,0 0,-38.476559 c 0,-8.129119 -5.69224,-14.673828 -12.76367,-14.673828 l -176.439446,0 z"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.708661;stroke-miterlimit:4;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 42.883734,21.259066 c -7.071438,0 -12.765624,6.544709 -12.765624,14.673828 V 74.409453 H 232.08685 V 35.932894 c 0,-8.129119 -5.69224,-14.673828 -12.76367,-14.673828 z"
        id="rect4195-3" />
   </g>
   <g
@@ -284,23 +283,23 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 99.212598,31.889763 0,31.88976 122.244092,0 0,-31.88976 z"
+       d="m 99.212598,31.889763 v 31.88976 H 221.45669 v -31.88976 z"
        id="path4300_dsb"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4306"
-       transform="translate(-3.4125e-4,6.2852003)"><flowRegion
-         id="flowRegion4308"><use
-           x="0"
-           y="0"
-           xlink:href="#path4300_dsb"
-           id="use4310"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
-         id="flowPara4223">Design Storyboards</flowPara></flowRoot>
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.40665"
+       y="49.878952"
+       id="text58"><tspan
+         sodipodi:role="line"
+         x="103.40664"
+         y="49.878952"
+         id="tspan58"><tspan
+           x="103.40664"
+           y="49.878952"
+           style="font-weight:bold;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start"
+           id="tspan57">Design Storyboards</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -310,7 +309,7 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40.748032,31.889763 0,31.88976 53.149606,0 0,-31.88976 z"
+       d="m 40.748032,31.889763 v 31.88976 h 53.149606 v -31.88976 z"
        id="path4213"
        inkscape:connector-curvature="0" />
     <g
@@ -320,7 +319,7 @@
       <g
          id="g4911">
         <rect
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56499994;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.565;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect4897"
            width="21.475473"
            height="21.475473"
@@ -358,7 +357,7 @@
            sodipodi:nodetypes="aaaaaaacccaa" />
         <path
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 299.84776,111.22516 -2.02218,2.70971 2.58839,0.64709 -2.42662,1.25375 0.70776,2.00195 -2.12328,-0.68754 -0.12132,2.91193 -2.06264,-2.38616 -1.69862,0.76842 0,-1.47618 -3.17479,-0.182 2.10304,-1.57729 -1.94127,-1.27397 2.64903,-0.70776 0.0405,-1.96151 1.69862,1.41552 2.06261,-2.24461 0.32356,2.30528 z"
+           d="m 299.84776,111.22516 -2.02218,2.70971 2.58839,0.64709 -2.42662,1.25375 0.70776,2.00195 -2.12328,-0.68754 -0.12132,2.91193 -2.06264,-2.38616 -1.69862,0.76842 v -1.47618 l -3.17479,-0.182 2.10304,-1.57729 -1.94127,-1.27397 2.64903,-0.70776 0.0405,-1.96151 1.69862,1.41552 2.06261,-2.24461 0.32356,2.30528 z"
            id="path4869"
            inkscape:connector-curvature="0" />
         <path
@@ -373,13 +372,13 @@
            id="path4878"
            inkscape:connector-curvature="0" />
         <circle
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39346153;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.393462;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path4880"
            cx="294.07446"
            cy="116.14915"
            r="0.33365846" />
         <circle
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39346153;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.393462;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path4880-5"
            cx="280.31357"
            cy="116.32103"
@@ -394,7 +393,7 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.354331;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4187"
        width="201.96851"
        height="329.52756"
@@ -408,54 +407,207 @@
      id="layer9"
      inkscape:label="Body"
      sodipodi:insensitive="true">
-    
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40.748032,102.7559 0,237.40158 143.503928,0 0,-237.40158 -143.503928,0"
+       d="M 40.748032,102.7559 V 340.15748 H 184.25196 V 102.7559 H 40.748032"
        id="path4245_dsb"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4251"><flowRegion
-         id="flowRegion4253"><use
-           x="0"
-           y="0"
-           xlink:href="#path4245_dsb"
-           id="use4255"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara4257"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Steps</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4369">Clarify the purpose of working together (use Nine Whys if needed)</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4368"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4370">Evaluate the standard approach you would normally use for this session </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4372"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4374">Reexamine and strengthen the purpose statement if needed</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4376"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4378">Reexamine and decide who needs to participate or be involved</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4380"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4382">Brainstorm microstructures that could achieve the purpose</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4384"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4386">Select the best microstructures</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4394">(choose one plus a backup) </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4388"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4390">Determine the questions and process you will use to evaluate your design </flowPara></flowRoot>
-    
+       x="40.748047"
+       y="110.41211"
+       id="text56"><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="110.41211"
+         id="tspan3"><tspan
+           x="40.748047"
+           y="110.41211"
+           style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
+           id="tspan1">Steps</tspan><tspan
+           dx="4.4989014"
+           style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
+           id="tspan2" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="121.83086"
+         id="tspan5"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan4">Clarify the purpose of working </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="132.76836"
+         id="tspan8"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan6">together (use Nine Whys if needed)</tspan><tspan
+           dx="2.625"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan7" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="143.70586"
+         id="tspan11"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan9"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan10" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="154.64336"
+         id="tspan13"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan12">Evaluate the standard approach you </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="165.58086"
+         id="tspan16"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan14">would normally use for this session </tspan><tspan
+           dx="1.6887512"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan15" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="176.51836"
+         id="tspan19"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan17"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan18" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="187.45586"
+         id="tspan21"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan20">Reexamine and strengthen the </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="198.39336"
+         id="tspan24"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan22">purpose statement if needed</tspan><tspan
+           dx="4.8912506"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan23" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="209.33086"
+         id="tspan27"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan25"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan26" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="220.26836"
+         id="tspan29"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan28">Reexamine and decide who needs to </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="231.20586"
+         id="tspan32"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan30">participate or be involved</tspan><tspan
+           dx="4.8912506"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan31" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="242.14336"
+         id="tspan35"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan33"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan34" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="253.08086"
+         id="tspan37"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan36">Brainstorm microstructures that </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="264.01837"
+         id="tspan40"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan38">could achieve the purpose</tspan><tspan
+           dx="4.5849991"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan39" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="274.95587"
+         id="tspan43"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan41"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan42" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="285.89337"
+         id="tspan46"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan44">Select the best microstructures</tspan><tspan
+           dx="3.7975006"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan45" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="296.83087"
+         id="tspan49"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan47">(choose one plus a backup) </tspan><tspan
+           dx="1.6887589"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan48" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="307.76837"
+         id="tspan52"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan50"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan51" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="318.70587"
+         id="tspan54"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan53">Determine the questions and process </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="329.64337"
+         id="tspan56"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan55">you will use to evaluate your design </tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -508,7 +660,7 @@
          sodipodi:role="line">2-5 min</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 194.88189,102.7559 0,237.40158 26.5748,0 0,-237.40158 z"
+       d="m 194.88189,102.7559 v 237.40158 h 26.5748 V 102.7559 Z"
        id="path4239"
        inkscape:connector-curvature="0" />
     <text
@@ -545,5 +697,4 @@
          id="tspan4400"
          sodipodi:role="line">2-5 min</tspan></text>
   </g>
-  
 </svg>

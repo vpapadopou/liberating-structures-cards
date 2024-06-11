@@ -7,12 +7,11 @@
    viewBox="0 0 262.20472 372.04724"
    id="svg2"
    version="1.1"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="25-10-crowd-sourcing-back.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -31,7 +30,7 @@
      inkscape:cx="122.68302"
      inkscape:cy="124.80434"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer7"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -221,11 +220,11 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 19.488189,690.94488 0,350.78742 223.228341,0 0,-350.78742 z"
+       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.708661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 19.488189,690.94488 V 1041.7323 H 242.71653 V 690.94488 Z"
        id="path3350"
        inkscape:connector-curvature="0"
-       transform="translate(4.3385302e-7,8.6660179e-6)" />
+       transform="translate(4.3385302e-7)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -235,8 +234,8 @@
      sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 42.883734,21.259066 c -7.071438,0 -12.765624,6.544709 -12.765624,14.673828 l 0,38.476559 201.96874,0 0,-38.476559 c 0,-8.129119 -5.69224,-14.673828 -12.76367,-14.673828 l -176.439446,0 z"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.708661;stroke-miterlimit:4;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 42.883734,21.259066 c -7.071438,0 -12.765624,6.544709 -12.765624,14.673828 V 74.409453 H 232.08685 V 35.932894 c 0,-8.129119 -5.69224,-14.673828 -12.76367,-14.673828 z"
        id="rect4195-3" />
   </g>
   <g
@@ -289,25 +288,36 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 99.212598,31.889763 0,31.88976 122.244092,0 0,-31.88976 z"
+       d="m 99.212598,31.889763 v 31.88976 H 221.45669 v -31.88976 z"
        id="path4300_21csb"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4306"
-       transform="translate(-3.4125e-4,-2.0741747)"><flowRegion
-         id="flowRegion4308"><use
-           x="0"
-           y="0"
-           xlink:href="#path4300_21csb"
-           id="use4310"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara4312"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end">25/10</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
-         id="flowPara4223">Crowd Sourcing</flowPara></flowRoot>
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="200.67418"
+       y="41.519577"
+       id="text58"><tspan
+         sodipodi:role="line"
+         x="185.76608"
+         y="41.519577"
+         id="tspan56"><tspan
+           x="185.76608"
+           y="41.519577"
+           style="font-weight:bold;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;direction:ltr;text-anchor:start"
+           id="tspan54">25/10</tspan><tspan
+           dx="0"
+           x="221.4567"
+           y="41.519577"
+           style="font-weight:bold;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;direction:ltr;text-anchor:start"
+           id="tspan55" /></tspan><tspan
+         sodipodi:role="line"
+         x="126.13369"
+         y="58.238327"
+         id="tspan58"><tspan
+           x="126.13369"
+           y="58.238327"
+           style="font-weight:bold;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;direction:ltr;text-anchor:start"
+           id="tspan57">Crowd Sourcing</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -317,7 +327,7 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40.748032,31.889763 0,31.88976 53.149606,0 0,-31.88976 z"
+       d="m 40.748032,31.889763 v 31.88976 h 53.149606 v -31.88976 z"
        id="path4213"
        inkscape:connector-curvature="0" />
     <g
@@ -328,80 +338,80 @@
       <g
          id="g5054">
         <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.89999998;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.9;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect5012"
            width="36.482288"
            height="24.227982"
            x="135.63928"
            y="144.94154" />
         <path
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 141.98203,161.21392 2.28203,0 0,1.76941 -5.44049,0 3.63802,-5.77123 c 0.18196,-0.28866 0.40407,-0.6851 0.34726,-1.33945 -0.0353,-0.40652 -0.56117,-0.70517 -0.95911,-0.71106 -0.37612,-0.006 -0.73126,0.3231 -0.92604,0.64491 -0.20427,0.33749 -0.14883,1.17409 -0.14883,1.17409 l -1.63711,0 c 0,0 -0.0466,-0.63186 0,-0.94258 0.0753,-0.50177 0.12395,-1.06352 0.44648,-1.4552 0.52043,-0.63202 1.34778,-1.13881 2.16628,-1.15756 0.92187,-0.0211 2.01193,0.40641 2.49701,1.19062 0.48432,0.783 0.37381,2.02849 -0.0496,2.7616 z"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 141.98203,161.21392 h 2.28203 v 1.76941 h -5.44049 l 3.63802,-5.77123 c 0.18196,-0.28866 0.40407,-0.6851 0.34726,-1.33945 -0.0353,-0.40652 -0.56117,-0.70517 -0.95911,-0.71106 -0.37612,-0.006 -0.73126,0.3231 -0.92604,0.64491 -0.20427,0.33749 -0.14883,1.17409 -0.14883,1.17409 h -1.63711 c 0,0 -0.0466,-0.63186 0,-0.94258 0.0753,-0.50177 0.12395,-1.06352 0.44648,-1.4552 0.52043,-0.63202 1.34778,-1.13881 2.16628,-1.15756 0.92187,-0.0211 2.01193,0.40641 2.49701,1.19062 0.48432,0.783 0.37381,2.02849 -0.0496,2.7616 z"
            id="path5028"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccssaaccaaaasc" />
         <path
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 146.09961,161.11471 0,1.62057 c 0,0 1.28032,0.34051 1.96784,0.33073 0.78899,-0.0112 1.58346,-0.34824 2.10013,-0.90951 0.55958,-0.60789 0.80624,-1.52204 0.79375,-2.34818 -0.0115,-0.75861 -0.26611,-1.59585 -0.79375,-2.1332 -0.79089,-0.80544 -2.05052,-0.76067 -2.05052,-0.76067 l 0,-1.73633 2.64583,0 0,-1.43867 -4.11758,0 0,4.51445 1.30638,0 c 0.75095,0 1.38907,0.4584 1.4056,1.43868 0.0115,0.68263 -0.0834,1.13386 -0.42995,1.53788 -0.25216,0.29398 -0.67152,0.46003 -1.05833,0.47956 -0.6215,0.0314 -1.7694,-0.59531 -1.7694,-0.59531 z"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 146.09961,161.11471 v 1.62057 c 0,0 1.28032,0.34051 1.96784,0.33073 0.78899,-0.0112 1.58346,-0.34824 2.10013,-0.90951 0.55958,-0.60789 0.80624,-1.52204 0.79375,-2.34818 -0.0115,-0.75861 -0.26611,-1.59585 -0.79375,-2.1332 -0.79089,-0.80544 -2.05052,-0.76067 -2.05052,-0.76067 v -1.73633 h 2.64583 v -1.43867 h -4.11758 v 4.51445 h 1.30638 c 0.75095,0 1.38907,0.4584 1.4056,1.43868 0.0115,0.68263 -0.0834,1.13386 -0.42995,1.53788 -0.25216,0.29398 -0.67152,0.46003 -1.05833,0.47956 -0.6215,0.0314 -1.7694,-0.59531 -1.7694,-0.59531 z"
            id="path5030"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccsaasccccccssaac" />
         <path
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 155.37656,152.92916 1.12448,0 -2.87734,12.79922 -1.19063,0 z"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 155.37656,152.92916 h 1.12448 l -2.87734,12.79922 h -1.19063 z"
            id="path5032"
            inkscape:connector-curvature="0" />
         <path
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 158.37,153.64023 2.89354,0 0,9.24388 -1.83555,0 0,-7.60703 -1.05799,0 z"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 158.37,153.64023 h 2.89354 v 9.24388 h -1.83555 v -7.60703 H 158.37 Z"
            id="path5034"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccc" />
         <path
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 165.90087,153.54762 c 0.78222,0.003 1.58663,0.52805 2.03459,1.1693 0.61464,0.87984 0.56011,2.0326 0.54591,3.17318 -0.014,1.12128 0.2094,2.55176 -0.40559,3.5854 -0.45226,0.76012 -1.29047,1.51036 -2.17491,1.52009 -0.87125,0.01 -1.7249,-0.70384 -2.1749,-1.44994 -0.63068,-1.04569 -0.37535,-2.56468 -0.37535,-3.64421 0,-0.98237 -0.0679,-2.33802 0.56244,-3.23129 0.43875,-0.62173 1.22686,-1.1254 1.98781,-1.12253 z"
            id="path5036"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="aasaaasaa" />
         <path
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 165.90088,155.16126 c 0.46627,-0.004 0.85455,0.24876 0.86528,1.09914 0.0107,0.85038 0.04,2.7557 0.0468,3.81194 0.007,1.05624 -0.32313,1.29557 -0.8419,1.30962 -0.51907,0.0141 -0.92133,-0.32264 -0.91206,-1.26285 0.009,-0.94021 0.002,-2.9976 0.0234,-3.88209 0.0211,-0.88449 0.36795,-1.07205 0.81852,-1.07576 z"
            id="path5038"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="czzaszac" />
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 135.63928,156.72813 36.57584,0"
+           style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 135.63928,156.72813 h 36.57584"
            id="path5018"
            inkscape:connector-curvature="0" />
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 135.59251,159.01996 36.57583,0"
+           style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 135.59251,159.01996 h 36.57583"
            id="path5020"
            inkscape:connector-curvature="0" />
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 135.59251,161.49889 36.52906,0"
+           style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 135.59251,161.49889 h 36.52906"
            id="path5022"
            inkscape:connector-curvature="0" />
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 135.54574,163.96979 36.6226,0"
+           style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 135.54574,163.96979 h 36.6226"
            id="path5024"
            inkscape:connector-curvature="0" />
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 135.59251,166.40997 36.57583,0"
+           style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 135.59251,166.40997 h 36.57583"
            id="path5026"
            inkscape:connector-curvature="0" />
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 135.63928,154.29597 36.52906,0"
+           style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 135.63928,154.29597 h 36.52906"
            id="path5016"
            inkscape:connector-curvature="0" />
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 135.59251,151.86382 36.57583,0"
+           style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 135.59251,151.86382 h 36.57583"
            id="path5014"
            inkscape:connector-curvature="0" />
       </g>
@@ -414,7 +424,7 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.354331;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4187"
        width="201.96851"
        height="329.52756"
@@ -426,48 +436,200 @@
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="Body">
+     inkscape:label="Body"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40.748032,102.7559 0,237.40158 143.503928,0 0,-237.40158 -143.503928,0"
+       d="M 40.748032,102.7559 V 340.15748 H 184.25196 V 102.7559 H 40.748032"
        id="path4245_21csb"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4251"><flowRegion
-         id="flowRegion4253"><use
-           x="0"
-           y="0"
-           xlink:href="#path4245_21csb"
-           id="use4255"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara4257"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Steps</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4412">Explain the process and demonstrate</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4418"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4420">Every participant writes their bold idea on an index card</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4360"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4366">People mill around and cards are passed from person to person (mill and pass only - no reading). When the bell rings, people stop passing cards and pair up to exchange thoughts on the cards in their hands. Participants individually rate the idea on their card with a score of 1 to 5 and write it on the back of the card</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4345"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4380">Conduct four more rounds</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4422"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4386">Find the top ten best-scoring ideas</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4408"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4406">Ask: “What caught your attention?”</flowPara></flowRoot>
-    
+       x="40.748047"
+       y="110.41211"
+       id="text53"><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="110.41211"
+         id="tspan3"><tspan
+           x="40.748047"
+           y="110.41211"
+           style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
+           id="tspan1">Steps</tspan><tspan
+           dx="4.4989014"
+           style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
+           id="tspan2" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="121.83086"
+         id="tspan6"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan4">Explain the process and demonstrate</tspan><tspan
+           dx="4.5850067"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan5" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="132.76836"
+         id="tspan9"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan7"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan8" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="143.70586"
+         id="tspan11"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan10">Every participant writes their bold </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="154.64336"
+         id="tspan14"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan12">idea on an index card</tspan><tspan
+           dx="4.8912506"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan13" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="165.58086"
+         id="tspan17"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan15"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan16" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="176.51836"
+         id="tspan19"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan18">People mill around and cards are </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="187.45586"
+         id="tspan21"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan20">passed from person to person (mill </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="198.39336"
+         id="tspan23"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan22">and pass only - no reading). When the </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="209.33086"
+         id="tspan25"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan24">bell rings, people stop passing cards </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="220.26836"
+         id="tspan27"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan26">and pair up to exchange thoughts on </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="231.20586"
+         id="tspan29"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan28">the cards in their hands. Participants </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="242.14336"
+         id="tspan31"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan30">individually rate the idea on their </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="253.08086"
+         id="tspan33"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan32">card with a score of 1 to 5 and write it </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="264.01837"
+         id="tspan36"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan34">on the back of the card</tspan><tspan
+           dx="4.891243"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan35" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="274.95587"
+         id="tspan39"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan37"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan38" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="285.89337"
+         id="tspan42"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan40">Conduct four more rounds</tspan><tspan
+           dx="3.7975006"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan41" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="296.83087"
+         id="tspan45"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan43"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan44" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="307.76837"
+         id="tspan48"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan46">Find the top ten best-scoring ideas</tspan><tspan
+           dx="3.797493"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan47" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="318.70587"
+         id="tspan51"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan49"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan50" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="329.64337"
+         id="tspan53"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan52">Ask: “What caught your attention?”</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -521,7 +683,7 @@
          sodipodi:role="line">12 min</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 194.88189,102.7559 0,237.40158 26.5748,0 0,-237.40158 z"
+       d="m 194.88189,102.7559 v 237.40158 h 26.5748 V 102.7559 Z"
        id="path4239"
        inkscape:connector-curvature="0" />
     <text
@@ -547,5 +709,4 @@
          id="tspan4430"
          sodipodi:role="line">2 min</tspan></text>
   </g>
-  
 </svg>

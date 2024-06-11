@@ -7,12 +7,11 @@
    viewBox="0 0 262.20472 372.04724"
    id="svg2"
    version="1.1"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="panarchy-back.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -29,9 +28,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
      inkscape:cx="112.78353"
-     inkscape:cy="117.73328"
+     inkscape:cy="118.44038"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer7"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -221,11 +220,11 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 19.488189,690.94488 0,350.78742 223.228341,0 0,-350.78742 z"
+       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.708661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 19.488189,690.94488 V 1041.7323 H 242.71653 V 690.94488 Z"
        id="path3350"
        inkscape:connector-curvature="0"
-       transform="translate(4.3385302e-7,8.6660179e-6)" />
+       transform="translate(4.3385302e-7)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -235,8 +234,8 @@
      sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 42.883734,21.259066 c -7.071438,0 -12.765624,6.544709 -12.765624,14.673828 l 0,38.476559 201.96874,0 0,-38.476559 c 0,-8.129119 -5.69224,-14.673828 -12.76367,-14.673828 l -176.439446,0 z"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.708661;stroke-miterlimit:4;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 42.883734,21.259066 c -7.071438,0 -12.765624,6.544709 -12.765624,14.673828 V 74.409453 H 232.08685 V 35.932894 c 0,-8.129119 -5.69224,-14.673828 -12.76367,-14.673828 z"
        id="rect4195-3" />
   </g>
   <g
@@ -247,7 +246,7 @@
      sodipodi:insensitive="true">
     <path
        style="display:inline;fill:#9955ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 30.118104,74.4155 0,17.7202 62.007874,0 10.629922,-17.7202 z"
+       d="M 30.118104,74.4155 V 92.1357 H 92.125978 L 102.7559,74.4155 Z"
        id="path4215"
        inkscape:connector-curvature="0" />
     <text
@@ -282,7 +281,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path4217"
-       d="m 164.7559,92.1357 0,-17.7202 -62.00787,0 -10.629922,17.7202 z"
+       d="M 164.7559,92.1357 V 74.4155 H 102.74803 L 92.118108,92.1357 Z"
        style="display:inline;fill:#c83771;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text4197"
@@ -303,23 +302,23 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 99.212598,31.889763 0,31.88976 122.244092,0 0,-31.88976 z"
+       d="m 99.212598,31.889763 v 31.88976 H 221.45669 v -31.88976 z"
        id="path4300_pb"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4271"
-       transform="translate(0.71804254,6.2492812)"><flowRegion
-         id="flowRegion4273"><use
-           x="0"
-           y="0"
-           xlink:href="#path4300_pb"
-           id="use4275"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
-         id="flowPara4277">Panarchy</flowPara></flowRoot>
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="110.41415"
+       y="49.843033"
+       id="text48"><tspan
+         sodipodi:role="line"
+         x="165.86032"
+         y="49.843033"
+         id="tspan48"><tspan
+           x="165.86032"
+           y="49.843033"
+           style="font-weight:bold;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start"
+           id="tspan47">Panarchy</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -329,7 +328,7 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40.748032,31.889763 0,31.88976 53.149606,0 0,-31.88976 z"
+       d="m 40.748032,31.889763 v 31.88976 h 53.149606 v -31.88976 z"
        id="path4213"
        inkscape:connector-curvature="0" />
     <g
@@ -339,31 +338,31 @@
       <g
          id="g4845">
         <circle
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29766631;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.297666;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path4796"
            cx="367.30182"
            cy="160.98439"
            r="23.714655" />
         <circle
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.23173955;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.23174;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path4796-6"
            cx="365.52454"
            cy="164.53909"
            r="18.462366" />
         <circle
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19265026;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19265;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path4796-6-9"
            cx="363.09235"
            cy="168.09375"
            r="15.348176" />
         <circle
-           style="opacity:1;fill:#fffffb;fill-opacity:1;stroke:none;stroke-width:0.13197429;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#fffffb;fill-opacity:1;stroke:none;stroke-width:0.131974;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path4796-6-3"
            cx="361.1279"
            cy="171.08719"
            r="10.514208" />
         <circle
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09113473;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0911347;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path4796-6-0"
            cx="359.25705"
            cy="174.36124"
@@ -378,7 +377,7 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.354331;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4187"
        width="201.96851"
        height="329.52756"
@@ -393,56 +392,180 @@
      inkscape:label="Body"
      style="display:inline"
      sodipodi:insensitive="true">
-    
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40.748032,102.7559 0,237.40158 143.503928,0 0,-237.40158 -143.503928,0"
+       d="M 40.748032,102.7559 V 340.15748 H 184.25196 V 102.7559 H 40.748032"
        id="path4245_pb"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4251"><flowRegion
-         id="flowRegion4253"><use
-           x="0"
-           y="0"
-           xlink:href="#path4245_pb"
-           id="use4255"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara4257"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Steps</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4392">Introduce the idea of the Panarchy (and the Ecocycle if needed)</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4350"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4352">Identify the levels of the Panarchy</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4354"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4356">Identify obstacles and opportunities</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4358"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4361">Create and share action steps</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4363"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4365">Debrief using What? So What? Now What? and prioritize the next possible steps</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4367"> </flowPara><flowPara
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Italic';fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4369">(Please refer to the book or website for detailed instructions)</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4360"> </flowPara></flowRoot>
-    
+       x="40.748047"
+       y="110.41211"
+       id="text46"><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="110.41211"
+         id="tspan3"><tspan
+           x="40.748047"
+           y="110.41211"
+           style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
+           id="tspan1">Steps</tspan><tspan
+           dx="4.4989014"
+           style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
+           id="tspan2" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="121.83086"
+         id="tspan5"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan4">Introduce the idea of the Panarchy </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="132.76836"
+         id="tspan8"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan6">(and the Ecocycle if needed)</tspan><tspan
+           dx="2.625"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan7" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="143.70586"
+         id="tspan11"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan9"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan10" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="154.64336"
+         id="tspan14"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan12">Identify the levels of the Panarchy</tspan><tspan
+           dx="4.4799881"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan13" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="165.58086"
+         id="tspan17"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan15"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan16" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="176.51836"
+         id="tspan20"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan18">Identify obstacles and opportunities</tspan><tspan
+           dx="3.7975006"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan19" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="187.45586"
+         id="tspan23"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan21"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan22" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="198.39336"
+         id="tspan26"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan24">Create and share action steps</tspan><tspan
+           dx="3.7975006"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan25" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="209.33086"
+         id="tspan29"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan27"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan28" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="220.26836"
+         id="tspan31"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan30">Debrief using What? So What? Now </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="231.20586"
+         id="tspan33"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan32">What? and prioritize the next </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="242.14336"
+         id="tspan36"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan34">possible steps</tspan><tspan
+           dx="3.7975006"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan35" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="253.08086"
+         id="tspan39"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan37"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan38" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="264.01837"
+         id="tspan41"><tspan
+           x="40.748047"
+           style="font-style:italic;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Italic';fill:#1a1a1a"
+           id="tspan40">(Please refer to the book or website for </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="274.95587"
+         id="tspan44"><tspan
+           x="40.748047"
+           style="font-style:italic;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Italic';fill:#1a1a1a"
+           id="tspan42">detailed instructions)</tspan><tspan
+           dx="2.4149933"
+           style="font-style:italic;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Italic';fill:#1a1a1a"
+           id="tspan43" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="285.89337"
+         id="tspan46"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan45"> </tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Body Right"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        id="text4227"
        y="122.74852"
@@ -467,7 +590,7 @@
          sodipodi:role="line">30min</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 194.88189,102.7559 0,237.40158 26.5748,0 0,-237.40158 z"
+       d="m 194.88189,102.7559 v 237.40158 h 26.5748 V 102.7559 Z"
        id="path4239"
        inkscape:connector-curvature="0" />
     <text
@@ -506,5 +629,4 @@
          id="tspan4398"
          sodipodi:role="line">15 min</tspan></text>
   </g>
-  
 </svg>

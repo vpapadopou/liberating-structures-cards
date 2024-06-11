@@ -7,12 +7,11 @@
    viewBox="0 0 262.20472 372.04724"
    id="svg2"
    version="1.1"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="drawing-together-back.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -29,9 +28,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="171.25"
-     inkscape:cy="166.75"
+     inkscape:cy="206.75"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer7"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -221,11 +220,11 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 19.488189,690.94488 0,350.78742 223.228341,0 0,-350.78742 z"
+       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.708661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 19.488189,690.94488 V 1041.7323 H 242.71653 V 690.94488 Z"
        id="path3350"
        inkscape:connector-curvature="0"
-       transform="translate(4.3385302e-7,8.6660179e-6)" />
+       transform="translate(4.3385302e-7)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -235,8 +234,8 @@
      sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 42.883734,21.259066 c -7.071438,0 -12.765624,6.544709 -12.765624,14.673828 l 0,38.476559 201.96874,0 0,-38.476559 c 0,-8.129119 -5.69224,-14.673828 -12.76367,-14.673828 l -176.439446,0 z"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.708661;stroke-miterlimit:4;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 42.883734,21.259066 c -7.071438,0 -12.765624,6.544709 -12.765624,14.673828 V 74.409453 H 232.08685 V 35.932894 c 0,-8.129119 -5.69224,-14.673828 -12.76367,-14.673828 z"
        id="rect4195-3" />
   </g>
   <g
@@ -289,23 +288,23 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 99.212598,31.889763 0,31.88976 122.244092,0 0,-31.88976 z"
+       d="m 99.212598,31.889763 v 31.88976 H 221.45669 v -31.88976 z"
        id="path4300_dtb"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4306"
-       transform="translate(-3.4125e-4,6.2852003)"><flowRegion
-         id="flowRegion4308"><use
-           x="0"
-           y="0"
-           xlink:href="#path4300_dtb"
-           id="use4310"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
-         id="flowPara4223">Drawing Together</flowPara></flowRoot>
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="116.01755"
+       y="49.878952"
+       id="text55"><tspan
+         sodipodi:role="line"
+         x="116.01754"
+         y="49.878952"
+         id="tspan55"><tspan
+           x="116.01754"
+           y="49.878952"
+           style="font-weight:bold;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start"
+           id="tspan54">Drawing Together</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -315,7 +314,7 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40.748032,31.889763 0,31.88976 53.149606,0 0,-31.88976 z"
+       d="m 40.748032,31.889763 v 31.88976 h 53.149606 v -31.88976 z"
        id="path4213"
        inkscape:connector-curvature="0" />
     <g
@@ -325,44 +324,44 @@
       <g
          id="g1064">
         <path
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 281.54601,74.394682 c 2.12826,-0.914622 5.03236,1.73027 7.14748,0.614687 1.2488,-0.658658 2.28088,-2.289629 2.08359,-3.68763 -0.41014,-2.906282 -3.61573,-4.945065 -6.28385,-6.168099 -5.34805,-2.451481 -14.79285,-3.836972 -23.21553,-1.830359 -6.34178,1.510858 -11.79076,4.162128 -16.33968,10.429317 -1.56558,2.156953 -2.26481,5.225622 -2.11667,7.970573 0.18525,3.432485 1.53144,6.960477 3.70417,9.624218 3.17775,3.895879 7.86967,6.741713 12.7,8.135938 5.46559,1.577583 11.53283,1.190473 17.06562,-0.132292 4.67042,-1.116595 9.46543,-3.058461 12.89844,-6.416146 2.10111,-2.055011 4.01517,-4.867457 4.10104,-7.805208 0.0394,-1.349734 -0.27477,-3.96768 -1.84405,-5.220819 -1.57243,-1.255647 -3.45519,-1.385572 -5.5629,-1.218713 -1.69741,0.134377 -4.37948,0.715227 -5.49757,-0.432986 -0.79638,-1.272936 0.0269,-3.340672 1.15991,-3.862481 z"
            id="path1043"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="caasssaaaaassscc" />
         <circle
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.6;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path1045"
            cx="255.89053"
            cy="74.034935"
            r="4.1627226" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.6;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect1047"
            width="7.2964578"
            height="7.2964578"
            x="266.69489"
            y="87.552094" />
         <path
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 278.23386,90.240812 4,-7 4,7 z"
            id="path1049"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccc" />
         <path
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 260.59113,84.465127 c -1.00617,-0.900277 -2.71695,-1.599013 -4.18611,-1.449935 -1.68654,0.171136 -3.56152,1.107605 -4.3732,2.595854 -0.81796,1.499769 -0.79822,3.726014 0.18709,5.121552 0.91423,1.294866 2.83501,1.774048 4.41997,1.753958 1.15246,-0.01461 2.45038,-0.4646 3.18051,-1.356395 0.82709,-1.010232 1.2884,-2.626463 0.79512,-3.835318 -0.46478,-1.13903 -1.83587,-1.979374 -3.06357,-2.057974 -1.28726,-0.08241 -2.89926,0.569488 -3.46114,1.730571 -0.39891,0.824331 -0.10136,2.057268 0.56126,2.689399 0.71402,0.681163 2.00308,0.824184 2.92326,0.46772 0.6414,-0.24847 1.32747,-0.927024 1.28624,-1.613638 -0.0439,-0.731819 -0.84143,-1.437532 -1.56687,-1.543481 -0.42788,-0.06249 -1.14592,0.608036 -1.14592,0.608036 0,0 1.20908,0.392157 1.28624,0.912059 0.0579,0.39022 -0.33082,0.918859 -0.72497,0.935442 -0.65594,0.0276 -1.19009,-0.809155 -1.33301,-1.449935 -0.12452,-0.558273 0.0759,-1.2699 0.51449,-1.637028 0.47008,-0.39346 1.2576,-0.468048 1.82412,-0.233859 0.72915,0.301415 1.23203,1.112585 1.44994,1.870887 0.21637,0.752952 0.12901,1.644288 -0.23386,2.338607 -0.29451,0.563518 -0.82907,1.102307 -1.44994,1.239462 -1.07486,0.237446 -2.33629,-0.182271 -3.18051,-0.88867 -0.77009,-0.644372 -1.22752,-1.712028 -1.30962,-2.712786 -0.0791,-0.963702 0.18449,-2.052885 0.81851,-2.782945 0.61762,-0.711167 1.63129,-1.132097 2.57247,-1.169303 1.1433,-0.0452 2.35095,0.693376 3.22728,1.169305 0.35357,0.192022 1.28207,-0.433297 0.98222,-0.701585 z"
            id="path1051"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="saaaaaaaaaaaacaaaaaaaaaaaass" />
         <path
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 269.08027,67.229584 c -0.1364,-0.348518 -0.14695,-0.789238 0.0233,-1.122531 0.2,-0.39154 0.62823,-0.679383 1.05238,-0.795126 0.46175,-0.126003 0.98807,-0.02821 1.42655,0.163707 0.33927,0.148498 0.67097,0.396433 0.84192,0.724968 0.21696,0.416985 0.26548,0.950096 0.14027,1.403165 -0.0905,0.3276 -0.30887,0.657211 -0.60804,0.81851 -0.4811,0.259386 -1.12813,0.292947 -1.63703,0.09355 -0.55435,-0.21721 -1.02236,-0.7318 -1.23935,-1.286242 z"
            id="path1053"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="caaaaaaaac" />
         <path
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 268.6827,68.2118 -4.58366,0.514495 4.13932,2.432151 -2.05795,7.062599 4.49011,-4.560287 2.31524,5.028007 0.67818,-7.881109 4.3966,-2.432153 -4.95786,-0.35079 c 0,0 -0.74192,0.723603 -1.21606,0.888669 -0.56731,0.1975 -1.21612,0.208246 -1.80074,0.07016 -0.5195,-0.122707 -1.40318,-0.771742 -1.40318,-0.771742 z"
            id="path1055"
            inkscape:connector-curvature="0"
@@ -377,7 +376,7 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.354331;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4187"
        width="201.96851"
        height="329.52756"
@@ -391,48 +390,198 @@
      id="layer9"
      inkscape:label="Body"
      sodipodi:insensitive="true">
-    
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40.748032,102.7559 0,237.40158 143.503928,0 0,-237.40158 -143.503928,0"
+       d="M 40.748032,102.7559 V 340.15748 H 184.25196 V 102.7559 H 40.748032"
        id="path4245_dtb"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4251"><flowRegion
-         id="flowRegion4253"><use
-           x="0"
-           y="0"
-           xlink:href="#path4245_dtb"
-           id="use4255"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara4257"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Steps</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4371">Introduce the concept and symbols</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4343"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4345">Practice drawing the symbols</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4347"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4353">Working individually, combine the symbols to create the first draft of a story about “the journey” of working on a challenge or an innovation</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4359"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4361">Create a second draft. Refine the story by dramatizing the size, placement and color of the symbols</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4363"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4365">Invite another individual or the small group to interpret your drawings. The person who has done the drawing does not speak</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4367"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4369">Ask the whole group: “Together, what do the drawings reveal?” </flowPara></flowRoot>
-    
+       x="40.748047"
+       y="110.41211"
+       id="text53"><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="110.41211"
+         id="tspan3"><tspan
+           x="40.748047"
+           y="110.41211"
+           style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
+           id="tspan1">Steps</tspan><tspan
+           dx="4.4989014"
+           style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
+           id="tspan2" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="121.83086"
+         id="tspan6"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan4">Introduce the concept and symbols</tspan><tspan
+           dx="3.7975006"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan5" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="132.76836"
+         id="tspan9"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan7"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan8" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="143.70586"
+         id="tspan12"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan10">Practice drawing the symbols</tspan><tspan
+           dx="3.7975006"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan11" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="154.64336"
+         id="tspan15"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan13"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan14" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="165.58086"
+         id="tspan17"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan16">Working individually, combine the </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="176.51836"
+         id="tspan19"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan18">symbols to create the first draft of a </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="187.45586"
+         id="tspan21"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan20">story about “the journey” of working </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="198.39336"
+         id="tspan24"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan22">on a challenge or an innovation</tspan><tspan
+           dx="4.8649979"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan23" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="209.33086"
+         id="tspan27"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan25"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan26" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="220.26836"
+         id="tspan29"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan28">Create a second draft. Refine the </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="231.20586"
+         id="tspan31"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan30">story by dramatizing the size, </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="242.14336"
+         id="tspan34"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan32">placement and color of the symbols</tspan><tspan
+           dx="3.7975006"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan33" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="253.08086"
+         id="tspan37"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan35"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan36" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="264.01837"
+         id="tspan39"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan38">Invite another individual or the small </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="274.95587"
+         id="tspan41"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan40">group to interpret your drawings. The </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="285.89337"
+         id="tspan43"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan42">person who has done the drawing </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="296.83087"
+         id="tspan46"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan44">does not speak</tspan><tspan
+           dx="4.5850029"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan45" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="307.76837"
+         id="tspan49"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan47"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan48" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="318.70587"
+         id="tspan51"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan50">Ask the whole group: “Together, what </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="329.64337"
+         id="tspan53"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan52">do the drawings reveal?” </tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -485,7 +634,7 @@
          sodipodi:role="line">10 min</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 194.88189,102.7559 0,237.40158 26.5748,0 0,-237.40158 z"
+       d="m 194.88189,102.7559 v 237.40158 h 26.5748 V 102.7559 Z"
        id="path4239"
        inkscape:connector-curvature="0" />
     <text
@@ -511,5 +660,4 @@
          y="319.47971"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">5 min</tspan></text>
   </g>
-  
 </svg>

@@ -7,12 +7,11 @@
    viewBox="0 0 262.20472 372.04724"
    id="svg2"
    version="1.1"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="discovery-and-action-dialog-back.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -29,9 +28,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
      inkscape:cx="147.24999"
-     inkscape:cy="236.74999"
+     inkscape:cy="197.24999"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer9"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -221,11 +220,11 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 19.488189,690.94488 0,350.78742 223.228341,0 0,-350.78742 z"
+       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.708661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 19.488189,690.94488 V 1041.7323 H 242.71653 V 690.94488 Z"
        id="path3350"
        inkscape:connector-curvature="0"
-       transform="translate(4.3385302e-7,8.6660179e-6)" />
+       transform="translate(4.3385302e-7)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -235,8 +234,8 @@
      sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 42.883734,21.259066 c -7.071438,0 -12.765624,6.544709 -12.765624,14.673828 l 0,38.476559 201.96874,0 0,-38.476559 c 0,-8.129119 -5.69224,-14.673828 -12.76367,-14.673828 l -176.439446,0 z"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.708661;stroke-miterlimit:4;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 42.883734,21.259066 c -7.071438,0 -12.765624,6.544709 -12.765624,14.673828 V 74.409453 H 232.08685 V 35.932894 c 0,-8.129119 -5.69224,-14.673828 -12.76367,-14.673828 z"
        id="rect4195-3" />
   </g>
   <g
@@ -289,23 +288,31 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 99.212598,31.889763 0,31.88976 122.244092,0 0,-31.88976 z"
+       d="m 99.212598,31.889763 v 31.88976 H 221.45669 v -31.88976 z"
        id="path4300_daadb"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4271"
-       transform="translate(-3.4125e-4,-2.1558092)"><flowRegion
-         id="flowRegion4273"><use
-           x="0"
-           y="0"
-           xlink:href="#path4300_daadb"
-           id="use4275"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
-         id="flowPara4277">Discovery &amp; Action Dialog</flowPara></flowRoot>
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-83.249069"
+       y="41.437943"
+       id="text37"><tspan
+         sodipodi:role="line"
+         x="107.75613"
+         y="41.437943"
+         id="tspan35"><tspan
+           x="107.75613"
+           y="41.437943"
+           style="font-weight:bold;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start"
+           id="tspan34">Discovery &amp; Action </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="183.30399"
+         y="58.156693"
+         id="tspan37"><tspan
+           x="183.30399"
+           y="58.156693"
+           style="font-weight:bold;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start"
+           id="tspan36">Dialog</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -315,7 +322,7 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40.748032,31.889763 0,31.88976 53.149606,0 0,-31.88976 z"
+       d="m 40.748032,31.889763 v 31.88976 h 53.149606 v -31.88976 z"
        id="path4213"
        inkscape:connector-curvature="0" />
     <g
@@ -325,19 +332,19 @@
       <g
          id="g4728">
         <path
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.36500001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 139.37872,58.066587 c 0,0 3.82746,-3.722216 6.18936,-4.866444 2.66765,-1.292347 5.68297,-2.15463 8.6462,-2.078868 1.72365,0.04407 3.62416,0.37566 4.96094,1.464657 1.01058,0.823256 1.62339,2.16414 1.84264,3.449031 0.20906,1.225167 -0.005,2.576613 -0.56697,3.68527 -0.54365,1.072831 -1.59116,1.82707 -2.55134,2.551338 -1.16504,0.878792 -2.43872,1.676407 -3.82701,2.126117 -1.509,0.488811 -3.19143,0.973301 -4.7247,0.566962 -1.02304,-0.27112 -2.48545,-0.83358 -2.55134,-1.889879 -0.0596,-0.956117 1.21468,-1.570988 2.07887,-1.984375 1.2036,-0.575741 2.64758,-0.705843 3.96875,-0.519718 1.17336,0.165302 2.41076,0.591076 3.26004,1.41741 0.77261,0.751735 1.30609,1.853248 1.37017,2.929316 0.0927,1.556078 -0.42745,3.277541 -1.46466,4.441222 -0.77361,0.867931 -2.00292,1.457279 -3.16555,1.464656 -1.31121,0.0083 -3.55514,-0.295643 -3.59077,-1.606399 -0.0337,-1.23922 2.07759,-1.543898 3.30729,-1.700892 1.42505,-0.181934 2.95779,0.23193 4.20498,0.94494 0.89958,0.514283 1.61992,1.363707 2.12612,2.267858 0.49461,0.883445 1.02101,1.940543 0.8032,2.929316 -0.19955,0.90587 -0.95727,1.728643 -1.79539,2.126115 -0.88237,0.418458 -2.01865,0.399924 -2.92931,0.04725 -0.6857,-0.265555 -1.54814,-0.778886 -1.6064,-1.511903 -0.0551,-0.693982 0.684,-1.286792 1.27567,-1.653646 0.91215,-0.565565 2.0876,-0.707356 3.15793,-0.628049 1.02619,0.07604 2.13919,0.355511 2.9059,1.041809 0.55179,0.49392 0.97597,1.995838 0.97597,1.995838"
            id="path4719"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="caaaaaaaaaaaaaaaaaaaaaaaaaac" />
         <path
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 151.33222,63.263758 c 0,0 0.25777,-3.453864 0.11357,-5.172361 -0.12754,-1.519996 -0.86142,-4.494198 -0.86142,-4.494198 0,0 2.01867,2.456104 3.16268,3.554499 1.09991,1.056048 3.53829,2.899264 3.53829,2.899264 0,0 -0.93367,-3.421247 -1.59829,-5.060672 -0.39246,-0.968072 -0.86671,-1.905824 -1.40357,-2.801905 -0.67976,-1.134574 -1.69692,-2.058189 -2.28981,-3.240474 -0.61619,-1.228743 -1.03551,-2.568055 -1.27567,-3.921504 -0.55929,-3.151881 -0.35267,-9.596878 -0.35267,-9.596878 0,0 -1.79219,2.223401 -2.31511,3.52969 -0.47252,1.180408 -0.68675,3.752084 -0.68675,3.752084 0,0 -1.03737,-0.196773 -1.5391,-0.0859 -0.59493,0.131472 -1.16789,0.444437 -1.61213,0.861419 -0.39949,0.374977 -0.86477,1.397843 -0.86477,1.397843 0,0 -2.54275,-1.533187 -3.89145,-2.145688 -1.36764,-0.621104 -4.23504,-1.53958 -4.23504,-1.53958 0,0 2.42158,2.377963 3.69673,3.496278 1.20161,1.053818 2.57346,1.911404 3.72105,3.023809 1.0021,0.971381 2.00528,1.979175 2.74033,3.165552 1.3552,2.187301 1.84449,4.811657 2.97656,7.122345 0.88588,1.808201 2.97657,5.256374 2.97657,5.256374 z"
            id="path4721"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cacacaaaacacaacacaaaacc" />
         <path
-           style="fill:#fffffa;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#fffffa;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 144.45919,44.267792 c 0.26624,-0.478909 0.77469,-0.856645 1.30293,-1.002261 0.50269,-0.138574 1.09882,-0.07154 1.5535,0.183748 0.40113,0.225229 0.73083,0.64197 0.85193,1.085783 0.13308,0.487735 0.0482,1.063227 -0.20046,1.50339 -0.26308,0.465616 -0.74155,0.845402 -1.25283,1.002261 -0.46992,0.144171 -1.03495,0.111883 -1.46998,-0.116932 -0.43793,-0.230335 -0.79346,-0.678599 -0.93544,-1.1526 -0.14452,-0.482449 -0.0944,-1.063208 0.15035,-1.503389 z"
            id="path4723"
            inkscape:connector-curvature="0"
@@ -352,7 +359,7 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.354331;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4187"
        width="201.96851"
        height="329.52756"
@@ -367,28 +374,49 @@
      inkscape:label="Body"
      style="display:inline"
      sodipodi:insensitive="true">
-    
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40.748032,102.7559 0,237.40158 143.503928,0 0,-237.40158 -143.503928,0"
+       d="M 40.748032,102.7559 V 340.15748 H 184.25196 V 102.7559 H 40.748032"
        id="path4245_daadb"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4251"><flowRegion
-         id="flowRegion4253"><use
-           x="0"
-           y="0"
-           xlink:href="#path4245_daadb"
-           id="use4255"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara4257"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Invitation &amp; Steps</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4672">State the purpose of the initiative being discussed and the DAD and invite brief round-robin introductions </flowPara></flowRoot>
-    
+       x="40.748047"
+       y="110.41211"
+       id="text46"><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="110.41211"
+         id="tspan40"><tspan
+           x="40.748047"
+           y="110.41211"
+           style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
+           id="tspan38">Invitation &amp; Steps</tspan><tspan
+           dx="4.4989014"
+           style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
+           id="tspan39" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="121.83086"
+         id="tspan42"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan41">State the purpose of the initiative </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="132.76836"
+         id="tspan44"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan43">being discussed and the DAD and </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="143.70586"
+         id="tspan46"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan45">invite brief round-robin introductions </tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -431,7 +459,7 @@
          sodipodi:role="line">60 min</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 194.88189,102.7559 0,237.40158 26.5748,0 0,-237.40158 z"
+       d="m 194.88189,102.7559 v 237.40158 h 26.5748 V 102.7559 Z"
        id="path4239"
        inkscape:connector-curvature="0" />
     <text
@@ -452,40 +480,155 @@
      inkscape:label="Questions"
      style="display:inline"
      sodipodi:insensitive="true">
-    
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40.748032,122.54724 0,217.61024 180.708658,0 0,-217.61024 z"
+       d="M 40.748032,122.54724 V 340.15748 H 221.45669 V 122.54724 Z"
        id="path4429"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4431"
-       transform="translate(0,35)"><flowRegion
-         id="flowRegion4433"><use
-           x="0"
-           y="0"
-           xlink:href="#path4429"
-           id="use4435"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         style="font-size:8.75px;line-height:140%"
-         id="flowPara4760">Ask the 7 questions one by one:</flowPara><flowPara
-         id="flowPara4632"
-         style="font-size:8.75px;line-height:155%">1. How do you know the problem is exists?</flowPara><flowPara
-         id="flowPara4634"
-         style="font-size:8.75px;line-height:155%">2. How do you contribute the solution?</flowPara><flowPara
-         id="flowPara4636"
-         style="font-size:8.75px;line-height:155%">3. What prevents you from doing this or taking these actions all the time?</flowPara><flowPara
-         id="flowPara4638"
-         style="font-size:8.75px;line-height:155%">4. Do you know anybody who is able to frequently solve the problem and overcome barriers? What made their success possible?</flowPara><flowPara
-         id="flowPara4642"
-         style="font-size:8.75px;line-height:155%">5. Do you have any ideas?</flowPara><flowPara
-         id="flowPara4644"
-         style="font-size:8.75px;line-height:155%">6. What needs to be done to make it happen? Any volunteers?</flowPara><flowPara
-         id="flowPara4648"
-         style="font-size:8.75px;line-height:155%">7. Who else needs to be involved?</flowPara></flowRoot>
+       x="40.748047"
+       y="166.16454"
+       id="text33"><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="166.16454"
+         id="tspan3"><tspan
+           x="40.748047"
+           y="166.16454"
+           style="font-size:8.75px;line-height:140%"
+           id="tspan1">Ask the 7 questions one by one:</tspan><tspan
+           dx="0"
+           x="170.86926"
+           y="166.16454"
+           style="font-size:8.75px;line-height:140%"
+           id="tspan2" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="179.07079"
+         id="tspan6"><tspan
+           x="40.748047"
+           y="179.07079"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan4">1. How do you know the problem is exists?</tspan><tspan
+           dx="0"
+           x="214.49672"
+           y="179.07079"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan5" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="192.63329"
+         id="tspan9"><tspan
+           x="40.748047"
+           y="192.63329"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan7">2. How do you contribute the solution?</tspan><tspan
+           dx="0"
+           x="199.44675"
+           y="192.63329"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan8" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="206.19579"
+         id="tspan11"><tspan
+           x="40.748047"
+           y="206.19579"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan10">3. What prevents you from doing this or </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="219.75829"
+         id="tspan14"><tspan
+           x="40.748047"
+           y="219.75829"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan12">taking these actions all the time?</tspan><tspan
+           dx="0"
+           x="175.20927"
+           y="219.75829"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan13" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="233.32079"
+         id="tspan16"><tspan
+           x="40.748047"
+           y="233.32079"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan15">4. Do you know anybody who is able to </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="246.88329"
+         id="tspan18"><tspan
+           x="40.748047"
+           y="246.88329"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan17">frequently solve the problem and overcome </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="260.4458"
+         id="tspan20"><tspan
+           x="40.748047"
+           y="260.4458"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan19">barriers? What made their success </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="274.0083"
+         id="tspan23"><tspan
+           x="40.748047"
+           y="274.0083"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan21">possible?</tspan><tspan
+           dx="0"
+           x="78.434273"
+           y="274.0083"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan22" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="287.5708"
+         id="tspan26"><tspan
+           x="40.748047"
+           y="287.5708"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan24">5. Do you have any ideas?</tspan><tspan
+           dx="0"
+           x="146.2643"
+           y="287.5708"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan25" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="301.13327"
+         id="tspan28"><tspan
+           x="40.748047"
+           y="301.13327"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan27">6. What needs to be done to make it </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="314.69577"
+         id="tspan31"><tspan
+           x="40.748047"
+           y="314.69577"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan29">happen? Any volunteers?</tspan><tspan
+           dx="0"
+           x="143.42052"
+           y="314.69577"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan30" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="328.25827"
+         id="tspan33"><tspan
+           x="40.748047"
+           y="328.25827"
+           style="font-size:8.75px;line-height:155%"
+           id="tspan32">7. Who else needs to be involved?</tspan></tspan></text>
   </g>
-  
 </svg>

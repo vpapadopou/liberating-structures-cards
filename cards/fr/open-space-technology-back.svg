@@ -5,12 +5,11 @@
    viewBox="0 0 262.20472 372.04724"
    id="svg2"
    version="1.1"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="open-space-technology-back.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -27,9 +26,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="160.25"
-     inkscape:cy="215.25"
+     inkscape:cy="215.75"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer10"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -235,11 +234,11 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 19.488189,690.94488 0,350.78742 223.228341,0 0,-350.78742 z"
+       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.708661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 19.488189,690.94488 V 1041.7323 H 242.71653 V 690.94488 Z"
        id="path3350"
        inkscape:connector-curvature="0"
-       transform="translate(4.3385302e-7,8.6660179e-6)" />
+       transform="translate(4.3385302e-7)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -249,8 +248,8 @@
      sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 42.883734,21.259066 c -7.071438,0 -12.765624,6.544709 -12.765624,14.673828 l 0,38.476559 201.96874,0 0,-38.476559 c 0,-8.129119 -5.69224,-14.673828 -12.76367,-14.673828 l -176.439446,0 z"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.708661;stroke-miterlimit:4;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 42.883734,21.259066 c -7.071438,0 -12.765624,6.544709 -12.765624,14.673828 V 74.409453 H 232.08685 V 35.932894 c 0,-8.129119 -5.69224,-14.673828 -12.76367,-14.673828 z"
        id="rect4195-3" />
   </g>
   <g
@@ -303,23 +302,31 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 99.212598,31.889763 0,31.88976 122.244092,0 0,-31.88976 z"
+       d="m 99.212598,31.889763 v 31.88976 H 221.45669 v -31.88976 z"
        id="path4300_ostb"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4306"
-       transform="translate(50.248682,-2.3060167)"><flowRegion
-         id="flowRegion4308"><use
-           x="0"
-           y="0"
-           xlink:href="#path4300_ostb"
-           id="use4310"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara4312"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">Open Space Technology</flowPara></flowRoot>
+       x="149.46158"
+       y="41.287735"
+       id="text59"><tspan
+         sodipodi:role="line"
+         x="149.46158"
+         y="41.287735"
+         id="tspan57"><tspan
+           x="149.46158"
+           y="41.287735"
+           style="font-weight:bold;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+           id="tspan56">Open Space </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="149.46158"
+         y="58.006485"
+         id="tspan59"><tspan
+           x="149.46158"
+           y="58.006485"
+           style="font-weight:bold;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+           id="tspan58">Technology</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -329,7 +336,7 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40.748032,31.889763 0,31.88976 53.149606,0 0,-31.88976 z"
+       d="m 40.748032,31.889763 v 31.88976 h 53.149606 v -31.88976 z"
        id="path4213"
        inkscape:connector-curvature="0" />
     <g
@@ -340,14 +347,14 @@
          id="g4870">
         <path
            inkscape:connector-curvature="0"
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 1221.8535,145.94336 c -2.3868,-0.004 -5.5643,0.0428 -8.7265,0.23828 -7.041,0.43519 -13.3516,2.11133 -13.3516,2.11133 0,0 0.1555,17.26572 -0.6973,25.83984 -0.294,2.95632 -1.5195,8.78321 -1.5195,8.78321 l -15.8203,-2.3711 -4.9688,-26.5957 c 0,0 -4.1468,1.11108 -9.7597,3.94726 -5.6518,2.85579 -8.3536,5.37696 -8.3536,5.37696 0,0 4.399,8.63623 4.3575,15.20898 -0.05,7.74637 -0.076,23.69336 -0.076,23.69336 0,0 -2.1358,1.16996 -4.8965,1.69336 -2.8818,0.54637 -4.4277,0.2168 -4.4277,0.2168 l -5.9629,-24.91602 c 0,0 -2.5478,0.20915 -5.5332,2.57227 -2.9038,2.29854 -3.4082,4.76562 -3.4082,4.76562 l 6.7265,14.13867 c 0,0 4.7894,11.07526 5.043,12.6875 0.3096,1.96703 -0.8398,21.93555 -0.8398,21.93555 l 2.4453,1.14649 0.5215,-15.22266 1.3886,0.85352 -0.457,27.58984 1.5274,2.98047 1.7578,0.0762 0.4589,-28.50781 11.0821,-2.67383 -1.9492,45.50586 1.5136,0.43359 3.836,-27.61719 23.1308,9.56641 0.2168,30.37305 1.6739,0.0527 1.3515,-30.04687 16.4297,-13.02539 -0.3789,26.42773 1.4063,-0.0547 1.0253,-4.80859 0.9727,-27.83398 -21.1797,-6.67969 -0.076,-9.70703 -9.0195,-3.51563 -4.3555,-12.38086 13.2227,-9.0957 -0.3828,21.85937 2.0644,0.15235 0,-3.82227 2.1387,-4.89062 0.8418,-20.02344 4.5859,5.42578 -0.1543,22.08789 2.9825,-4.35742 0.5019,-16.32813 11.8789,-3.16015 0,6.57226 1.1465,2.67579 2.1387,0.6875 0.2304,-10.92969 7.7188,-2.0625 -1.7578,26.06054 1.6055,0.23047 1.375,-3.66797 2.0644,-23.92382 -9.5547,-8.78907 L 1225.8379,146 c 0,0 -1.5976,-0.0529 -3.9844,-0.0566 z m -55.9805,47.8457 12.375,4.05469 -12.4296,3.67383 z"
-           transform="scale(0.26458333,0.26458333)"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1221.8535,145.94336 c -2.3868,-0.004 -5.5643,0.0428 -8.7265,0.23828 -7.041,0.43519 -13.3516,2.11133 -13.3516,2.11133 0,0 0.1555,17.26572 -0.6973,25.83984 -0.294,2.95632 -1.5195,8.78321 -1.5195,8.78321 l -15.8203,-2.3711 -4.9688,-26.5957 c 0,0 -4.1468,1.11108 -9.7597,3.94726 -5.6518,2.85579 -8.3536,5.37696 -8.3536,5.37696 0,0 4.399,8.63623 4.3575,15.20898 -0.05,7.74637 -0.076,23.69336 -0.076,23.69336 0,0 -2.1358,1.16996 -4.8965,1.69336 -2.8818,0.54637 -4.4277,0.2168 -4.4277,0.2168 l -5.9629,-24.91602 c 0,0 -2.5478,0.20915 -5.5332,2.57227 -2.9038,2.29854 -3.4082,4.76562 -3.4082,4.76562 l 6.7265,14.13867 c 0,0 4.7894,11.07526 5.043,12.6875 0.3096,1.96703 -0.8398,21.93555 -0.8398,21.93555 l 2.4453,1.14649 0.5215,-15.22266 1.3886,0.85352 -0.457,27.58984 1.5274,2.98047 1.7578,0.0762 0.4589,-28.50781 11.0821,-2.67383 -1.9492,45.50586 1.5136,0.43359 3.836,-27.61719 23.1308,9.56641 0.2168,30.37305 1.6739,0.0527 1.3515,-30.04687 16.4297,-13.02539 -0.3789,26.42773 1.4063,-0.0547 1.0253,-4.80859 0.9727,-27.83398 -21.1797,-6.67969 -0.076,-9.70703 -9.0195,-3.51563 -4.3555,-12.38086 13.2227,-9.0957 -0.3828,21.85937 2.0644,0.15235 v -3.82227 l 2.1387,-4.89062 0.8418,-20.02344 4.5859,5.42578 -0.1543,22.08789 2.9825,-4.35742 0.5019,-16.32813 11.8789,-3.16015 v 6.57226 l 1.1465,2.67579 2.1387,0.6875 0.2304,-10.92969 7.7188,-2.0625 -1.7578,26.06054 1.6055,0.23047 1.375,-3.66797 2.0644,-23.92382 -9.5547,-8.78907 L 1225.8379,146 c 0,0 -1.5976,-0.0529 -3.9844,-0.0566 z m -55.9805,47.8457 12.375,4.05469 -12.4296,3.67383 z"
+           transform="scale(0.26458333)"
            id="path4849" />
         <path
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 1253.0469,148.06445 -3.5157,24.99219 c 0,0 -3.0154,2.96061 -4.6621,4.2793 -2.2286,1.78472 -7.0312,4.89062 -7.0312,4.89062 l -1.1465,26.98047 2.1387,0.22852 1.4531,-4.73828 0.8398,-19.1836 5.6739,1.14649 -1.0117,9.70703 1.5664,0.15234 1.3379,-2.36914 0.8066,-6.99414 11.7207,2.12109 -1.709,21.07618 1.4453,0.0976 1.543,-5.19726 1.668,-15.61914 6.6797,-4.23829 -2.5821,16.10938 -3.0898,15.88867 -17.3223,1.51758 -0.6113,8.25586 -20.1778,4.89062 c 0,0 -1.4705,10.18016 -2.0136,15.29297 -0.6558,6.17387 -1.502,18.56446 -1.502,18.56446 l 2.3692,0.0762 4.1757,-28.07227 11.6094,22.00781 c 0,0 -1.0022,7.42085 -1.4199,10.65821 -0.518,4.01505 -0.7039,7.20224 -0.9121,11.35742 -0.1429,2.84932 -0.3652,8.77148 -0.3652,8.77148 l 2.1132,0.39454 3.4473,-29.54883 10.8145,-2.17969 0.3437,5.3125 2.1406,0 0.8789,-6.07617 19.295,-3.54883 -1.1426,29.65039 1.834,0.15234 5.1211,-57.09179 16.9668,6.57226 -0.076,28.58399 2.2929,0.0762 1.2579,-28.24414 4.3125,-5.83008 0.6972,16.01367 1.6035,-2.57031 1.0704,-23.23828 c 0,0 4.7877,-8.13418 7.2617,-12.15235 3.1206,-5.06857 6.4956,-9.63056 8.9414,-11.46484 0,0 0.061,-2.7109 -0.459,-5.50195 -0.6086,-3.26577 -2.1387,-4.4336 -2.1387,-4.4336 l -16.3574,29.19532 c 0,0 3.7381,-16.00695 6.4199,-24.15039 3.4942,-10.61037 5.7324,-22.69922 5.7324,-22.69922 0,0 -2.3633,-3.12976 -6.6484,-6.03907 -4.1334,-2.80633 -8.2539,-4.35546 -8.2539,-4.35546 0,0 -3.6835,5.2787 -5.0449,8.17773 -1.863,3.96695 -2.5106,8.41443 -4.2031,12.45703 -1.1133,2.65889 -3.8985,7.7207 -3.8985,7.7207 l -20.3301,3.74414 c 0,0 3.7309,-15.44135 4.6621,-23.31054 0.5502,-4.63321 1.1466,-14.82704 1.1466,-14.82704 0,0 -7.5809,-2.33309 -13.3751,-3.05773 -4.3459,-0.47548 -8.0545,-0.50306 -12.381,-0.38087 z m 18.8769,48.45508 10.7012,8.78906 -10.3184,11.76953 -4.7382,0.0762 z m 37.4883,5.08203 -2.9414,12.4961 -8.9434,-4.05078 1.0704,-6.57227 z m -13.6426,2.33203 -0.7265,5.04297 -7.1446,-3.43945 z"
-           transform="scale(0.26458333,0.26458333)"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1253.0469,148.06445 -3.5157,24.99219 c 0,0 -3.0154,2.96061 -4.6621,4.2793 -2.2286,1.78472 -7.0312,4.89062 -7.0312,4.89062 l -1.1465,26.98047 2.1387,0.22852 1.4531,-4.73828 0.8398,-19.1836 5.6739,1.14649 -1.0117,9.70703 1.5664,0.15234 1.3379,-2.36914 0.8066,-6.99414 11.7207,2.12109 -1.709,21.07618 1.4453,0.0976 1.543,-5.19726 1.668,-15.61914 6.6797,-4.23829 -2.5821,16.10938 -3.0898,15.88867 -17.3223,1.51758 -0.6113,8.25586 -20.1778,4.89062 c 0,0 -1.4705,10.18016 -2.0136,15.29297 -0.6558,6.17387 -1.502,18.56446 -1.502,18.56446 l 2.3692,0.0762 4.1757,-28.07227 11.6094,22.00781 c 0,0 -1.0022,7.42085 -1.4199,10.65821 -0.518,4.01505 -0.7039,7.20224 -0.9121,11.35742 -0.1429,2.84932 -0.3652,8.77148 -0.3652,8.77148 l 2.1132,0.39454 3.4473,-29.54883 10.8145,-2.17969 0.3437,5.3125 h 2.1406 l 0.8789,-6.07617 19.295,-3.54883 -1.1426,29.65039 1.834,0.15234 5.1211,-57.09179 16.9668,6.57226 -0.076,28.58399 2.2929,0.0762 1.2579,-28.24414 4.3125,-5.83008 0.6972,16.01367 1.6035,-2.57031 1.0704,-23.23828 c 0,0 4.7877,-8.13418 7.2617,-12.15235 3.1206,-5.06857 6.4956,-9.63056 8.9414,-11.46484 0,0 0.061,-2.7109 -0.459,-5.50195 -0.6086,-3.26577 -2.1387,-4.4336 -2.1387,-4.4336 l -16.3574,29.19532 c 0,0 3.7381,-16.00695 6.4199,-24.15039 3.4942,-10.61037 5.7324,-22.69922 5.7324,-22.69922 0,0 -2.3633,-3.12976 -6.6484,-6.03907 -4.1334,-2.80633 -8.2539,-4.35546 -8.2539,-4.35546 0,0 -3.6835,5.2787 -5.0449,8.17773 -1.863,3.96695 -2.5106,8.41443 -4.2031,12.45703 -1.1133,2.65889 -3.8985,7.7207 -3.8985,7.7207 l -20.3301,3.74414 c 0,0 3.7309,-15.44135 4.6621,-23.31054 0.5502,-4.63321 1.1466,-14.82704 1.1466,-14.82704 0,0 -7.5809,-2.33309 -13.3751,-3.05773 -4.3459,-0.47548 -8.0545,-0.50306 -12.381,-0.38087 z m 18.8769,48.45508 10.7012,8.78906 -10.3184,11.76953 -4.7382,0.0762 z m 37.4883,5.08203 -2.9414,12.4961 -8.9434,-4.05078 1.0704,-6.57227 z m -13.6426,2.33203 -0.7265,5.04297 -7.1446,-3.43945 z"
+           transform="scale(0.26458333)"
            id="path4853"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccsccccccccccccccccccccccccc" />
@@ -361,7 +368,7 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.354331;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4187"
        width="201.96851"
        height="329.52756"
@@ -380,40 +387,160 @@
        d="M 34.654282,96.66215 V 295.62623 H 206.28321 V 96.66215 H 34.654282"
        id="path4245_ostb"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.85;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4251"><flowRegion
-         id="flowRegion4253"
-         style="line-height:0.85"><use
-           x="0"
-           y="0"
-           xlink:href="#path4245_ostb"
-           id="use4255"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara4257"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Etapes</flowPara><flowPara
-         id="flowPara4259"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a">L'animateur présente le concept et les mécanismes de l'espace ouvert, y compris les éléments suivants <flowSpan
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Italic'"
-   id="flowSpan4278">Loi des deux Pieds</flowSpan> and ses <flowSpan
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.85;font-family:Lato;-inkscape-font-specification:'Lato Italic'"
-   id="flowSpan4280">quatres Objectifs</flowSpan></flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-         id="flowPara4302"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-         id="flowPara4261">Ouverture de la &quot;place de marché&quot; : les participants proposent des thèmes ainsi qu'une date et un lieu de rencontre pour les groupes.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-         id="flowPara4263"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-         id="flowPara4304">Les animateurs facilitent les sessions.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-         id="flowPara4300">Les groupes élaborent des recommandations et des plans d'action. Des notes sont prises et publiées ou affichées</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-         id="flowPara4265"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4284">Débriefing, distribution des actes et clôture</flowPara></flowRoot>
+       x="34.654297"
+       y="105.18061"
+       id="text55"><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="105.18061"
+         id="tspan14"><tspan
+           x="34.654297"
+           y="105.18061"
+           style="font-weight:bold;font-size:8.75px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
+           id="tspan12">Etapes</tspan><tspan
+           dx="4.4989014"
+           style="font-weight:bold;font-size:8.75px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
+           id="tspan13" /></tspan><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="115.38061"
+         id="tspan16"><tspan
+           x="34.654297"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan15">L'animateur présente le concept et les </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="125.58061"
+         id="tspan18"><tspan
+           x="34.654297"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan17">mécanismes de l'espace ouvert, y compris les </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="135.78059"
+         id="tspan22"><tspan
+           x="34.654297"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan19">éléments suivants </tspan><tspan
+           style="font-size:8.75px;font-style:italic;font-family:Lato;-inkscape-font-specification:'Lato Italic'"
+           id="tspan20">Loi des deux Pieds</tspan><tspan
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan21"> and ses </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="145.98061"
+         id="tspan25"><tspan
+           x="34.654297"
+           style="font-size:8.75px;font-style:italic;font-family:Lato;-inkscape-font-specification:'Lato Italic'"
+           id="tspan23">quatres Principes</tspan><tspan
+           dx="3.4037476"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan24" /></tspan><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="156.1806"
+         id="tspan28"><tspan
+           x="34.654297"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan26"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan27" /></tspan><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="166.38058"
+         id="tspan30"><tspan
+           x="34.654297"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan29">Ouverture de la &quot;place de marché&quot; : les </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="176.5806"
+         id="tspan32"><tspan
+           x="34.654297"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan31">participants proposent des thèmes ainsi </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="186.78059"
+         id="tspan34"><tspan
+           x="34.654297"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan33">qu'une date et un lieu de rencontre pour les </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="196.98058"
+         id="tspan37"><tspan
+           x="34.654297"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan35">groupes.</tspan><tspan
+           dx="1.8549995"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan36" /></tspan><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="207.18057"
+         id="tspan40"><tspan
+           x="34.654297"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan38"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan39" /></tspan><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="217.38058"
+         id="tspan43"><tspan
+           x="34.654297"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan41">Les animateurs facilitent les sessions.</tspan><tspan
+           dx="1.855011"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan42" /></tspan><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="227.58058"
+         id="tspan45"><tspan
+           x="34.654297"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan44">Les groupes élaborent des recommandations </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="237.78056"
+         id="tspan47"><tspan
+           x="34.654297"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan46">et des plans d'action. Des notes sont prises et </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="247.98058"
+         id="tspan50"><tspan
+           x="34.654297"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan48">publiées ou affichées</tspan><tspan
+           dx="3.7975006"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan49" /></tspan><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="258.18057"
+         id="tspan53"><tspan
+           x="34.654297"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan51"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan52" /></tspan><tspan
+         sodipodi:role="line"
+         x="34.654297"
+         y="268.38055"
+         id="tspan55"><tspan
+           x="34.654297"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan54">Débriefing, distribution des actes et clôture</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -482,28 +609,61 @@
        d="m 35.123032,273.03162 v 63.84461 H 226.61294 v -63.84461 z"
        id="path4343_ostb"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4351"
-       transform="translate(0,21.875)"><flowRegion
-         id="flowRegion4353"><use
-           x="0"
-           y="0"
-           xlink:href="#path4343_ostb"
-           id="use4355"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara4357"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Fonctionne avec</flowPara><flowPara
-         id="flowPara4359"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a">Before: Celebrity Interview </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-         id="flowPara1">                  Appreciative Interviews           TRIZ</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-         id="flowPara4290">After: 25/10 Crowd Sourcing</flowPara></flowRoot>
+       x="35.123047"
+       y="302.5625"
+       id="text11"><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="302.5625"
+         id="tspan3"><tspan
+           x="35.123047"
+           y="302.5625"
+           style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
+           id="tspan1">Fonctionne avec</tspan><tspan
+           dx="0"
+           x="99.457764"
+           y="302.5625"
+           style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
+           id="tspan2" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="313.98126"
+         id="tspan6"><tspan
+           x="35.123047"
+           y="313.98126"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan4">Avant : Celebrity Interview </tspan><tspan
+           dx="0"
+           x="141.30431"
+           y="313.98126"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan5" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="324.91876"
+         id="tspan9"><tspan
+           x="35.123047"
+           y="324.91876"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan7">                 Appreciative Interviews           TRIZ</tspan><tspan
+           dx="0"
+           x="194.39949"
+           y="324.91876"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan8" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="335.85626"
+         id="tspan11"><tspan
+           x="35.123047"
+           y="335.85626"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan10">Après : 25/10 Crowd Sourcing</tspan></tspan></text>
     <g
-       transform="matrix(0.33999158,0,0,0.33999156,55.850443,256.05024)"
+       transform="matrix(0.33999158,0,0,0.33999156,53.975443,256.05024)"
        inkscape:label="celebrityinterview"
        id="layer30"
        style="display:inline;enable-background:new">
@@ -524,7 +684,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.24976562,0,0,0.24976559,143.25799,302.64724)"
+       transform="matrix(0.24976562,0,0,0.24976559,141.38299,302.64724)"
        inkscape:label="appreciativeinterviews"
        id="layer11"
        style="display:inline;enable-background:new">
@@ -605,7 +765,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.37351303,0,0,0.37351303,172.43653,274.42178)"
+       transform="matrix(0.37351303,0,0,0.37351303,170.56153,274.42178)"
        inkscape:label="triz"
        id="layer6-3"
        style="display:inline">
@@ -617,7 +777,7 @@
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(0.47503174,0,0,0.47503174,85.312041,259.01817)"
+       transform="matrix(0.47503174,0,0,0.47503174,87.187041,259.01817)"
        style="display:inline;enable-background:new"
        inkscape:label="25to10crowdsourcing"
        id="layer17">

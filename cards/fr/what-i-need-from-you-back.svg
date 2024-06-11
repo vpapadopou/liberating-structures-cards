@@ -5,12 +5,11 @@
    viewBox="0 0 262.20472 372.04724"
    id="svg2"
    version="1.1"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="what-i-need-from-you-back.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -29,7 +28,7 @@
      inkscape:cx="108.25"
      inkscape:cy="197.25"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer7"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -235,11 +234,11 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 19.488189,690.94488 0,350.78742 223.228341,0 0,-350.78742 z"
+       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:0.708661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 19.488189,690.94488 V 1041.7323 H 242.71653 V 690.94488 Z"
        id="path3350"
        inkscape:connector-curvature="0"
-       transform="translate(4.3385302e-7,8.6660179e-6)" />
+       transform="translate(4.3385302e-7)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -249,8 +248,8 @@
      sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:2.83464575, 2.83464575;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 42.883734,21.259066 c -7.071438,0 -12.765624,6.544709 -12.765624,14.673828 l 0,38.476559 201.96874,0 0,-38.476559 c 0,-8.129119 -5.69224,-14.673828 -12.76367,-14.673828 l -176.439446,0 z"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.708661;stroke-miterlimit:4;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 42.883734,21.259066 c -7.071438,0 -12.765624,6.544709 -12.765624,14.673828 V 74.409453 H 232.08685 V 35.932894 c 0,-8.129119 -5.69224,-14.673828 -12.76367,-14.673828 z"
        id="rect4195-3" />
   </g>
   <g
@@ -306,20 +305,28 @@
        d="m 99.212598,31.889763 v 31.88976 H 221.45669 v -31.88976 z"
        id="path4300_winfyb"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4306"
-       transform="translate(-3.4125e-4,-2.1688707)"><flowRegion
-         id="flowRegion4308"><use
-           x="0"
-           y="0"
-           xlink:href="#path4300_winfyb"
-           id="use4310"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
-         id="flowPara4223">Ce Que j'Attends De Vous (WINFY)</flowPara></flowRoot>
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.70052"
+       y="41.424881"
+       id="text67"><tspan
+         sodipodi:role="line"
+         x="103.70052"
+         y="41.424881"
+         id="tspan65"><tspan
+           x="103.70052"
+           y="41.424881"
+           style="font-weight:bold;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start"
+           id="tspan64">Ce Que j'Attends De </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="137.33395"
+         y="58.143631"
+         id="tspan67"><tspan
+           x="137.33395"
+           y="58.143631"
+           style="font-weight:bold;font-size:13.375px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start"
+           id="tspan66">Vous (WINFY)</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26974px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;direction:ltr;display:inline;vector-effect:none;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.823974px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;enable-background:new;stop-color:#000000"
@@ -341,7 +348,7 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40.748032,31.889763 0,31.88976 53.149606,0 0,-31.88976 z"
+       d="m 40.748032,31.889763 v 31.88976 h 53.149606 v -31.88976 z"
        id="path4213"
        inkscape:connector-curvature="0" />
     <g
@@ -351,15 +358,15 @@
       <g
          id="g5139">
         <path
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 303.22387,5.7474527 18.56888,0 0,18.5688923 -18.56888,0 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 303.22387,5.7474527 h 18.56888 V 24.316345 h -18.56888 z"
            id="path5135"
            inkscape:connector-curvature="0" />
         <path
            inkscape:connector-curvature="0"
-           style="opacity:1;fill:#000505;fill-opacity:1;stroke:none;stroke-width:3.64724398;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 1146.043,21.722656 0,11.351563 c 0.4097,0.285785 15.568,10.842066 24.207,13.800781 1.6724,0.572772 3.5341,1.175121 5.25,0.75 2.5483,-0.631355 3.9506,-3.617729 6.375,-4.625 1.2082,-0.501982 2.5682,-0.561761 3.875,-0.625 3.2944,-0.15942 6.586,0.563119 9.875,0.316406 1.5729,-0.117959 5.1113,-0.779297 5.1113,-0.779297 0,0 0.034,1.794988 -0.2363,2.587891 -0.3133,0.920939 -1.1488,1.654233 -2,2.125 -2.6386,1.459317 -5.3641,0.537796 -8.125,1.75 -0.7096,0.311584 -2.25,1.4375 -2.25,1.4375 0,0 2.7386,3.52438 4.625,4.9375 2.4325,1.822212 5.3447,2.896067 8,4.375 2.8038,1.561674 5.1624,2.892139 8.375,4.75 1.9293,1.115724 2.1557,2.088392 1.75,3.25 -0.3137,0.898741 -1.2249,1.281972 -2.375,0.75 -4.608,-2.131313 -13.875,-6.375 -13.875,-6.375 l -0.5801,0.925781 c 0,0 9.1183,6.356011 14.2051,9.824219 1.1086,0.755864 2.3838,2.442367 1.75,3.625 -0.5762,1.075109 -2.6115,1.178735 -3.625,0.5 C 1202.2024,73.580655 1192.4414,67 1192.4414,67 l -0.8457,0.984375 c 0,0 7.5145,5.686576 12.0293,8.765625 1.1571,0.789169 2.4941,2.77665 1.625,3.875 -1.1009,1.391233 -3.8422,0.204584 -5.25,-0.875 -3.5878,-2.75122 -12.6777,-9.125 -12.6777,-9.125 L 1186.5,71.5 c 0,0 5.4799,5.043159 8.875,7.75 0.9272,0.739234 1.9412,2.514753 1.125,3.375 -1.0785,1.136629 -3.3344,-0.238829 -4.5312,-1.25 -3.6184,-3.056939 -6.1384,-5.807281 -9.8887,-7.816406 -1.6499,-0.883892 -4.0046,-1.864133 -5.6406,-2.773438 -1.6,-0.889255 -3.0659,-2.181985 -4.3887,-3.447265 -2.1296,-2.036954 -3.3251,-3.362978 -5.7715,-5.00586 -6.0737,-4.078742 -20.105,-8.772498 -20.2363,-8.816406 l 0,38.388672 70.1816,0 0,-70.181641 z"
-           transform="scale(0.26458333,0.26458333)"
+           style="opacity:1;fill:#000505;fill-opacity:1;stroke:none;stroke-width:3.64724;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1146.043,21.722656 v 11.351563 c 0.4097,0.285785 15.568,10.842066 24.207,13.800781 1.6724,0.572772 3.5341,1.175121 5.25,0.75 2.5483,-0.631355 3.9506,-3.617729 6.375,-4.625 1.2082,-0.501982 2.5682,-0.561761 3.875,-0.625 3.2944,-0.15942 6.586,0.563119 9.875,0.316406 1.5729,-0.117959 5.1113,-0.779297 5.1113,-0.779297 0,0 0.034,1.794988 -0.2363,2.587891 -0.3133,0.920939 -1.1488,1.654233 -2,2.125 -2.6386,1.459317 -5.3641,0.537796 -8.125,1.75 -0.7096,0.311584 -2.25,1.4375 -2.25,1.4375 0,0 2.7386,3.52438 4.625,4.9375 2.4325,1.822212 5.3447,2.896067 8,4.375 2.8038,1.561674 5.1624,2.892139 8.375,4.75 1.9293,1.115724 2.1557,2.088392 1.75,3.25 -0.3137,0.898741 -1.2249,1.281972 -2.375,0.75 -4.608,-2.131313 -13.875,-6.375 -13.875,-6.375 l -0.5801,0.925781 c 0,0 9.1183,6.356011 14.2051,9.824219 1.1086,0.755864 2.3838,2.442367 1.75,3.625 -0.5762,1.075109 -2.6115,1.178735 -3.625,0.5 C 1202.2024,73.580655 1192.4414,67 1192.4414,67 l -0.8457,0.984375 c 0,0 7.5145,5.686576 12.0293,8.765625 1.1571,0.789169 2.4941,2.77665 1.625,3.875 -1.1009,1.391233 -3.8422,0.204584 -5.25,-0.875 -3.5878,-2.75122 -12.6777,-9.125 -12.6777,-9.125 L 1186.5,71.5 c 0,0 5.4799,5.043159 8.875,7.75 0.9272,0.739234 1.9412,2.514753 1.125,3.375 -1.0785,1.136629 -3.3344,-0.238829 -4.5312,-1.25 -3.6184,-3.056939 -6.1384,-5.807281 -9.8887,-7.816406 -1.6499,-0.883892 -4.0046,-1.864133 -5.6406,-2.773438 -1.6,-0.889255 -3.0659,-2.181985 -4.3887,-3.447265 -2.1296,-2.036954 -3.3251,-3.362978 -5.7715,-5.00586 -6.0737,-4.078742 -20.105,-8.772498 -20.2363,-8.816406 v 38.388672 h 70.1816 V 21.722656 Z"
+           transform="scale(0.26458333)"
            id="rect5083" />
       </g>
     </g>
@@ -371,7 +378,7 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.354331;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4187"
        width="201.96851"
        height="329.52756"
@@ -390,142 +397,291 @@
        d="M 35.123032,99.0059 V 346.25123 H 193.62696 V 99.0059 H 35.123032"
        id="path4245_winfyb"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.85;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4251"><flowRegion
-         id="flowRegion4253"
-         style="line-height:0.85"><use
-           x="0"
-           y="0"
-           xlink:href="#path4245_winfyb"
-           id="use4255"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara4257"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;fill-opacity:1">Etapes</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4393">Expliquer le processus</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4376"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4390">Les groupes utilisent 1-2-4-Tous </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara1">(ou 1-2-All) pour dresser une liste de leurs principaux besoins à partir de ceux de chacun des autres groupes présents dans la salle, en utilisant le format :</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4328">&quot;Ce que j'attends de vous, c'est... &quot;</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4308"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4310">Les porte-parole se réunissent et exposent leurs deux principaux besoins 1 par 1 les uns aux autres</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4312"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4314">Les porte-parole (avec le groupe) </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara2">écrivent l'une des quatre réponses à chaque demande : Oui, Non, J'essaierai, Peu importe</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4316"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4318">Les porte-parole répètent leurs demandes et partagent leurs réponses</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4326">(Pas de discussion, pas d'élaboration)</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4396" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4398">De brief with W<flowSpan
-   style="font-size:65%;line-height:0.85;baseline-shift:super"
-   id="flowSpan4320">3</flowSpan></flowPara></flowRoot>
+       x="35.123047"
+       y="107.52436"
+       id="text63"><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="107.52436"
+         id="tspan3"><tspan
+           x="35.123047"
+           y="107.52436"
+           style="font-weight:bold;font-size:8.75px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
+           id="tspan1">Etapes</tspan><tspan
+           dx="4.4989014"
+           style="font-weight:bold;font-size:8.75px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
+           id="tspan2" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="117.72436"
+         id="tspan7"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan4">Expliquer le processus</tspan><tspan
+           dx="3.7975006"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan6" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="127.92436"
+         id="tspan10"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan8"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan9" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="138.12434"
+         id="tspan13"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan11">Les groupes utilisent 1-2-4-Tous </tspan><tspan
+           dx="1.6887589"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan12" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="148.32436"
+         id="tspan15"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan14">(ou 1-2-All) pour dresser une liste de </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="158.52435"
+         id="tspan17"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan16">leurs principaux besoins à partir de ceux </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="168.72433"
+         id="tspan19"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan18">de chacun des autres groupes présents </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="178.92435"
+         id="tspan22"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan20">dans la salle, en utilisant le format :</tspan><tspan
+           dx="2.2050171"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan21" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="189.12434"
+         id="tspan25"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan23">&quot;Ce que j'attends de vous, c'est... &quot;</tspan><tspan
+           dx="3.4737473"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan24" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="199.32433"
+         id="tspan28"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan26"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan27" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="209.52432"
+         id="tspan30"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan29">Les porte-parole se réunissent et </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="219.72433"
+         id="tspan32"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan31">exposent leurs deux principaux besoins 1 </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="229.92433"
+         id="tspan35"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan33">par 1 les uns aux autres</tspan><tspan
+           dx="3.7975006"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan34" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="240.12431"
+         id="tspan38"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan36"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan37" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="250.32433"
+         id="tspan41"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan39">Les porte-parole (avec le groupe) </tspan><tspan
+           dx="1.6887512"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan40" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="260.52432"
+         id="tspan43"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan42">écrivent l'une des quatre réponses à </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="270.7243"
+         id="tspan45"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan44">chaque demande : Oui, Non, J'essaierai, </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="280.92432"
+         id="tspan48"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan46">Peu importe</tspan><tspan
+           dx="4.5849991"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan47" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="291.12433"
+         id="tspan51"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan49"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan50" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="301.32434"
+         id="tspan53"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan52">Les porte-parole répètent leurs </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="311.52435"
+         id="tspan56"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan54">demandes et partagent leurs réponses</tspan><tspan
+           dx="3.7975006"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan55" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="321.72437"
+         id="tspan59"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan57">(Pas de discussion, pas d'élaboration)</tspan><tspan
+           dx="2.625"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan58" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="331.92438"
+         id="tspan61"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan60" /></tspan><tspan
+         sodipodi:role="line"
+         x="35.123047"
+         y="342.12439"
+         id="tspan63"><tspan
+           x="35.123047"
+           style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan62">De brief with W³</tspan></tspan></text>
     <g
        transform="matrix(0.42480046,0,0,0.42480046,148.84377,83.41924)"
        inkscape:label="124all"
        id="g524"
        style="display:inline;enable-background:new">
       <g
-   id="g523">
+         id="g523">
         <circle
-   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="circle515"
-   cx="24.42671"
-   cy="116.34579"
-   r="1.8426338" />
-
-
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle515"
+           cx="24.42671"
+           cy="116.34579"
+           r="1.8426338" />
         <circle
-   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="circle516"
-   cx="24.946428"
-   cy="122.84225"
-   r="1.8426338" />
-
-
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle516"
+           cx="24.946428"
+           cy="122.84225"
+           r="1.8426338" />
         <circle
-   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="circle517"
-   cx="28.915178"
-   cy="127.80319"
-   r="1.8426338" />
-
-
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle517"
+           cx="28.915178"
+           cy="127.80319"
+           r="1.8426338" />
         <circle
-   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="circle518"
-   cx="35.057289"
-   cy="129.59857"
-   r="1.8426338" />
-
-
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle518"
+           cx="35.057289"
+           cy="129.59857"
+           r="1.8426338" />
         <circle
-   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="circle519"
-   cx="45.404388"
-   cy="122.22805"
-   r="1.8426338" />
-
-
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle519"
+           cx="45.404388"
+           cy="122.22805"
+           r="1.8426338" />
         <circle
-   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="circle520"
-   cx="45.451637"
-   cy="115.56622"
-   r="1.8426338" />
-
-
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle520"
+           cx="45.451637"
+           cy="115.56622"
+           r="1.8426338" />
         <circle
-   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="circle521"
-   cx="34.962799"
-   cy="107.8177"
-   r="1.8426338" />
-
-
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle521"
+           cx="34.962799"
+           cy="107.8177"
+           r="1.8426338" />
         <path
-   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="m 24.518418,109.65718 5.745913,-0.62797 -2.724878,5.10384 0.07923,-3.31365 z"
-   id="path521"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="ccccc" />
-
-
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 24.518418,109.65718 5.745913,-0.62797 -2.724878,5.10384 0.07923,-3.31365 z"
+           id="path521"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
         <path
-   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="m 40.914,106.18296 2.381136,5.26688 -5.697669,-1.00534 3.174451,-0.95364 z"
-   id="path522"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="ccccc" />
-
-
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 40.914,106.18296 2.381136,5.26688 -5.697669,-1.00534 3.174451,-0.95364 z"
+           id="path522"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
         <path
-   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="m 45.049562,128.62548 -5.779662,0.0733 3.202394,-4.81859 -0.397065,3.29073 z"
-   id="path523"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="ccccc" />
-
-
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 45.049562,128.62548 -5.779662,0.0733 3.202394,-4.81859 -0.397065,3.29073 z"
+           id="path523"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
       </g>
-
-
     </g>
     <g
        transform="matrix(0.4015328,0,0,0.4015328,69.77172,328.40358)"
@@ -533,48 +689,41 @@
        id="g282"
        style="display:inline;enable-background:new">
       <g
-   id="g281">
+         id="g281">
         <g
-   aria-label="w"
-   transform="scale(1.0680496,0.93628615)"
-   style="font-style:normal;font-weight:normal;font-size:11.3035px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282588"
-   id="g278">
+           aria-label="w"
+           transform="scale(1.0680496,0.93628615)"
+           style="font-style:normal;font-weight:normal;font-size:11.3035px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282588"
+           id="g278">
           <path
-   inkscape:connector-curvature="0"
-   d="m 82.849002,43.390842 3.070037,-8.861963 3.038388,8.861963 h 3.766334 l 4.589231,-15.255236 h -4.620881 l -2.183841,8.956913 -2.658589,-8.956913 h -3.892934 l -2.658589,8.956913 -2.18384,-8.956913 h -4.620881 l 4.589231,15.255236 z"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.6499px;font-family:JournalSans;-inkscape-font-specification:'JournalSans Bold';stroke-width:0.282588"
-   id="path278" />
-
+             inkscape:connector-curvature="0"
+             d="m 82.849002,43.390842 3.070037,-8.861963 3.038388,8.861963 h 3.766334 l 4.589231,-15.255236 h -4.620881 l -2.183841,8.956913 -2.658589,-8.956913 h -3.892934 l -2.658589,8.956913 -2.18384,-8.956913 h -4.620881 l 4.589231,15.255236 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.6499px;font-family:JournalSans;-inkscape-font-specification:'JournalSans Bold';stroke-width:0.282588"
+             id="path278" />
         </g>
-
         <g
-   aria-label="w"
-   transform="scale(1.0702434,0.93436691)"
-   style="font-style:normal;font-weight:normal;font-size:11.3267px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.283169"
-   id="g279">
+           aria-label="w"
+           transform="scale(1.0702434,0.93436691)"
+           style="font-style:normal;font-weight:normal;font-size:11.3267px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.283169"
+           id="g279">
           <path
-   inkscape:connector-curvature="0"
-   d="m 83.686807,27.676067 2.050895,-5.920111 2.029752,5.920111 h 2.516048 L 93.349273,17.485019 H 90.262358 L 88.803474,23.46856 87.027441,17.485019 H 84.42682 l -1.776033,5.983541 -1.458884,-5.983541 h -3.086915 l 3.065771,10.191048 z"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1433px;font-family:'Journal Sans';-inkscape-font-specification:'Journal Sans Bold';stroke-width:0.283169"
-   id="path279" />
-
+             inkscape:connector-curvature="0"
+             d="m 83.686807,27.676067 2.050895,-5.920111 2.029752,5.920111 h 2.516048 L 93.349273,17.485019 H 90.262358 L 88.803474,23.46856 87.027441,17.485019 H 84.42682 l -1.776033,5.983541 -1.458884,-5.983541 h -3.086915 l 3.065771,10.191048 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1433px;font-family:'Journal Sans';-inkscape-font-specification:'Journal Sans Bold';stroke-width:0.283169"
+             id="path279" />
         </g>
-
         <g
-   aria-label="w"
-   transform="scale(1.0726655,0.93225707)"
-   style="font-style:normal;font-weight:normal;font-size:11.3524px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.283809"
-   id="g280">
+           aria-label="w"
+           transform="scale(1.0726655,0.93225707)"
+           style="font-style:normal;font-weight:normal;font-size:11.3524px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.283809"
+           id="g280">
           <path
-   inkscape:connector-curvature="0"
-   d="m 84.182436,17.274492 1.358123,-3.920354 1.344121,3.920354 h 1.666151 l 2.030183,-6.748609 h -2.044185 l -0.966087,3.962358 -1.176106,-3.962358 H 84.67248 l -1.176106,3.962358 -0.966087,-3.962358 h -2.044185 l 2.030184,6.748609 z"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.0013px;font-family:'Journal Sans';-inkscape-font-specification:'Journal Sans Bold';stroke-width:0.283809"
-   id="path280" />
-
+             inkscape:connector-curvature="0"
+             d="m 84.182436,17.274492 1.358123,-3.920354 1.344121,3.920354 h 1.666151 l 2.030183,-6.748609 h -2.044185 l -0.966087,3.962358 -1.176106,-3.962358 H 84.67248 l -1.176106,3.962358 -0.966087,-3.962358 h -2.044185 l 2.030184,6.748609 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.0013px;font-family:'Journal Sans';-inkscape-font-specification:'Journal Sans Bold';stroke-width:0.283809"
+             id="path280" />
         </g>
-
       </g>
-
     </g>
   </g>
   <g
