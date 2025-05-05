@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="open-space-technology-back.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -648,12 +649,11 @@
            x="35.123047"
            y="324.91876"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan7">                 Appreciative Interviews           TRIZ</tspan><tspan
-           dx="0"
-           x="194.39949"
+           id="tspan7">             Appreciative Interviews</tspan><tspan
+           x="175.123047"
            y="324.91876"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan8" /></tspan><tspan
+           id="tspan8">TRIZ</tspan></tspan><tspan
          sodipodi:role="line"
          x="35.123047"
          y="335.85626"
@@ -777,7 +777,7 @@
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(0.47503174,0,0,0.47503174,87.187041,259.01817)"
+       transform="matrix(0.47503174,0,0,0.47503174,89.187041,259.01817)"
        style="display:inline;enable-background:new"
        inkscape:label="25to10crowdsourcing"
        id="layer17">

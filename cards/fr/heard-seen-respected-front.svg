@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="heard-seen-respected-front.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -614,7 +615,11 @@
            x="34.772278"
            y="311.06924"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan44">Troika Consulting           Relations Générarices </tspan></tspan><tspan
+           id="tspan44">Troika Consulting</tspan><tspan
+           x="120.772278"
+           y="311.06924"
+           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
+           id="tspan144">Relations Générarices</tspan></tspan><tspan
          sodipodi:role="line"
          x="34.772278"
          y="321.30417"
@@ -623,12 +628,7 @@
            x="34.772278"
            y="321.30417"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan46">Appreciative Interviews </tspan><tspan
-           dx="0"
-           x="127.81978"
-           y="321.30417"
-           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan47" /></tspan><tspan
+           id="tspan46">Appreciative Interviews</tspan></tspan><tspan
          sodipodi:role="line"
          x="34.772278"
          y="331.53909"
@@ -637,12 +637,11 @@
            x="34.772278"
            y="331.53909"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan49">Helping Heuristics            Conversation Cafe </tspan><tspan
-           dx="0"
-           x="198.4586"
+           id="tspan49">Helping Heuristics</tspan><tspan
+           x="124.772278"
            y="331.53909"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan50" /></tspan></text>
+           id="tspan50">Conversation Cafe</tspan></tspan></text>
     <g
        transform="matrix(0.44656191,0,0,0.44656191,79.34207,214.27033)"
        inkscape:label="troikaconsulting"

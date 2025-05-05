@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="troika-consulting-back.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -702,12 +703,7 @@
            x="35.123047"
            y="315.34375"
            style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
-           id="tspan53">Fonctionne avec</tspan><tspan
-           dx="0"
-           x="99.457764"
-           y="315.34375"
-           style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999"
-           id="tspan54" /></tspan><tspan
+           id="tspan53">Fonctionne avec</tspan></tspan><tspan
          sodipodi:role="line"
          x="35.123047"
          y="326.76251"
@@ -715,7 +711,11 @@
            x="35.123047"
            y="326.76251"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan56">Helping Heuristics              Neuf Pourquoi </tspan></tspan><tspan
+           id="tspan56">Helping Heuristics</tspan><tspan
+           x="128.123047"
+           y="326.76251"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan156">Neuf Pourquoi</tspan></tspan><tspan
          sodipodi:role="line"
          x="35.123047"
          y="337.70001"

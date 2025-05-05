@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="agreement-certainty-matrix-front.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -623,12 +624,7 @@
            x="34.599815"
            y="315.32925"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan47">Incertitudes Critiques             </tspan><tspan
-           dx="0"
-           x="140.2999"
-           y="315.32925"
-           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan48" /></tspan><tspan
+           id="tspan47">Incertitudes Critiques</tspan></tspan><tspan
          sodipodi:role="line"
          x="34.599815"
          y="325.56421"
@@ -637,7 +633,11 @@
            x="34.599815"
            y="325.56421"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan50">Purpose-To-Pratice         Ecocycle Planning          </tspan></tspan><tspan
+           id="tspan50">Purpose-To-Pratice</tspan><tspan
+           x="124.599815"
+           y="325.56421"
+           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
+           id="tspan150">Ecocycle Planning</tspan></tspan><tspan
          sodipodi:role="line"
          x="34.599815"
          y="335.79913"
@@ -646,7 +646,11 @@
            x="34.599815"
            y="335.79913"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan52">Panarchie          Autonomie intégrée</tspan></tspan></text>
+           id="tspan52">Panarchie</tspan><tspan
+           x="90.599815"
+           y="335.79913"
+           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
+           id="tspan152">Autonomie intégrée</tspan></tspan></text>
     <g
        transform="matrix(0.28991861,0,0,0.28991861,19.550266,290.63811)"
        inkscape:label="criticaluncertainties"

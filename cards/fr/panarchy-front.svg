@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="panarchy-front.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -669,12 +670,11 @@
            x="36.183342"
            y="311.06891"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan47">Ecocycle Planning              1-2-4-Tous </tspan><tspan
-           dx="0"
-           x="171.24846"
+           id="tspan47">Ecocycle Planning</tspan><tspan
+           x="127.183342"
            y="311.06891"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan48" /></tspan><tspan
+           id="tspan48">1-2-4-Tous</tspan></tspan><tspan
          sodipodi:role="line"
          x="36.183342"
          y="321.30383"
@@ -683,12 +683,7 @@
            x="36.183342"
            y="321.30383"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan50">Ce que j'Attends de Vous</tspan><tspan
-           dx="0"
-           x="130.35959"
-           y="321.30383"
-           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan51" /></tspan><tspan
+           id="tspan50">Ce que j'Attends de Vous</tspan></tspan><tspan
          sodipodi:role="line"
          x="36.183342"
          y="331.53876"
@@ -697,12 +692,7 @@
            x="36.183342"
            y="331.53876"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan53">Social Network Webbing</tspan><tspan
-           dx="0"
-           x="130.92836"
-           y="331.53876"
-           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan54" /></tspan><tspan
+           id="tspan53">Social Network Webbing</tspan></tspan><tspan
          sodipodi:role="line"
          x="36.183342"
          y="341.77368"
@@ -711,12 +701,7 @@
            x="36.183342"
            y="341.77368"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan56">Celebrity Interview </tspan><tspan
-           dx="0"
-           x="112.29958"
-           y="341.77368"
-           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan57" /></tspan></text>
+           id="tspan56">Celebrity Interview</tspan></tspan></text>
     <g
        style="display:inline;enable-background:new"
        transform="matrix(0.44391795,0,0,0.44391798,-60.33731,255.02428)"

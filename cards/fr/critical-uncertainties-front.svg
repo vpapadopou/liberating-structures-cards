@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="critical-uncertainties-front.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -593,12 +594,11 @@
            x="34.188255"
            y="308.25586"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan44">Conversation cafe           Purpose-To-Pratice</tspan><tspan
-           dx="0"
-           x="195.56458"
+           id="tspan44">Conversation cafe</tspan><tspan
+           x="118.188255"
            y="308.25586"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan45" /></tspan><tspan
+           id="tspan45">Purpose-To-Pratice</tspan></tspan><tspan
          sodipodi:role="line"
          x="34.188255"
          y="318.49078"
@@ -607,12 +607,11 @@
            x="34.188255"
            y="318.49078"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan47">Ce que j'Attends de Vous          Min Specs</tspan><tspan
-           dx="0"
-           x="184.0321"
+           id="tspan47">Ce que j'Attends de Vous</tspan><tspan
+           x="144.188255"
            y="318.49078"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan48" /></tspan><tspan
+           id="tspan48">Min Specs</tspan></tspan><tspan
          sodipodi:role="line"
          x="34.188255"
          y="328.72571"
@@ -621,12 +620,7 @@
            x="34.188255"
            y="328.72571"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan50">Open Space Technology          </tspan><tspan
-           dx="0"
-           x="141.8571"
-           y="328.72571"
-           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan51" /></tspan><tspan
+           id="tspan50">Open Space Technology</tspan></tspan><tspan
          sodipodi:role="line"
          x="34.188255"
          y="338.96063"
@@ -635,14 +629,9 @@
            x="34.188255"
            y="338.96063"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan53">Questions Percutantes</tspan><tspan
-           dx="0"
-           x="121.627"
-           y="338.96063"
-           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan54" /></tspan></text>
+           id="tspan53">Questions Percutantes</tspan></tspan></text>
     <g
-       transform="matrix(0.31624165,0,0,0.31624168,29.877879,309.21381)"
+       transform="matrix(0.31624165,0,0,0.31624168,31.877879,309.21381)"
        inkscape:label="openspace"
        id="g81"
        style="display:inline;enable-background:new">
@@ -714,7 +703,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.56399815,0,0,0.56399811,-42.5802,307.07094)"
+       transform="matrix(0.56399815,0,0,0.56399811,-40.5802,307.07094)"
        inkscape:label="whatineedfromyou"
        id="layer19"
        style="display:inline;enable-background:new">

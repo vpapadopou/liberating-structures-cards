@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="wise-crowds-back.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -693,7 +694,11 @@
            x="36.998047"
            y="300.51251"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan4">Helping Heuristics       + Entendu, Vu, Respecté </tspan></tspan><tspan
+           id="tspan4">Helping Heuristics</tspan><tspan
+           x="119.998047"
+           y="300.51251"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan4">+ Entendu, Vu, Respecté</tspan></tspan><tspan
          sodipodi:role="line"
          x="36.998047"
          y="311.45001"
@@ -701,12 +706,11 @@
            x="36.998047"
            y="311.45001"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan6">Neuf Pourquoi          Troïka Consulting</tspan><tspan
-           dx="0"
-           x="177.19063"
+           id="tspan6">Neuf Pourquoi</tspan><tspan
+           x="108.998047"
            y="311.45001"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan7" /></tspan><tspan
+           id="tspan7">Troïka Consulting</tspan></tspan><tspan
          sodipodi:role="line"
          x="36.998047"
          y="322.38751"
@@ -714,12 +718,7 @@
            x="36.998047"
            y="322.38751"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan9">Ce que j'Attends de Vous </tspan><tspan
-           dx="0"
-           x="132.86307"
-           y="322.38751"
-           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan10" /></tspan><tspan
+           id="tspan9">Ce que j'Attends de Vous</tspan></tspan><tspan
          sodipodi:role="line"
          x="36.998047"
          y="333.32501"
@@ -947,7 +946,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.63972963,0,0,0.63972958,-61.793791,308.97943)"
+       transform="matrix(0.63972963,0,0,0.63972958,-59.793791,308.97943)"
        inkscape:label="whatineedfromyou"
        id="layer19"
        style="display:inline;enable-background:new">

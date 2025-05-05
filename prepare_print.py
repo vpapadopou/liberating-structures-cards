@@ -1,7 +1,6 @@
 from xml.etree import ElementTree as ET
 from os import listdir, path, makedirs, remove
-import cairosvg
-from pypdf import PdfWriter
+import subprocess
 
 import separe_id
 import svg_page
@@ -107,20 +106,18 @@ def to_pdf(lang_to, label_size):
     path_in: str = f"print/{lang_to}/{label_size}/"
     path_pdf: str = f"print/{lang_to}/"
     pdf_file = f"{path_pdf}print-{label_size.lower().replace(' ', '-')}.pdf"
-    with PdfWriter() as merger:
-        for num in range(1, 10):
-            svg_file = (
-                f"{path_in}print-{label_size.lower().replace(' ', '-')}-page{num}.svg"
-            )
-            pdf = f"{pdf_file[:-4]}{num}.pdf"
-            cairosvg.svg2pdf(url=svg_file, write_to=pdf)
-            merger.append(pdf)
-            remove(pdf)
-        merger.write(pdf_file)
+    subprocess.run(
+        [
+            "c:/tools/Inkscape/bin/inkscape",
+            f"{path_in}print-{label_size.lower().replace(' ', '-')}-full.svg",
+            "--export-type=pdf",
+            "--export-filename",
+            pdf_file,
+        ]
+    )
 
 
 if __name__ == "__main__":
     # Choose your language here en, fr, es, ... and size A4 or US Letter.
-    prepare_svg_print("en", "A4")
-    # Export pdf have some difficulties with logo
-    # to_pdf("fr", "A4")
+    prepare_svg_print("fr", "A4")
+    to_pdf("fr", "A4")

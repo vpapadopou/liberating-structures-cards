@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="nine-whys-back.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -672,7 +673,7 @@
            x="34.654297"
            y="321.03641"
            style="font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan4">Purpose-To-Practice        </tspan><tspan
+           id="tspan4">Purpose-To-Practice</tspan><tspan
            dx="0"
            x="125.77689"
            y="321.03641"
@@ -685,12 +686,11 @@
            x="34.654297"
            y="332.14999"
            style="font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan8">Relations Génératrices           Wise Crowds</tspan><tspan
-           dx="0"
-           x="191.60313"
+           id="tspan8">Relations Génératrices</tspan><tspan
+           x="140.654297"
            y="332.14999"
            style="font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan9" /></tspan><tspan
+           id="tspan9">Wise Crowds</tspan></tspan><tspan
          sodipodi:role="line"
          x="34.654297"
          y="343.26358"

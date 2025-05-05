@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="15-percent-solutions-back.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -444,16 +445,6 @@
            id="tspan20" /></tspan><tspan
          sodipodi:role="line"
          x="40.748047"
-         y="154.64336"
-         id="tspan24"><tspan
-           x="40.748047"
-           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan22"> </tspan><tspan
-           dx="1.6887569"
-           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan23" /></tspan><tspan
-         sodipodi:role="line"
-         x="40.748047"
          y="165.58086"
          id="tspan26"><tspan
            x="40.748047"
@@ -624,12 +615,12 @@
            x="40.748047"
            y="305.27139"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan4">Troïka Consulting           Wise Crowds</tspan><tspan
+           id="tspan4">Troïka Consulting</tspan><tspan
            dx="0"
-           x="177.59813"
+           x="127.59813"
            y="305.27139"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan5" /></tspan><tspan
+           id="tspan5">Wise Crowds</tspan></tspan><tspan
          sodipodi:role="line"
          x="40.748047"
          y="316.20889"
@@ -637,12 +628,7 @@
            x="40.748047"
            y="316.20889"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan7">Open Space Technology </tspan><tspan
-           dx="0"
-           x="133.21809"
-           y="316.20889"
-           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan8" /></tspan><tspan
+           id="tspan7">Open Space Technology</tspan></tspan><tspan
          sodipodi:role="line"
          x="40.748047"
          y="327.14639"
@@ -650,7 +636,11 @@
            x="40.748047"
            y="327.14639"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan10">Autonomie intégrée           Helping Heuristics</tspan></tspan></text>
+           id="tspan10">Autonomie intégrée</tspan><tspan
+           x="135.748047"
+           y="327.14639"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan24">Helping Heuristics</tspan></tspan></text>
     <g
        transform="matrix(0.26415292,0,0,0.26415292,23.307628,316.93541)"
        inkscape:label="integratedautonomy"

@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="1-2-4-all-back.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -676,12 +677,11 @@
            x="40.748047"
            y="315.89975"
            style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan47">Design Storyboards            Improv Prototyping</tspan><tspan
-           dx="0"
-           x="211.59183"
+           id="tspan47">Design Storyboards</tspan><tspan
+           x="135.748047"
            y="315.89975"
            style="font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan48" /></tspan><tspan
+           id="tspan48">Improv Prototyping</tspan></tspan><tspan
          sodipodi:role="line"
          x="40.748047"
          y="329.69974"

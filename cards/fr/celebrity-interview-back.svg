@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="celebrity-interview-back.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -636,12 +637,7 @@
            x="35.123047"
            y="306.13751"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan4">Expérience Utilisateur        </tspan><tspan
-           dx="0"
-           x="133.9631"
-           y="306.13751"
-           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan5" /></tspan><tspan
+           id="tspan4">Expérience Utilisateur</tspan></tspan><tspan
          sodipodi:role="line"
          x="35.123047"
          y="317.07501"
@@ -649,12 +645,7 @@
            x="35.123047"
            y="317.07501"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan7">Open Space Technologie           </tspan><tspan
-           dx="0"
-           x="146.82567"
-           y="317.07501"
-           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan8" /></tspan><tspan
+           id="tspan7">Open Space Technologie</tspan></tspan><tspan
          sodipodi:role="line"
          x="35.123047"
          y="328.01251"
@@ -675,22 +666,9 @@
            x="35.123047"
            y="338.95001"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan13">Ce que j'Attends de Vous </tspan><tspan
-           dx="0"
-           x="130.98807"
-           y="338.95001"
-           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan14" /></tspan><tspan
-         sodipodi:role="line"
-         x="35.123047"
-         y="349.88751"
-         id="tspan17"><tspan
-           x="35.123047"
-           y="349.88751"
-           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan16"> </tspan></tspan></text>
+           id="tspan13">Ce que j'Attends de Vous</tspan></tspan></text>
     <g
-       transform="matrix(0.33732443,0,0,0.33732446,29.150979,295.88077)"
+       transform="matrix(0.33732443,0,0,0.33732446,31.150979,295.88077)"
        inkscape:label="openspace"
        id="g81"
        style="display:inline;enable-background:new">
@@ -712,7 +690,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.50538635,0,0,0.50538627,20.900851,194.72094)"
+       transform="matrix(0.50538635,0,0,0.50538627,22.900851,194.72094)"
        inkscape:label="userexperiencefishbowl"
        id="layer24"
        style="display:inline">
@@ -736,7 +714,7 @@
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(0.68237827,0,0,0.68237822,-75.663381,326.07806)"
+       transform="matrix(0.68237827,0,0,0.68237822,-73.663381,326.07806)"
        inkscape:label="whatineedfromyou"
        id="layer19"
        style="display:inline">
@@ -756,7 +734,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.35658661,0,0,0.35658661,130.37575,303.30379)"
+       transform="matrix(0.35658661,0,0,0.35658661,132.37575,303.30379)"
        inkscape:label="dad"
        id="layer13"
        style="display:inline">

@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="user-experience-fishbowl-back.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -729,7 +730,11 @@
            x="35.123047"
            y="322.54376"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan6">Improv Prototyping         25/10 Crowd Sourcing            </tspan></tspan><tspan
+           id="tspan6">Improv Prototyping</tspan><tspan
+           x="125.123047"
+           y="322.54376"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan106">25/10 Crowd Sourcing</tspan></tspan><tspan
          sodipodi:role="line"
          x="35.123047"
          y="333.48126"
@@ -737,7 +742,11 @@
            x="35.123047"
            y="333.48126"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan8">Ecocycle Planning             Simple Ethnography                </tspan></tspan><tspan
+           id="tspan8">Ecocycle Planning</tspan><tspan
+           x="125.123047"
+           y="333.48126"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan108">Simple Ethnography</tspan></tspan><tspan
          sodipodi:role="line"
          x="35.123047"
          y="344.41876"

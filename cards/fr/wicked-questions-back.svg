@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="wicked-questions-back.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -661,7 +662,11 @@
            x="36.998047"
            y="320.76251"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan4">Improv Prototyping          Ecocycle Planning </tspan></tspan><tspan
+           id="tspan4">Improv Prototyping</tspan><tspan
+           x="128.998047"
+           y="320.76251"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan4">Ecocycle Planning</tspan></tspan><tspan
          sodipodi:role="line"
          x="36.998047"
          y="331.70001"
@@ -669,7 +674,11 @@
            x="36.998047"
            y="331.70001"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan7">25/10 Crowd Sourcing             15% Solutions </tspan></tspan><tspan
+           id="tspan7">25/10 Crowd Sourcing</tspan><tspan
+           x="144.998047"
+           y="331.70001"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan7">15% Solutions</tspan></tspan><tspan
          sodipodi:role="line"
          x="36.998047"
          y="342.63751"
@@ -763,7 +772,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.44534226,0,0,0.44534226,65.419492,259.55805)"
+       transform="matrix(0.44534226,0,0,0.44534226,66.419492,259.55805)"
        style="display:inline;enable-background:new"
        inkscape:label="25to10crowdsourcing"
        id="g1159">

@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="ecocycle-planning-front.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -648,12 +649,11 @@
            x="34.301922"
            y="330.13644"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan48">Panarchie          1-2-4-Tous</tspan><tspan
-           dx="0"
-           x="130.67451"
+           id="tspan48">Panarchie</tspan><tspan
+           x="87.301922"
            y="330.13644"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan49" /></tspan><tspan
+           id="tspan49">1-2-4-Tous</tspan></tspan><tspan
          sodipodi:role="line"
          x="34.301922"
          y="340.37137"
@@ -662,12 +662,11 @@
            x="34.301922"
            y="340.37137"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan51">Ce que j'Attends de Vous          Open Space  </tspan><tspan
-           dx="0"
-           x="194.26952"
+           id="tspan51">Ce que j'Attends de Vous</tspan><tspan
+           x="144.301922"
            y="340.37137"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan52" /></tspan></text>
+           id="tspan52">Open Space</tspan></tspan></text>
     <g
        transform="matrix(0.23724228,0,0,0.23724228,-7.9196518,288.52757)"
        inkscape:label="panarchy"
@@ -777,7 +776,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.63972963,0,0,0.63972958,-65.075039,330.54193)"
+       transform="matrix(0.63972963,0,0,0.63972958,-63.175039,330.54193)"
        inkscape:label="whatineedfromyou"
        id="layer19"
        style="display:inline;enable-background:new">

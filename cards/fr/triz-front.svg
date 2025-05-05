@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="triz-front.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -479,32 +480,13 @@
            id="tspan24" /></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
-         y="258.41739"
-         id="tspan28"
-         style="stroke-width:1.00342px"><tspan
-           x="40.886887"
-           y="258.41739"
-           style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan26"> </tspan><tspan
-           dx="0"
-           x="42.575642"
-           y="258.41739"
-           style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan27" /></tspan><tspan
-         sodipodi:role="line"
-         x="40.886887"
          y="268.87366"
          id="tspan31"
          style="stroke-width:1.00342px"><tspan
            x="40.886887"
            y="268.87366"
            style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;stroke-width:1.00342px"
-           id="tspan29">Fonctionne avec</tspan><tspan
-           dx="0"
-           x="105.22159"
-           y="268.87366"
-           style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;stroke-width:1.00342px"
-           id="tspan30" /></tspan><tspan
+           id="tspan29">Fonctionne avec</tspan></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
          y="280.29239"
@@ -513,12 +495,11 @@
            x="40.886887"
            y="280.29239"
            style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan32">Ecocycle Planning             Troika Consulting </tspan><tspan
-           dx="0"
-           x="200.21574"
+           id="tspan32">Ecocycle Planning</tspan><tspan
+           x="130.886887"
            y="280.29239"
            style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan33" /></tspan><tspan
+           id="tspan32">Troika Consulting</tspan></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
          y="291.22989"
@@ -527,7 +508,7 @@
            x="40.886887"
            y="291.22989"
            style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan35">Wise Crowds             </tspan><tspan
+           id="tspan35">Wise Crowds</tspan><tspan
            dx="0"
            x="113.84447"
            y="291.22989"
@@ -653,7 +634,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.33732443,0,0,0.33732446,30.557224,280.88076)"
+       transform="matrix(0.33732443,0,0,0.33732446,32.557224,280.88076)"
        inkscape:label="openspace"
        id="layer36"
        style="display:inline;enable-background:new">

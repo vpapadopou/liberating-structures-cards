@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="min-specs-back.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -674,7 +675,11 @@
            x="36.998047"
            y="331.89694"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan4">Simple Ethnography          Neuf Pourquoi</tspan></tspan></text>
+           id="tspan4">Simple Ethnography</tspan><tspan
+           x="130.998047"
+           y="331.89694"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan54">Neuf Pourquoi</tspan></tspan></text>
     <g
        transform="matrix(0.42640627,0,0,0.42640627,186.82592,237.41087)"
        style="display:inline"

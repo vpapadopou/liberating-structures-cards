@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="297mm" height="210mm" 
 viewBox="0 0 1122.5197 793.70081" version="1.1" id="svg1"
+style="background-color:white"
 xml:space="preserve" inkscape:version="1.3 (0e150ed6c4, 2023-07-21)" sodipodi:docname="print-a4-page5.svg"
 xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
 xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -9,7 +10,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink"
 xmlns="http://www.w3.org/2000/svg"
 xmlns:svg="http://www.w3.org/2000/svg">
 <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25"
- inkscape:showpageshadow="2"  inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0"
+inkscape:showpageshadow="2"  inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0"
 inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="0.73142761" inkscape:cx="678.12589"
 inkscape:cy="461.42639" inkscape:window-width="1920" inkscape:window-height="1017" inkscape:window-x="-8"
 inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="layer1" />
@@ -377,7 +378,7 @@ matrix(1,0,0,1,466.46208,390.78546)
   </g>
   <g inkscape:groupmode="layer" id="layer10" inkscape:label="String With" style="display:inline" sodipodi:insensitive="true">
     <path style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 40.748032,269.28162 v 70.87586 H 221.45669 v -70.87586 z" id="path4343_msb" inkscape:connector-curvature="0" />
-    <text xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="36.998047" y="320.47818" id="text5"><tspan sodipodi:role="line" x="36.998047" y="320.47818" id="tspan3"><tspan x="36.998047" y="320.47818" style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999" id="tspan1">Fonctionne avec</tspan><tspan dx="0" x="101.33276" y="320.47818" style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999" id="tspan2" /></tspan><tspan sodipodi:role="line" x="36.998047" y="331.89694" id="tspan5"><tspan x="36.998047" y="331.89694" style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a" id="tspan4">Simple Ethnography          Neuf Pourquoi</tspan></tspan></text>
+    <text xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="36.998047" y="320.47818" id="text5"><tspan sodipodi:role="line" x="36.998047" y="320.47818" id="tspan3"><tspan x="36.998047" y="320.47818" style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999" id="tspan1">Fonctionne avec</tspan><tspan dx="0" x="101.33276" y="320.47818" style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999" id="tspan2" /></tspan><tspan sodipodi:role="line" x="36.998047" y="331.89694" id="tspan5"><tspan x="36.998047" y="331.89694" style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a" id="tspan4">Simple Ethnography</tspan><tspan x="130.998047" y="331.89694" style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a" id="tspan54">Neuf Pourquoi</tspan></tspan></text>
     <g transform="matrix(0.42640627,0,0,0.42640627,186.82592,237.41087)" style="display:inline" inkscape:label="9whys" id="layer4-6">
       <g id="g4631">
         <circle style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path4619" cx="18.34137" cy="210.97716" r="6.3142428" />

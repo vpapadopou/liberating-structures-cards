@@ -8,6 +8,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="helping-heuristics-front.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -609,12 +610,11 @@
            x="40.886887"
            y="313.91379"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan40">Troika Consulting          Wise Crowds</tspan><tspan
-           dx="0"
-           x="176.0482"
+           id="tspan40">Troika Consulting</tspan><tspan
+           x="124.886887"
            y="313.91379"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan41" /></tspan><tspan
+           id="tspan41">Wise Crowds</tspan></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
          y="324.14871"
@@ -623,12 +623,7 @@
            x="40.886887"
            y="324.14871"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan43">Ce que j'Attends de Vous </tspan><tspan
-           dx="0"
-           x="136.75189"
-           y="324.14871"
-           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan44" /></tspan><tspan
+           id="tspan43">Ce que j'Attends de Vous</tspan></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
          y="334.38364"
@@ -637,7 +632,11 @@
            x="40.886887"
            y="334.38364"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan46">Improv Prototyping           Simple Ethnography</tspan></tspan></text>
+           id="tspan46">Improv Prototyping</tspan><tspan
+           x="133.886887"
+           y="334.38364"
+           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
+           id="tspan61">Simple Ethnography</tspan></tspan></text>
     <g
        transform="matrix(0.24763427,0,0,0.24763427,136.82195,282.25562)"
        inkscape:label="simpleethnography"
