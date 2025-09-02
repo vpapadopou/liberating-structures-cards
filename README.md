@@ -27,6 +27,11 @@ Use 160gsm paper for best experience. If you can't normal 80gsm paper should wor
 
 Normally you should **turn off** any "Fit to Page" option and select "Actual Size" when printing to print the cards in the intended size. If however that does not work for you (maybe part of the card is trimmed), you should be able to select "Fit to Page" and print the cards without problems. They will be a bit smaller, but that should not affect the overall experience.
 
+## Web Version
+
+You can find a prototype web version of the card deck here: [https://vpapadopou.github.io/ls-cards-online/](https://vpapadopou.github.io/ls-cards-online/)
+
+Useful when you are on the go and don't have the cards with you.
 
 ## Attribution
 
